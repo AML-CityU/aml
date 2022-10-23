@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "AML Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,34 +8,45 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+AML Lab is a research group in School of Data Science at the City University of Hong Kong (CityU), which is ranked #53 in QS World University Rankings 2022.
 
-We are  looking for new group members with passion, talent, and grit!
+We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA and Visiting positions who are interested in pursuing data mining and machine learning research and applications, especially
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+- Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
+- Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
+- Deep Reinforcement Learning, Automated Machine Learning, Graph Learning, Trustworthy AI, and Multimodal
+- AI for Social Computing, Finance, Education, Ecosystem, and Healthcare
 
-### Past open positions
+## PhD Applications [[Link](https://www.sdsc.cityu.edu.hk/programmes/postgraduate-programmes/phd-programme-data-science)]
+(We have positions for 23 Spring and Fall)
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+If you are interested in working with me, please first contact me at: [email](mailto:xy.zhao@cityu.edu.hk).
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+- Please highlight your **BS's Average Score/100** and **TOEFL/IELTS**, since CityU has specific requirements
+- Please provide your publications, national award, homepage link, research projects/interns, ranking, etc
+- Please attach your CV/Resume, and Transcripts of BS/MS programmes
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+Exceptionally qualified students are encouraged to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) by Dec 1, with scholarship HK$26,900/month, travel allowance HK$13,500/year, free tuition and on-campus hostel. Official evaluation criteria include GPA, national award, English, publication, recommendation letter, overseas study/visiting experience, etc.
+
+Self-financed and Part-time PhD positions are available year round.
+
+## Joint PhD Positions 
+(双一流A类+国科大+南科大 准备读博/转博/博一二学生)
+
+You are welcomed to apply the [CityU Joint Ph.D. programme](http://www.cityu.edu.hk/pol/joint_phd.htm). You can obtain the CityU’s PhD degree simultaneously within the same normal year of study. There is no financial cost from students, and you will get a scholarship of HK$17,500/month during CityU. Please prepare your English test (TOEFL 79 or IELTS 6.5), and submit application to your home university in Dec every year.
+
+欢迎申请[CityU联合培养博士项目](http://www.cityu.edu.hk/pol/joint_phd.htm)，可以同时获得CityU博士学位，**是留学基金委认可的海外学位，享受留学生各类福利，如人才引进政策等**。学生无需支付任何费用，在CityU期间每月获发奖学金17500+港币。请在12月16日向你所在学校(学院、研究生院)提交申请，需要英语成绩托福79或雅思6.5。部分高校可在次年2月提交英语成绩。请在联系我之前确认本校导师支持申请 (<u>注：部分高校本项目不占导师原有的博士指标</u>)。
+
+## Postdoc, RA and Visiting Positions
+I am actively recruiting self-motivated Postdocs. Qualified candidates are encouraged to apply the RGC Postdoctoral Fellowship Scheme (PDFS) by Sep 26, with basic salary HK$406,550/year and travel allowance HK$12,920/year.
+
+Master's and Bachelor's students at CityU who intent to work with me, please contact me as earliest due to the limited positions per year. ML knowledge, Python coding and English writing experience is desirable.
+
+Visiting research students & scholars positions are available year around.
+
+Onsite and Online RA positions are available for excellent students (preferably >= 6 months).
+
+***
+<u>Due to the high volume of the emails, I may not be able to reply to each individual of them.</u>
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
