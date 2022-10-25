@@ -1,7 +1,7 @@
 ---
-title: "AML Lab"
+title: "AML Lab - AOA"
 layout: textlay
-excerpt: "AML"
+excerpt: "AOA"
 sitemap: false
 permalink: /aoa.html
 ---

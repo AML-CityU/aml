@@ -1,7 +1,7 @@
 ---
-title: "Applied Machine Learning Lab - Home"
+title: "AML Lab - Home"
 layout: homelay
-excerpt: "AML Lab at City University of Hong Kong."
+excerpt: "Applied Machine Learning Lab at City University of Hong Kong."
 sitemap: false
 permalink: /
 ---

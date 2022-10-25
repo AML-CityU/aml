@@ -1,7 +1,7 @@
 ---
 title: "AML Lab - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "AML Lab -- Vacancies"
 sitemap: false
 permalink: /vacancies
 ---
