@@ -584,7 +584,7 @@ Jump to [Advisors](#Advisors), [PhD students](#PhD-students), [MS Students](#MS-
 <div class="row">
 <div class="col-sm-4 clearfix">
 {% for member in site.data.visitors %}
-{{ member.name }}: {{ member.info }}
+{{ member.name }}:   {{ member.info }}
 {% endfor %}
 </div>
 
