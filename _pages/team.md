@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Advisors](#Advisors), [PhD students](#PhD-students), [MS Students](#MS-Students), [lab visitors](#Former-visitors,-Close-collaborators).
+Jump to [Advisors](#Advisors), [PhD students](#PhD-students), [MS Students](#MS-Students), [lab visitors and close collaborators](#Lab-visitors-and-close-collaborators).
 
 ## Advisors
 {% assign number_printed = 0 %}
@@ -580,10 +580,10 @@ Jump to [Advisors](#Advisors), [PhD students](#PhD-students), [MS Students](#MS-
 
 [//]: # ({% endif %})
 
-## Former visitors, Close collaborators
+## Lab visitors and close collaborators
 <div class="row">
 <div class="col-sm-4 clearfix">
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.visitors %}
 {{ member.name }}: {{ member.info }}
 {% endfor %}
 </div>
