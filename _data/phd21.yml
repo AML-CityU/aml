@@ -1,24 +1,25 @@
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
+- name: Maolin Wang
+  photo:
+  info: PhD with CUHK, Prof Junhui Wang, and Dr Ruocheng Guo
+  email: Morin.wang@my.cityu.edu.hk
+  number_educ: 0
+- name: Xiao Han
+  photo:
+  info: PhD with USYD, Prof Dingxuan Zhou
+  email: xhan49-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Zijian Zhang
+  photo:
+  info: PhD joint with JLU, Prof Hongwei Zhao
+  email: zijian.zhang@my.cityu.edu.hk
+  number_educ: 0
+- name: Wei Ni
+  photo:
+  info: PhD joint with ZJU, Prof Xiaoye Miao
+  email: 12121061@zju.edu.cn
+  number_educ: 0
+- name: Qidong Liu
+  photo:
+  info: PhD joint with XJTU, Prof Feng Tian
+  email: qidongliu2-c@my.cityu.edu.hk
+  number_educ: 0

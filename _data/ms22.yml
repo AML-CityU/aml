@@ -1,24 +1,35 @@
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
+- name: Chengxi Li
+  photo:
+  info:
+  email: chengxli5-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiaxi Hu
+  photo:
+  info:
+  email: jiaxihu2-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Yutian Xiao
+  photo:
+  info:
+  email: yutiaxiao2-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Tong Wu
+  photo:
+  info:
+  email: twu274-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Qian Ma
+  photo:
+  info:
+  email: qma233-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Kecheng Chen
+  photo:
+  info:
+  email: kechechen4-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiaocong Wang
+  photo:
+  info:
+  email: jiaocwang2-c@my.cityu.edu.hk
+  number_educ: 0

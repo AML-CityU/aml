@@ -1,24 +1,25 @@
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
-- name: Xiangyu Zhao
-  photo: xiangyu.png
-  info: Assistant Professor
-  email: xianzhao@cityu.edu.hk
-  number_educ: 3
-  education1: BEng (University of Electronic Science and Technology of China)
-  education2: MSc (University of Science and Technology of China)
-  education3: PhD (Michigan State University)
+- name: Yejing Wang
+  photo:
+  info:
+  email: yejing.wang@my.cityu.edu.hk
+  number_educ: 1
+  education1: BS from USTC, School of Gifted Young
+  education2:
+- name: Jingtong Gao
+  photo:
+  info:
+  email: jt.g@my.cityu.edu.hk
+  number_educ: 2
+  education1: BS from BUAA
+  education2: MS from NTU
+- name: Yuhao Wang
+  photo:
+  info:
+  email: yhwang25-c@my.cityu.edu.hk
+  number_educ: 1
+  education1: BS from XJTU
+- name: Yuanshao Zhu
+  photo:
+  info: PhD joint with SusTech, Prof Jianqiao Yu
+  email: yuanshzhu2-c@my.cityu.edu.hk
+  number_educ: 0
