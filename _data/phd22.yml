@@ -1,25 +1,25 @@
 - name: Yejing Wang
-  photo:
+  photo: yejingwang.jpg
   info:
   email: yejing.wang@my.cityu.edu.hk
   number_educ: 1
   education1: BS from USTC, School of Gifted Young
   education2:
 - name: Jingtong Gao
-  photo:
+  photo: jingtonggao.jpg
   info:
   email: jt.g@my.cityu.edu.hk
   number_educ: 2
   education1: BS from BUAA
   education2: MS from NTU
 - name: Yuhao Wang
-  photo:
+  photo: yuhaowang.jpg
   info:
   email: yhwang25-c@my.cityu.edu.hk
   number_educ: 1
   education1: BS from XJTU
 - name: Yuanshao Zhu
-  photo:
+  photo: yuanshaozhu.jpg
   info: PhD joint with SusTech, Prof Jianqiao Yu
   email: yuanshzhu2-c@my.cityu.edu.hk
   number_educ: 0
