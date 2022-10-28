@@ -75,7 +75,7 @@ Jump to [Advisors](#advisors), [PhD students](#phd-students), [MS Students](#ms-
 </div>
 {% endif %}
 
-
+***
 
 ## PhD Students
 
@@ -277,6 +277,8 @@ Jump to [Advisors](#advisors), [PhD students](#phd-students), [MS Students](#ms-
 </div>
 {% endif %}
 
+***
+
 ## MS Students
 
 ### Enrollment Date: 2021
@@ -410,6 +412,18 @@ Jump to [Advisors](#advisors), [PhD students](#phd-students), [MS Students](#ms-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+***
+
+## Lab visitors and close collaborators
+<div class="row">
+<div class="col-sm-4 clearfix">
+{% for member in site.data.visitors %}
+{{ member.name }}:   {{ member.info }}
+{% endfor %}
+</div>
+
+</div>
 
 [//]: # (## Undergraduate Students)
 
@@ -580,12 +594,3 @@ Jump to [Advisors](#advisors), [PhD students](#phd-students), [MS Students](#ms-
 
 [//]: # ({% endif %})
 
-## Lab visitors and close collaborators
-<div class="row">
-<div class="col-sm-4 clearfix">
-{% for member in site.data.visitors %}
-{{ member.name }}:   {{ member.info }}
-{% endfor %}
-</div>
-
-</div>
