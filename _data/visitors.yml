@@ -1,23 +1,56 @@
 - name: Zhi Zheng
+  photo: zhizheng.jpg
   info: PhD at USTC, with Prof Tong Xu
+  email:
+  number_educ: 0
 - name: Haoran Yang
+  photo: haoranyang.jpg
   info: PhD at UTS, with Prof Guandong Xu
+  email: haoran.yang-2@student.uts.edu.au
+  number_educ: 0
 - name: Chi Zhang
+  photo: chizhang.jpg
   info: PhD at HEU, with Dr Rui Chen and Prof Qilong Han
+  email: zhangchi20@hrbeu.edu.cn
+  number_educ: 0
 - name: Xinhang Li
+  photo: xinhangli.jpg
   info: PhD at Tsinghua, with Prof Chunxiao Xing and Prof Yong Zhang
+  email: xh-li20@mails.tsinghua.edu.cn
+  number_educ: 0
 - name: Jialin Liu
+  photo: jialinliu.jpg
   info: PhD at UCAS, with Prof Jun Li and Dr Guocheng Guo
+  email: jLliu@cnic.cn
+  number_educ: 0
 - name: Chunxu Zhang
+  photo: chunxuzhang.jpg
   info: PhD at JLU
+  email: cxzhang19@mails.jlu.edu.cn
+  number_educ: 0
 - name: Jie Cai
+  photo: jiecai.jpg
   info: MS at Tsinghua, with Prof Wenwu Zhu
+  email: caij20@mails.tsinghua.edu.cn
+  number_educ: 0
 - name: Jiajun Zhou
+  photo: jiajunzhou.jpg
   info: MS at ZJUT, with Prof Qi Xuan
+  email: jjzhou1202@gmail.com
+  number_educ: 0
 - name: Yan Yang
+  photo: yanyang.jpg
   info: MS at ZJUT, with Prof Guojiang Shen
+  email:
+  number_educ: 0
 - name: Muyang Li
+  photo: muyangli.jpg
   info: BS at University of Auckland, RA in 2021, next position - PhD at USYD
+  email:
+  number_educ: 0
 - name: Chuan Lyu
+  photo: chuanlyu.jpg
   info: BS at ZJU, RA in 2021, next position - PhD at ZJU
+  email:
+  number_educ: 0
 
