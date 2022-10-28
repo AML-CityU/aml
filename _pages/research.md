@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 # Research
-
+**Our research focuses on the following four aspects:**
 - Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
   -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rec.jpg" class="img-responsive" width="50%" style="float: center" />
 - Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
