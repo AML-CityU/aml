@@ -9,7 +9,10 @@ permalink: /research/
 # Research
 
 - Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
-  -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rec.jpg" class="img-responsive" width="100%" style="float: center" />
+  -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rec.jpg" class="img-responsive" width="50%" style="float: center" />
 - Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
+  -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ubcom.jpg" class="img-responsive" width="50%" style="float: center" />
 - Deep Reinforcement Learning, Automated Machine Learning, Graph Learning, Trustworthy AI, and Multimodal
+  -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/drl.jpg" class="img-responsive" width="50%" style="float: center" />
 - AI for Social Computing, Finance, Education, Ecosystem, and Healthcare
+  -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ai.jpg" class="img-responsive" width="50%" style="float: center" />
