@@ -32,7 +32,7 @@ The **Applied Machine Learning Lab (AML Lab)** is a dynamic research group at th
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu1.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
