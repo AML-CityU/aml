@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-
+No pictures yet. We will update our activity photos in the future.
 [//]: # (Jump to: [Leiden]&#40;#leiden&#41;, [ETHZ]&#40;#ethz&#41;, [Cornell]&#40;#cornell&#41;, [St Andrews]&#40;#st-andrews&#41;)
 
 
