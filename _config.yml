@@ -10,7 +10,7 @@ title: The AML Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AML Lab.
-baseurl: "/aml"
+baseurl: ""
 url: ""
 
 include:
