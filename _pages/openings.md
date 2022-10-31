@@ -16,7 +16,6 @@ We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA a
 - Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
 - Deep Reinforcement Learning, Automated Machine Learning, Graph Learning, Trustworthy AI, and Multimodal
 - AI for Social Computing, Finance, Education, Ecosystem, and Healthcare
-Contact us via email: [[xy.zhao@cityu.edu.hk](mailto:xy.zhao@cityu.edu.hk)]
 
 ## PhD Applications [[Link](https://www.sdsc.cityu.edu.hk/programmes/postgraduate-programmes/phd-programme-data-science)]
 (We have positions for 23 Spring and Fall)
