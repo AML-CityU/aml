@@ -49,7 +49,7 @@ KDD'22, Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and
 Xiangyu Zhao, Xin Xin, Weinan Zhang, Li Zhao, Dawei Yin, Grace Hui Yang\
 SIGIR'22, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[Automated Machine Learning for Recommendations: Fundamentals and Advances]
+[Automated Machine Learning for Recommendations: Fundamentals and Advances](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:LGlY6t8CeOMC)\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
 WWW'22, Companion Proceedings of the Web Conference 2022
 
@@ -69,7 +69,7 @@ WWW'22, Proceedings of the ACM Web Conference 2022
 Muyang Li, Xiangyu Zhao, Chuan Lyu, Minghao Zhao, Runze Wu, Ruocheng Guo\
 IJCAI'22, Proceedings of the 31st International Joint Conference on Artificial Intelligence
 
-[Automated Machine Learning for Deep Recommender Systems: A Survey]
+[Automated Machine Learning for Deep Recommender Systems: A Survey](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:NMlhSUseqAsC)\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
 arXiv preprint arXiv:2204.01390
 
