@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/phd22.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/phd22.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teampic/maolinwang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/teampic/maolinwang.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teampic/xiaohan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/teampic/xiaohan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teampic/yuanshaozhu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/teampic/yuanshaozhu.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667244059953</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary=".">
+      <created>1667244601242</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244601242</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
