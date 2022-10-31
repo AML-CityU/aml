@@ -9,5 +9,14 @@ permalink: /allnews.html
 # News
 
 {% for article in site.data.news %}
-<p>{{ article.date }}</p>{{ article.headline }}
+
+{% if article.headline == "YEAR" %}
+  <h3><b>{{ article.date }}</b></h3>
+{% else %}
+  {{ article.date }}<br>
+  <div style="margin-left: 6px">
+  <em>{{ article.headline }}</em><br style="line-height: 20px" />
+  </div>
+{% endif %}
+
 {% endfor %}
