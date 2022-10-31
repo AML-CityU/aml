@@ -45,7 +45,7 @@ We are actively recruiting self-motivated Postdocs. Qualified candidates are enc
 
 Master's and Bachelor's students at CityU who intent to work with us, please contact us as earliest due to the limited positions per year. ML knowledge, Python coding and English writing experience is desirable.
 
-Visiting research students & scholars positions are available year around.
+[Visiting research students & scholars positions](https://www.cityu.edu.hk/pg/visiting/visiting-research-students) are available year around.
 
 Onsite and Online RA positions are available for excellent students (preferably >= 6 months).
 
