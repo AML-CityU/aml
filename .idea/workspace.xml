@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/teampic/xiangyuzhao.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/advisors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/advisors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/teampic/xiangyu.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667240728364</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=".">
+      <created>1667241574180</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667241574180</updated>
+    </task>
+    <task id="LOCAL-00023" summary=".">
+      <created>1667241578570</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667241578570</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
