@@ -1,25 +1,26 @@
 - name: Yejing Wang
   photo: yejingwang.jpg
-  info:
+  info: Join our lab in 2022
   email: yejing.wang@my.cityu.edu.hk
   number_educ: 1
   education1: BS from USTC, School of Gifted Young
   education2:
 - name: Jingtong Gao
   photo: jingtonggao.jpg
-  info:
+  info: Join our lab in 2022
   email: jt.g@my.cityu.edu.hk
   number_educ: 2
   education1: BS from BUAA
   education2: MS from NTU
 - name: Yuhao Wang
   photo: yuhaowang.jpg
-  info:
+  info: Join our lab in 2022
   email: yhwang25-c@my.cityu.edu.hk
   number_educ: 1
   education1: BS from XJTU
 - name: Yuanshao Zhu
   photo: yuanshaozhu.jpg
-  info: PhD joint with SusTech, Prof Jianqiao Yu
+  info: Join our lab in 2022
   email: yuanshzhu2-c@my.cityu.edu.hk
-  number_educ: 0
+  number_educ: 1
+  education1: PhD joint with SusTech, Prof Jianqiao Yu

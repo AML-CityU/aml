@@ -1,25 +1,30 @@
 - name: Maolin Wang
   photo: maolinwang.jpg
-  info: PhD with CUHK, Prof Junhui Wang, and Dr Ruocheng Guo
+  info: Join our lab in 2022
   email: Morin.wang@my.cityu.edu.hk
-  number_educ: 0
+  number_educ: 1
+  education1: PhD with CUHK, Prof Junhui Wang, and Dr Ruocheng Guo
 - name: Xiao Han
   photo: xiaohan.jpg
-  info: PhD with USYD, Prof Dingxuan Zhou
+  info: Join our lab in 2022
   email: xhan49-c@my.cityu.edu.hk
-  number_educ: 0
+  number_educ: 1
+  education1: PhD with USYD, Prof Dingxuan Zhou
 - name: Zijian Zhang
   photo: zijianzhang.jpg
-  info: PhD joint with JLU, Prof Hongwei Zhao
+  info: Join our lab in 2022
   email: zijian.zhang@my.cityu.edu.hk
-  number_educ: 0
+  number_educ: 1
+  education1: PhD joint with JLU, Prof Hongwei Zhao
 - name: Wei Ni
   photo: weini.jpg
-  info: PhD joint with ZJU, Prof Xiaoye Miao
+  info: Join our lab in 2022
   email: 12121061@zju.edu.cn
-  number_educ: 0
+  number_educ: 1
+  education1: PhD joint with ZJU, Prof Xiaoye Miao
 - name: Qidong Liu
   photo: qidongliu.jpg
-  info: PhD joint with XJTU, Prof Feng Tian
+  info: Join our lab in 2022
   email: qidongliu2-c@my.cityu.edu.hk
-  number_educ: 0
+  number_educ: 1
+  education1: PhD joint with XJTU, Prof Feng Tian
