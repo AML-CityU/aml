@@ -9,69 +9,7 @@ permalink: /publications/
 
 # Publications
 
-[//]: # (## Highlights)
-
-[//]: # (&#40;For a full list see [below]&#40;#full-list&#41; or go to [Google Scholar]&#40;https://scholar.google.com/citations?user=et6IhFcAAAAJ&#41;&#41;)
-
-[//]: # ({% assign number_printed = 0 %})
-
-[//]: # ({% for publi in site.data.publist %})
-
-[//]: # ({% assign even_odd = number_printed | modulo: 2 %})
-
-[//]: # ({% if publi.highlight == 1 %})
-
-[//]: # ({% if even_odd == 0 %})
-
-[//]: # (<div class="row">)
-
-[//]: # ({% endif %})
-
-[//]: # (<div class="col-sm-6 clearfix">)
-
-[//]: # ( <div class="well">)
-
-[//]: # (  <pubtit>{{ publi.title }}</pubtit>)
-
-[//]: # (  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />)
-
-[//]: # (  <p>{{ publi.description }}</p>)
-
-[//]: # (  <p><em>{{ publi.authors }}</em></p>)
-
-[//]: # (  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>)
-
-[//]: # (  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>)
-
-[//]: # (  <p> {{ publi.news2 }}</p>)
-
-[//]: # ( </div>)
-
-[//]: # (</div>)
-
-[//]: # ({% assign number_printed = number_printed | plus: 1 %})
-
-[//]: # ({% if even_odd == 1 %})
-
-[//]: # (</div>)
-
-[//]: # ({% endif %})
-
-[//]: # ({% endif %})
-
-[//]: # ({% endfor %})
-
-[//]: # ({% assign even_odd = number_printed | modulo: 2 %})
-
-[//]: # ({% if even_odd == 1 %})
-
-[//]: # (</div>)
-
-[//]: # ({% endif %})
-
-[//]: # (<p> &nbsp; </p>)
-
-You may see our full work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
+You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
 
 ### Publications in 2022
 
@@ -150,3 +88,139 @@ SIGIR'22, Proceedings of the 45th International ACM SIGIR Conference on Research
 [Multi-Type Urban Crime Prediction](https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf)\
 Xiangyu Zhao, Wenqi Fan, Hui Liu, Jiliang Tang\
 AAAI'22, Proceedings of the AAAI Conference on Artificial Intelligence
+
+### Publications in 2021
+
+[DRL4IR: 2nd Workshop on Deep Reinforcement Learning for Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462818)\
+Weinan Zhang, Xiangyu Zhao, Li Zhao, Dawei Yin, Grace Hui Yang\
+SIGIR'22, Companion Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+[Data-Efficient Reinforcement Learning for Malaria Control](https://arxiv.org/abs/2105.01620)\
+Lixin Zou, Long Xia, Linfang Hou, Xiangyu Zhao, Dawei Yin\
+arXiv preprint arXiv:2105.01620
+
+[Deep Recommender System: Fundamentals and Advances Tutorial at The Web Conference 2021](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:__bU50VfleQC)\
+Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
+WWW'21, Companion Proceedings of the Web Conference 2021
+
+[AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3442381.3450124)\
+Xiangyu Zhao, Haochen Liu, Hui Liu, Jiliang Tang, Weiwei Guo, Jun Shi, Sida Wang, Huiji Gao, Bo Long\
+WWW'21, Proceedings of the Web Conference 2021
+
+[UserSim: User Simulation via Supervised Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3442381.3450125)\
+Xiangyu Zhao, Long Xia, Lixin Zou, Hui Liu, Dawei Yin, Jiliang Tang\
+WWW'21, Proceedings of the Web Conference 2021
+
+[Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://ieeexplore.ieee.org/abstract/document/9458627/)\
+Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li\
+ICDE'21, 2021 IEEE 37th International Conference on Data Engineering
+
+[Towards Long-term Fairness in Recommendation](https://dl.acm.org/doi/abs/10.1145/3437963.3441824)\
+Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Changhua Pei, Fei Sun, Junfeng Ge, Wenwu Ou, Yongfeng Zhang\
+WSDM'21, Proceedings of the 14th ACM International Conference on Web Search and Data Mining
+
+[Adaptive and Automated Deep Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3533274.3533277)\
+Xiangyu Zhao\
+PhD Thesis, Michigan State University (extended abstract at ACM SIGWEB Newsletter, 2022)
+
+[Self-supervised Learning for Alleviating Selection Bias in Recommendation Systems](https://irsworkshop.github.io/2021/publications/IRS2021_paper_2.pdf)\
+Haochen Liu, Da Tang, Ji Yang, Xiangyu Zhao, Jiliang Tang, Youlong Cheng\
+WWW'22, Proceedings of the Web Conference 2022
+
+[AutoLoss: Automated Loss Function Search in Recommendations](https://dl.acm.org/doi/abs/10.1145/3447548.3467208)\
+Xiangyu Zhao, Haochen Liu, Wenqi Fan, Hui Liu, Jiliang Tang, Chong Wang\
+KDD'21, Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data
+
+[DEAR: Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems](https://ojs.aaai.org/index.php/AAAI/article/view/16156)\
+Xiangyu Zhao, Changsheng Gu, Haoshenglun Zhang, Xiwang Yang, Xiaobing Liu, Hui Liu, Jiliang Tang\
+AAAI'21, Proceedings of the AAAI Conference on Artificial Intelligence
+
+### Publications in 2020
+
+[Whole-Chain Recommendations](https://dl.acm.org/doi/abs/10.1145/3340531.3412044)\
+Xiangyu Zhao, Long Xia, Lixin Zou, Hui Liu, Dawei Yin, Jiliang Tang\
+CIKM'20, Proceedings of the 29th ACM International Conference on Information & Knowledge Management
+
+[Jointly learning to recommend and advertise](https://dl.acm.org/doi/abs/10.1145/3394486.3403384)\
+Xiangyu Zhao, Xudong Zheng, Xiwang Yang, Xiaobing Liu, Jiliang Tang\
+KDD'20, Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining
+
+[Deep reinforcement learning for information retrieval: Fundamentals and advances](https://dl.acm.org/doi/abs/10.1145/3397271.3401467)\
+Weinan Zhang, Xiangyu Zhao, Li Zhao, Dawei Yin, Grace Hui Yang, Alex Beutel\
+SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+[Automated embedding size search in deep recommender systems](https://dl.acm.org/doi/abs/10.1145/3397271.3401436)\
+Haochen Liu*, Xiangyu Zhao*, Chong Wang, Xiaobing Liu, Jiliang Tang\
+SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+[Neural interactive collaborative filtering](https://dl.acm.org/doi/abs/10.1145/3397271.3401181)\
+Lixin Zou, Long Xia, Yulong Gu, Xiangyu Zhao, Weidong Liu, Jimmy Xiangji Huang, Dawei Yin\
+SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+[AutoEmb: Automated embedding dimensionality search in streaming recommendations](https://ieeexplore.ieee.org/abstract/document/9679068/)\
+Xiangyu Zhao, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, Jiliang Tang\
+ICDM'21, Proceedings of the 21st International Conference on Data Mining
+
+### Publications in 2019 and before
+
+[Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:5MTHONV0fEkC)\
+Xiangyu Zhao, Long Xia, Jiliang Tang, Dawei Yin\
+ACM SIGWEB Newsletter
+
+[//]: # (### Publications in 2018)
+
+[Deep reinforcement learning for page-wise recommendations](https://dl.acm.org/doi/abs/10.1145/3240323.3240374)\
+Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang\
+RecSys'18, Proceedings of the 12th ACM Conference on Recommender Systems
+
+[Recommendations with negative feedback via pairwise deep reinforcement learning](https://dl.acm.org/doi/abs/10.1145/3219819.3219886)\
+Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin\
+KDD'18, Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining
+
+[Crime in urban areas: A data mining perspective](https://dl.acm.org/doi/abs/10.1145/3229329.3229331)\
+Xiangyu Zhao, Jiliang Tang\
+ACM SIGKDD Explorations Newsletter
+
+[//]: # (### Publications in 2017)
+
+[Deep reinforcement learning for list-wise recommendations](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:Wq2b2clWBLsC)\
+Xiangyu Zhao, Liang Zhang, Long Xia, Zhuoye Ding, Dawei Yin, Jiliang Tang\
+RL4KD'19, 1st Workshop on Deep Reinforcement Learning for Knowledge Discovery
+
+[Exploring transfer learning for crime prediction](https://ieeexplore.ieee.org/abstract/document/8215797/)\
+Xiangyu Zhao, Jiliang Tang\
+ICDMW'17, 2017 IEEE International Conference on Data Mining Workshops
+
+[Incorporating spatio-temporal smoothness for air quality inference](https://ieeexplore.ieee.org/abstract/document/8215621/)\
+Xiangyu Zhao, Tong Xu, Yanjie Fu, Enhong Chen, Hao Guo\
+ICDM'17, 2017 IEEE International Conference on Data Mining
+
+[Modeling temporal-spatial correlations for crime prediction](https://dl.acm.org/doi/abs/10.1145/3132847.3133024)\
+Xiangyu Zhao, Jiliang Tang\
+CIKM'17, Proceedings of the 2017 ACM on Conference on Information and Knowledge Management
+
+[//]: # (### Publications in 2016)
+
+[Cosolorec: Joint factor model with content, social, location for heterogeneous point-of-interest recommendation](https://link.springer.com/chapter/10.1007/978-3-319-47650-6_48)\
+Hao Guo, Xin Li, Ming He, Xiangyu Zhao, Guiquan Liu, Guandong Xu\
+KSEM'16, International Conference on Knowledge Science, Engineering and Management
+
+[Taxi driving behavior analysis in latent vehicle-to-vehicle networks: A social influence perspective](https://dl.acm.org/doi/abs/10.1145/2939672.2939799)\
+Tong Xu, Hengshu Zhu, Xiangyu Zhao, Qi Liu, Hao Zhong, Enhong Chen, Hui Xiong\
+KDD'16, Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+
+[Exploring the choice under conflict for social event participation](https://link.springer.com/chapter/10.1007/978-3-319-32025-0_25)\
+Xiangyu Zhao, Tong Xu, Qi Liu, Hao Guo\
+DASFAA'16, International conference on database systems for advanced applications
+
+[//]: # (### Publications in 2015)
+
+[Identifying effective multiple spreaders by coloring complex networks](https://iopscience.iop.org/article/10.1209/0295-5075/108/68005/meta)\
+Xiangyu Zhao, Bin Huang, Ming Tang, Haifeng Zhang, Duanbing Chen\
+EPL (Europhysics Letters)
+
+[//]: # (### Publications in 2013)
+
+[Coloring the complex networks and its application for immunization strategy](https://scholars.cityu.edu.hk/en/publications/coloring-the-complex-networks-and-its-application-for-immunization-strategy(ade9ca02-2a27-427b-ba7e-294239d2b51d).html)\
+Bin Huang, Xianyu Zhao, Kai Qi, Ming Tang\
+Acta Physica Sinica
