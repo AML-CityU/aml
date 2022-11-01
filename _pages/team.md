@@ -415,7 +415,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
 
 ***
 
-## Lab visitors and close collaborators
+## Visiting Scholars and Online Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.visitors %}
 
