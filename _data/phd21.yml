@@ -16,15 +16,15 @@
   email: zijian.zhang@my.cityu.edu.hk
   number_educ: 1
   education1: Joint-PhD with JLU, Prof Hongwei Zhao
-- name: Wei Ni
-  photo: weini.jpg
-  info: Join AML lab in 2022
-  email: 12121061@zju.edu.cn
-  number_educ: 1
-  education1: Joint-PhD with ZJU, Prof Xiaoye Miao
 - name: Qidong Liu
   photo: qidongliu.jpg
   info: Join AML lab in 2022
   email: qidongliu2-c@my.cityu.edu.hk
   number_educ: 1
   education1: Joint-PhD with XJTU, Prof Feng Tian
+- name: Wei Ni
+  photo: weini.jpg
+  info: Join AML lab in 2023
+  email: 12121061@zju.edu.cn
+  number_educ: 1
+  education1: Joint-PhD with ZJU, Prof Xiaoye Miao
