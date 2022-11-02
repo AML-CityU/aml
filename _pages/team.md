@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate Postdocs, PhD students, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-students), [Visiting Scholars and Online RAs](#visiting-scholars-and-online-ras).
