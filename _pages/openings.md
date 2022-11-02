@@ -32,9 +32,9 @@ Exceptionally qualified students are encouraged to apply the [Hong Kong PhD Fell
 Self-financed and Part-time PhD positions are available year round.
 
 ***
-### Joint PhD Positions [<a href="{{ site.url }}{{ site.baseurl }}/joint.html">Universities for joint PhD Programme (联培院校名单)</a>]
+### Joint PhD Positions 
 (双一流A类+国科大+南科大 准备读博/转博/博一二学生)
-
+<a href="{{ site.url }}{{ site.baseurl }}/joint.html">Universities for joint PhD Programme (联培院校名单)</a>
 
 You are welcomed to apply the [CityU Joint Ph.D. programme](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes). You can obtain the CityU’s PhD degree simultaneously within the same normal year of study. There is no financial cost from students, and you will get a scholarship of HK$17,500/month during CityU. Please prepare your English test (TOEFL 79 or IELTS 6.5), and submit application to your home university in Dec every year.
 
