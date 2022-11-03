@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/_pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ico/homepage.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/ico/homepage.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00011" summary=".">
-      <created>1667123498478</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1667123498478</updated>
     </task>
     <task id="LOCAL-00012" summary=".">
       <created>1667123741193</created>
@@ -408,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667468692006</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary=".">
+      <created>1667468857269</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1667468857269</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,8 +475,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="." />
-    <MESSAGE value="." />
     <MESSAGE value="check photo size" />
-    <option name="LAST_COMMIT_MESSAGE" value="check photo size" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>

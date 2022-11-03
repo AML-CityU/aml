@@ -63,7 +63,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="display-flex">
   <a href="{{member.homepage}}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/ico/homepage.ico"
-  alt="Personal Homepage" width="10%">
+  alt="Personal Homepage">
   </a>
   </div>
   {% endif %}
