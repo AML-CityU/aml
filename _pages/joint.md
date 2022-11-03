@@ -5,7 +5,7 @@ excerpt: "Joint PhD."
 sitemap: false
 permalink: /joint.html
 ---
-### Appendix I: Universities for joint PhD Programme (附录1: 联合培养博士院校)
+### Universities for joint PhD Programme (联合培养博士院校)
 1. Beihang University (BUAA, 北京航空航天大学)
 2. Central South University (CSU, 中南大学)
 3. Dalian University of Technology (DUT, 大連理工大学)
@@ -30,4 +30,4 @@ permalink: /joint.html
 22. Xiamen University (XMU, 廈門大学)
 23. Xi’an Jiaotong University (XJTU, 西安交通大学)
 24. Zhejiang University (ZJU, 浙江大学)
-25. Southern University of Science and Technology (SUSTech, 南方科技大學科)
+25. Southern University of Science and Technology (SUSTech, 南方科技大學)
