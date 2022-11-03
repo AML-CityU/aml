@@ -58,6 +58,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+  </ul>
 
   {% if member.homepage %}
   <div class="display-flex">
@@ -67,8 +68,6 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   </a>
   </div>
   {% endif %}
-
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
