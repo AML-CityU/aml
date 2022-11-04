@@ -19,7 +19,7 @@ We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA a
 
 ***
 ### PhD Applications [[Link](https://www.sdsc.cityu.edu.hk/programmes/postgraduate-programmes/phd-programme-data-science)]
-(We have positions for 23 Spring and Fall)
+(We have multiple positions for Spring and Fall every year)
 
 If you are interested in joining AML lab, please first contact us at: [[xy.zhao@cityu.edu.hk](mailto:xy.zhao@cityu.edu.hk)].
 
@@ -29,7 +29,7 @@ If you are interested in joining AML lab, please first contact us at: [[xy.zhao@
 
 Exceptionally qualified students are encouraged to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) by Dec 1, with scholarship HK$26,900/month, travel allowance HK$13,500/year, free tuition and on-campus hostel. Official evaluation criteria include GPA, national award, English, publication, recommendation letter, overseas study/visiting experience, etc.
 
-Self-financed and Part-time PhD positions are available year round.
+<u>Self-financed and Part-time</u> PhD positions are available year round.
 
 ***
 ### Joint PhD Positions 
