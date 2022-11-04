@@ -17,7 +17,7 @@ The **Applied Machine Learning Lab (AML Lab)** is a dynamic research group at th
 
 
 
-**We are  looking for passionate new Postdocs, PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate new Postdocs, PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 <br />
 
