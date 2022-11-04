@@ -64,7 +64,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="social-links"> 
   {% if member.website%} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
   {% if member.email%} <a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i></a> {% endif %}
-  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %}
+  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-google"></i></a> {% endif %}
   {% if member.linkedin%} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %}
   {% if member.github%} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
   {% if member.twitter%} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
@@ -144,7 +144,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="social-links"> 
   {% if member.website%} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
   {% if member.email%} <a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i></a> {% endif %}
-  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %}
+  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-google"></i></a> {% endif %}
   {% if member.linkedin%} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %}
   {% if member.github%} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
   {% if member.twitter%} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
@@ -220,7 +220,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="social-links"> 
   {% if member.website%} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
   {% if member.email%} <a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i></a> {% endif %}
-  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %}
+  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-google"></i></a> {% endif %}
   {% if member.linkedin%} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %}
   {% if member.github%} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
   {% if member.twitter%} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
@@ -296,7 +296,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="social-links"> 
   {% if member.website%} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
   {% if member.email%} <a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i></a> {% endif %}
-  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %}
+  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-google"></i></a> {% endif %}
   {% if member.linkedin%} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %}
   {% if member.github%} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
   {% if member.twitter%} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
@@ -376,7 +376,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="social-links"> 
   {% if member.website%} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
   {% if member.email%} <a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i></a> {% endif %}
-  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %}
+  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-google"></i></a> {% endif %}
   {% if member.linkedin%} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %}
   {% if member.github%} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
   {% if member.twitter%} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
@@ -452,7 +452,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="social-links"> 
   {% if member.website%} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
   {% if member.email%} <a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i></a> {% endif %}
-  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %}
+  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-google"></i></a> {% endif %}
   {% if member.linkedin%} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %}
   {% if member.github%} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
   {% if member.twitter%} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
@@ -532,7 +532,7 @@ Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-st
   <div class="social-links"> 
   {% if member.website%} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
   {% if member.email%} <a href="mailto:{{ member.email }}"> <i class="fa fa-envelope"></i></a> {% endif %}
-  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %}
+  {% if member.scholar%} <a href="{{ member.scholar }}"> <i class="fa fa-google"></i></a> {% endif %}
   {% if member.linkedin%} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %}
   {% if member.github%} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
   {% if member.twitter%} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
