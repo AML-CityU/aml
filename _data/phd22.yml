@@ -4,7 +4,7 @@
   email: yejing.wang@my.cityu.edu.hk
   number_educ: 1
   education1: BS from USTC, School of Gifted Young
-  education2:
+  website: https://dave-adamswang.github.io/
 - name: Jingtong Gao
   photo: jingtonggao.jpg
   info: Join AML lab in 2022
@@ -12,15 +12,18 @@
   number_educ: 2
   education1: BS from BUAA
   education2: MS from NTU
+  website: https://gaojingtong.github.io/
 - name: Yuhao Wang
   photo: yuhaowang.jpg
   info: Join AML lab in 2022
   email: yhwang25-c@my.cityu.edu.hk
   number_educ: 1
   education1: BS from XJTU
+  website: https://wyhwhy.github.io/
 - name: Yuanshao Zhu
   photo: yuanshaozhu.jpg
   info: Join AML lab in 2022
   email: yuanshzhu2-c@my.cityu.edu.hk
   number_educ: 1
   education1: Joint-PhD with SusTech, Prof James J.Q. Yu
+  website: https://yasoz.github.io/
