@@ -19,9 +19,9 @@ We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA a
 
 ***
 ### PhD Applications [[Link](https://www.sdsc.cityu.edu.hk/programmes/postgraduate-programmes/phd-programme-data-science)]
-(We have positions for 23 Spring and Fall)
+(We have multiple positions for Spring and Fall every year)
 
-If you are interested in working with me, please first contact us at: [[xy.zhao@cityu.edu.hk](mailto:xy.zhao@cityu.edu.hk)].
+If you are interested in joining AML lab, please first contact us at: [[xy.zhao@cityu.edu.hk](mailto:xy.zhao@cityu.edu.hk)].
 
 - Please highlight your **BS's Average Score/100** and **TOEFL/IELTS**, since CityU has specific requirements
 - Please provide your publications, national award, homepage link, research projects/interns, ranking, etc
@@ -29,16 +29,16 @@ If you are interested in working with me, please first contact us at: [[xy.zhao@
 
 Exceptionally qualified students are encouraged to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) by Dec 1, with scholarship HK$26,900/month, travel allowance HK$13,500/year, free tuition and on-campus hostel. Official evaluation criteria include GPA, national award, English, publication, recommendation letter, overseas study/visiting experience, etc.
 
-Self-financed and Part-time PhD positions are available year round.
+<u>Self-financed and Part-time</u> PhD positions are available year round.
 
 ***
 ### Joint PhD Positions 
-(双一流A类+国科大+南科大 准备读博/转博/博一二学生)
+(双一流A类+国科大+南科大 准备读博/转博/博一二学生 毕业同时颁发本校和城大博士学位)
 <h4><a href="{{ site.url }}{{ site.baseurl }}/joint.html">Universities for joint PhD Programme (联培院校名单)</a></h4>
 
 You are welcomed to apply the [CityU Joint Ph.D. programme](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes). You can obtain the CityU’s PhD degree simultaneously within the same normal year of study. There is no financial cost from students, and you will get a scholarship of HK$17,500/month during CityU. Please prepare your English test (TOEFL 79 or IELTS 6.5), and submit application to your home university in Dec every year.
 
-欢迎申请[CityU联合培养博士项目](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes)，可以同时获得CityU博士学位，**是留学基金委认可的海外学位，享受留学生各类福利，如人才引进政策等**。学生无需支付任何费用，在CityU期间每月获发奖学金17500+港币。请在12月16日向你所在学校(学院、研究生院)提交申请，需要英语成绩托福79或雅思6.5。部分高校可在次年2月提交英语成绩。请在联系我之前确认本校导师支持申请 (<u>注：部分高校本项目不占导师原有的博士指标</u>)。
+欢迎申请[CityU联合培养博士项目](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes)，可以同时获得CityU博士学位。**城大博士学位是留学基金委认可的海外学位，享受留学生各类福利，如人才引进政策等。在海外和港澳台地区也是直接认可有效的。** 学生无需支付任何费用，在CityU期间每月获发奖学金17500+港币。请在12月16日向你所在学校(学院、研究生院)提交申请，需要英语成绩托福79或雅思6.5。部分高校可在次年2月提交英语成绩。请在先确认本校导师支持申请 (<u>注：部分高校本项目不占导师原有的博士指标</u>)。
 
 
 ***

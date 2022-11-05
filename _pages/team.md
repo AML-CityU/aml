@@ -14,7 +14,7 @@ permalink: /team/
 
 Jump to [Advisor](#advisor), [PhD students](#phd-students), [MS Students](#ms-students), [Visiting Scholars and Online RAs](#visiting-scholars-and-online-ras).
 
-## Advisor
+## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.advisors %}
 
