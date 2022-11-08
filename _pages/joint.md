@@ -30,4 +30,4 @@ permalink: /joint.html
 22. Xiamen University (XMU, 廈門大学)
 23. Xi’an Jiaotong University (XJTU, 西安交通大学)
 24. Zhejiang University (ZJU, 浙江大学)
-25. Southern University of Science and Technology (SUSTech, 南方科技大學)
+25. Centre for Artificial Intelligence and Robotics, Hong Kong Institute of Science and Innovation, Chinese Academy of Science Limited (CAIR, 香港创新研究院人工智能与机器人创新中心)
