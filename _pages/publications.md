@@ -15,7 +15,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3511808.3557338)\
 Xinhang Li, Zhaopeng Qiu, Xiangyu Zhao, Zihao Wang, Yong Zhang, Chunxiao Xing, Xian Wu\
-CIKM'22, Proceedings of the 31st ACM International Conference on Information & Knowledge Management
+CIKM'22, Proceedings of the 31st ACM International Conference on Information & Knowledge Management\
+[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:RXhC833HsTMJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5fnGA:AAGBfm0AAAAAY2tZhGChdRtS2qFb6dLCF4UFjZyZ_97T&scisig=AAGBfm0AAAAAY2tZhM0k4mQgw76TFz8gaWnOi9ZqOnLZ&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 [Hierarchical Item Inconsistency Signal Learning for Sequence Denoising in Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3511808.3557348)\
 Chi Zhang, Yantong Du, Xiangyu Zhao, Qilong Han, Rui Chen, Li Li\
