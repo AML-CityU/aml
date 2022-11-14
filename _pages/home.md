@@ -13,7 +13,7 @@ The **Applied Machine Learning Lab (AML Lab)** is a dynamic research group at th
 - Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
 - Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
 - Deep Reinforcement Learning, Automated Machine Learning, Graph Learning, Trustworthy AI, and Multimodal
-- AI + X: Social Computing, Finance, Education, Ecosystem, and Healthcare
+- AI + X: Healthcare, Social Computing, Finance, Education, and Ecosystem
 
 
 
