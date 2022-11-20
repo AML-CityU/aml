@@ -14,5 +14,5 @@ permalink: /research/
   -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ubcom.png" class="img-responsive" width="50%" style="float: center" />
 - Theoretical Machine Learning: Deep Reinforcement Learning, AutoML, Graph Learning, Trustworthy AI, and Multimodal ML
   -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ml.jpeg" class="img-responsive" width="50%" style="float: center" />
-- AI + X: Social Computing, Finance, Education, Ecosystem, and Healthcare
+- AI + X: Healthcare, Social Computing, Finance, Education, and Ecosystem
   -  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ai.jpg" class="img-responsive" width="50%" style="float: center" />
