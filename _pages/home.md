@@ -9,7 +9,7 @@ permalink: /
 
 <br />
 
-The **Applied Machine Learning Lab (AML Lab)** is a dynamic research group at the [School of Data Science in City University of Hong Kong](https://www.sdsc.cityu.edu.hk/). Our aim is to explore new methods and applications of Machine Learning and Data Mining, including 
+**Applied Machine Learning Lab (AML Lab)** is a dynamic research group at the [School of Data Science in City University of Hong Kong](https://www.sdsc.cityu.edu.hk/). Our aim is to explore new methods and applications of Machine Learning and Data Mining, including 
 - Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
 - Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
 - Deep Reinforcement Learning, Automated Machine Learning, Graph Learning, Trustworthy AI, and Multimodal
