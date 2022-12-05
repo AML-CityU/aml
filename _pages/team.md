@@ -89,7 +89,7 @@ Jump to [Faculty](#faculty), [PhD students](#phd-students), [MS Students](#ms-st
 
 ## PhD Students
 
-### Enrollment Date: 2020
+### PhD Enrollment Date: 2020
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd20 %}
@@ -165,7 +165,7 @@ Jump to [Faculty](#faculty), [PhD students](#phd-students), [MS Students](#ms-st
 </div>
 {% endif %}
 
-### Enrollment Date: 2021
+### PhD Enrollment Date: 2021
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd21 %}
@@ -241,7 +241,7 @@ Jump to [Faculty](#faculty), [PhD students](#phd-students), [MS Students](#ms-st
 </div>
 {% endif %}
 
-### Enrollment Date: 2022
+### PhD Enrollment Date: 2022
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd22 %}
@@ -317,7 +317,7 @@ Jump to [Faculty](#faculty), [PhD students](#phd-students), [MS Students](#ms-st
 </div>
 {% endif %}
 
-### Enrollment Date: 2023
+### PhD Enrollment Date: 2023
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd23 %}
