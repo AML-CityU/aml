@@ -1,27 +1,81 @@
-- date: 06 Dec 2022
-  headline: "Our team won the Outstanding Project in CCF-Tencent Open Fund, congratulations to team members Yejing and Qidong!"
+- date: Dec 2022
+  headline: "Our team won the Outstanding Project (8/34) in CCF-Tencent Open Fund, congratulations to team members Yejing and Qidong!"
 
-- date: 19 Nov 2022
+- date: Nov 2022
+  headline: "Our ICDM'22 paper AutoAssign was selected as one of the best-ranked papers"
+
+- date: Nov 2022
   headline: "Zijian and Chunxu's paper AutoSTL got accepted by AAAI23. Congratulations!"
 
-- date: 25 Oct 2022
+- date: Oct 2022
+  headline: "1 paper got accepted by WSDM'23"
+
+- date: Oct 2022
   headline: "<b>Welcome ！ — our lab website is officially starting</b>!"
 
-- date: 24 Sep 2022
+- date: Sep 2022
+  headline: "1 paper got accepted by ICDM'22, congratulations to Fengyi"
+
+- date: Sep 2022
   headline: "Welcome to our latest <a href='https://mp.weixin.qq.com/s/3Qu335pTzY8VqRHkTDfJtg'>survey of trustworthy recommender systems</a> in collaboration with the PolyU, MSU, and UST teams."
 
-- date: 03 Aug 2022
-  headline: "Four of our CIKM2022 submissions have been included. Congratulations to pengfei, haochen, kesen, muyang, zijian, chi and xinhang! 
-  (Link: <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557130?casa_token=cBWVGywuCckAAAAA:v5PK_lO-ol-SzIAgZozMSrggHzZU6zTItUlCvQ757scDGcPKg_jHVPF6DPdtquTuU9NMdYWeKYNkY3c'>[1]</a>, 
-  <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557461?casa_token=G3_WIMtUZ_IAAAAA:qxLYXSWrsva8vY8eRpwpdJaheTUo-ehW5IPrJOm_20XPNqfWdvumaQQDGJLwiX6DxwhPQ4QEncEbry4'>[2]</a>, 
-  <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557338'>[3]</a>,
-  <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557348?casa_token=1t84nQCu2nAAAAAA:H8v2DBEJNUVGxdr1c_O-pax3ZehozsSuGjYpS5Xaxh6PkqTxNgqKaVurBLzbmRpAjI7fEFQYy1_kMck'>[4]</a>)"
+- date: Aug 2022
+  headline: "Our team won the Gold Medal and Top 10 best innovation award in the 7th International Invention Innovation Competition in Canada (iCAN 2022), co-supervised with Dr. Liang Dong"
 
-- date: 15 Jul 2022
+- date: Aug 2022
+  headline: "A keynote talk at <a href='https://dlp-kdd2022.github.io/'>DLP workshop</a> @ KDD'22"
+
+- date: Aug 2022
+  headline: "Four of our CIKM2022 submissions have been included. Congratulations to pengfei, haochen, kesen, muyang, zijian, chi and xinhang! 
+    (Link: <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557130?casa_token=cBWVGywuCckAAAAA:v5PK_lO-ol-SzIAgZozMSrggHzZU6zTItUlCvQ757scDGcPKg_jHVPF6DPdtquTuU9NMdYWeKYNkY3c'>[1]</a>, 
+    <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557461?casa_token=G3_WIMtUZ_IAAAAA:qxLYXSWrsva8vY8eRpwpdJaheTUo-ehW5IPrJOm_20XPNqfWdvumaQQDGJLwiX6DxwhPQ4QEncEbry4'>[2]</a>, 
+    <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557338'>[3]</a>,
+    <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557348?casa_token=1t84nQCu2nAAAAAA:H8v2DBEJNUVGxdr1c_O-pax3ZehozsSuGjYpS5Xaxh6PkqTxNgqKaVurBLzbmRpAjI7fEFQYy1_kMck'>[4]</a>)"
+
+- date: Jul 2022
   headline: "Welcome to our <a href='https://rentmultimedia.zoom.us/j/87220206444'>3rd Workshop on Deep Reinforcement Learning for Information Retrieval</a>."
 
-- date: 19 May 2022
+- date: May 2022
   headline: "Three of our members' KDD submissions have been included. Congratulations to weilin, yejing and zhengzhi! 
-  (Link: <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539204?casa_token=NzySH1Saca4AAAAA:ARwZossDmCaf__icJSnbhoJtU80lVhNGxnGD-kNCryLo4AvJPheAO4aZ50NWplVRnHTplC9aYCwvnxs'>[1]</a>, 
-  <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539201?casa_token=2hez5xDVzqgAAAAA:9TmCGk5yhMxgnuqbnGWuktIY_jwsP9ZC3VAn5HdUR-97mnbaK7b_Dg_ErXA_uUSO3GoCIzm5UeCAnQQ'>[2]</a>, 
-  <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=VovfsN8Sx6IAAAAA:052gcY_TwWuQAobiUQcpBltSaBGaoXnA7O83xUpo6s1US98wNcriYotk7S5M4I3U1L3KjZf8Z7IPw-8'>[3]</a>)"
+    (Link: <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539204?casa_token=NzySH1Saca4AAAAA:ARwZossDmCaf__icJSnbhoJtU80lVhNGxnGD-kNCryLo4AvJPheAO4aZ50NWplVRnHTplC9aYCwvnxs'>[1]</a>, 
+    <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539201?casa_token=2hez5xDVzqgAAAAA:9TmCGk5yhMxgnuqbnGWuktIY_jwsP9ZC3VAn5HdUR-97mnbaK7b_Dg_ErXA_uUSO3GoCIzm5UeCAnQQ'>[2]</a>, 
+    <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539359?casa_token=VovfsN8Sx6IAAAAA:052gcY_TwWuQAobiUQcpBltSaBGaoXnA7O83xUpo6s1US98wNcriYotk7S5M4I3U1L3KjZf8Z7IPw-8'>[3]</a>)"
+
+- date: May 2022
+  headline: "Our team won the Gold Award with Grand Prize (US$13,000) and the Microsoft Outstanding AI Influencer Award in the Global AI Challenge for Building E&M Facilities, co-supervised with Prof. S Joe QIN"
+
+- date: May 2022
+  headline: "Our team ranked the 3rd place in Carbon Neutral Competition track of the 3rd Shandong Data Competition, co-supervised with Prof. S Joe QIN"
+
+- date: Apr 2022
+  headline: "We provide tutorial <a href='https://advanced-recommender-systems.github.io/AutoML-Recommendations/'>Automated Machine Learning for Recommendations</a> @ WWW'22"
+
+- date: Apr 2022
+  headline: "1 paper got accepted by IJCAI'22, congratulations to Muyang and Chuan"
+
+- date: Apr 2022
+  headline: "1 paper got accepted by SIGIR'22"
+
+- date: Mar 2022
+  headline: "1 workshop proposal got accepted by SIGIR'22"
+
+- date: Jan 2022
+  headline: "3 papers got accepted by WWW'22, especial congratulations to Yejing for his first paper with AML@CityU"
+
+- date: Jan 2022
+  headline: "1 paper got accepted by ICLR"
+
+- date: Jan 2022
+  headline: "1 paper got accepted by TOIS"
+
+- date: Dec 2021
+  headline: "1 tutorial got accepted by WWW'22"
+
+- date: Dec 2021
+  headline: "Our ICDM paper was selected as one of the best-ranked papers"
+
+- date: Dec 2021
+  headline: "1 paper got accepted by AAAI'22"
+
+- date: Sep 2021
+  headline: "Prof. Xiangyu Zhao joined the School of Data Science at CityU as a tenure-track assistant professor!"
