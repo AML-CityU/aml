@@ -15,7 +15,7 @@ We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA a
 - Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
 - Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
 - Deep Reinforcement Learning, Automated Machine Learning, Graph Learning, Trustworthy AI, and Multimodal
-- AI + X: Healthcare, Carbon Neutral, Education, Social Computing, Finance, and Ecosystem
+- AI + X: Education, Healthcare, Carbon Neutral, Social Computing, Finance, and Ecosystem
 
 ***
 ### PhD Applications [[Link](https://www.sdsc.cityu.edu.hk/programmes/postgraduate-programmes/phd-programme-data-science)]
