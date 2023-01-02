@@ -13,7 +13,7 @@ permalink: /
 - Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
 - Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
 - Deep Reinforcement Learning, Automated Machine Learning, Graph Learning, Trustworthy AI, and Multimodal
-- AI + X: Healthcare, Carbon Neutral, Social Computing, Finance, Education, and Ecosystem
+- AI + X: Education, Healthcare, Carbon Neutral, Social Computing, E-commerce, Finance, and Ecosystem
 
 
 
