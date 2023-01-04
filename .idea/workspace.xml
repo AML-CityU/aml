@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_data/ms23.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/team.md" afterDir="false" />
     </list>
@@ -66,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00044" summary=".">
-      <created>1667257371352</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1667257371352</updated>
     </task>
     <task id="LOCAL-00045" summary=".">
       <created>1667257723573</created>
@@ -410,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672651944498</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="update new ms members">
+      <created>1672810687354</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1672810687355</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,6 +484,7 @@
     <MESSAGE value="Start adding link for publications." />
     <MESSAGE value="update pengyuejia.jpg" />
     <MESSAGE value="update news" />
-    <option name="LAST_COMMIT_MESSAGE" value="update news" />
+    <MESSAGE value="update new ms members" />
+    <option name="LAST_COMMIT_MESSAGE" value="update new ms members" />
   </component>
 </project>
