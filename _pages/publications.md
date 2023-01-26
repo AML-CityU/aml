@@ -14,18 +14,18 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2023
 
 [Multi-Task Recommendations with Reinforcement Learning]()\
-Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao*, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
+Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
 
 [IDPN: Instance Denoising for Click-through Rate Prediction]()\
-Weilin Lin, Xiangyu Zhao*, Yejing Wang, Yuanshao Zhu\
+Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
 [AutoMLP: Automated MLP for Sequential Recommendations]()\
-Muyang Li, Zijian Zhang, Xiangyu Zhao*, Minghao Zhao, Runze Wu, Ruocheng Guo\
+Muyang Li, Zijian Zhang, Xiangyu Zhao, Minghao Zhao, Runze Wu, Ruocheng Guo\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
@@ -35,17 +35,17 @@ WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
 [User Retention-oriented Recommendation with Decision Transformer]()\
-Kesen Zhao, Lixin Zou, Xiangyu Zhao*, Maolin Wang, Dawei Yin\
+Kesen Zhao, Lixin Zou, Xiangyu Zhao, Maolin Wang, Dawei Yin\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
 [Denoising and Prompt-Tuning for Multi-Behavior Recommendation]()\
-Chi Zhang, Xiangyu Zhao*, Rui Chen, Qilong Han, Li Li\
+Chi Zhang, Xiangyu Zhao, Rui Chen, Qilong Han, Li Li\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
 [IMF: Interactive Multimodal Fusion Model for Link Prediction]()\
-Xinhang Li, Xiangyu Zhao*, Jiaxing Xu, Yong Zhang, Chunxiao Xing\
+Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, Chunxiao Xing\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
@@ -55,7 +55,7 @@ WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
 [MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation]()\
-Jiahao Liang, Xiangyu Zhao*, Muyang Li, Zijian Zhang, Haochen Liu, Liu Zitao\
+Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Haochen Liu, Liu Zitao\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
 
@@ -66,7 +66,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 
 [AutoSTL: Automated Spatio-Temporal Multi-Task Learning]()\
-Zijian Zhang, Xiangyu Zhao*, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
+Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
 AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence\
 [[CITE]()]
 
@@ -83,7 +83,7 @@ WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and 
 ### Publications in 2022
 
 [AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation]()\
-Fengyi Song, Bo Chen, Xiangyu Zhao*, Huifeng Guo, Ruiming Tang\
+Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 ICDM'22, Proceedings of the 22st International Conference on Data Mining\
 [[CITE]()]
 
@@ -253,7 +253,7 @@ SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:E_rR0C-dsNQJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP50nmU:AAGBfm0AAAAAY2tyhmXsEor6F2sn1H1Hqmqpd4wWaNx_&scisig=AAGBfm0AAAAAY2tyhvugrObnQzaqjkV3kBJz6ITG81s2&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
 [Automated embedding size search in deep recommender systems](https://dl.acm.org/doi/abs/10.1145/3397271.3401436)\
-Haochen Liu*, Xiangyu Zhao*, Chong Wang, Xiaobing Liu, Jiliang Tang\
+Haochen Liu, Xiangyu Zhao, Chong Wang, Xiaobing Liu, Jiliang Tang\
 SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:ps5bBoLkiJwJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP50jv0:AAGBfm0AAAAAY2tylv1IZMM8L8tQL-zBFCZlmUy4Ssh7&scisig=AAGBfm0AAAAAY2tylnfq0GP-sAc1bd-LF89oNgCgSRca&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
