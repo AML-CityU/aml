@@ -11,7 +11,82 @@ permalink: /publications/
 
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
 
+### Publications in 2023
+
+[Multi-Task Recommendations with Reinforcement Learning]()\
+Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+
+[IDPN: Instance Denoising for Click-through Rate Prediction]()\
+Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[AutoMLP: Automated MLP for Sequential Recommendations]()\
+Muyang Li, Zijian Zhang, Xiangyu Zhao, Minghao Zhao, Runze Wu, Ruocheng Guo\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[Exploration and Regularization of the Latent Action Space in Recommendation]()\
+Shuchang Liu, Qingpeng Cai, Bowen Sun, Yuhao Wang, Dong Zheng, Peng Jiang, Kun Gai, Ji Jiang, Xiangyu Zhao, Yongfeng Zhang\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[User Retention-oriented Recommendation with Decision Transformer]()\
+Kesen Zhao, Lixin Zou, Xiangyu Zhao, Maolin Wang, Dawei Yin\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[Denoising and Prompt-Tuning for Multi-Behavior Recommendation]()\
+Chi Zhang, Xiangyu Zhao, Rui Chen, Qilong Han, Li Li\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[IMF: Interactive Multimodal Fusion Model for Link Prediction]()\
+Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, Chunxiao Xing\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning]()\
+Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Guandong Xu\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation]()\
+Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Haochen Liu, Liu Zitao\
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]()]
+
+[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
+Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
+WWW'23, Companion Proceedings of the Web Conference 2023\
+[[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:vWWaUbZcUu0J:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5pcBo:AAGBfm0AAAAAY2tvaBr4OG42CBGf_HK8HMNQJ7G7G_JT&scisig=AAGBfm0AAAAAY2tvaH95gXe7O0uXKI4ALHFo1J7VyEqk&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+
+
+[AutoSTL: Automated Spatio-Temporal Multi-Task Learning]()\
+Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
+AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence\
+[[CITE]()]
+
+[AutoML for Deep Recommender Systems: Fundamentals and Advances]()\
+Ruiming Tang, Bo Chen, Yejing Wang, Huifeng Guo, Yong Liu, Wenqi Fan, Xiangyu Zhao\
+WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
+[[CITE]()]
+
+[AutoGen: An Automated Dynamic Model Generation Framework for Recommender System]()\
+Chenxu Zhu, Bo Chen, Huifeng Guo, Hang Xu, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang\
+WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
+[[CITE]()]
+
 ### Publications in 2022
+
+[AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation]()\
+Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
+ICDM'22, Proceedings of the 22st International Conference on Data Mining\
+[[CITE]()]
+
 
 [Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3511808.3557338)\
 Xinhang Li, Zhaopeng Qiu, Xiangyu Zhao, Zihao Wang, Yong Zhang, Chunxiao Xing, Xian Wu\
@@ -32,11 +107,6 @@ CIKM'22, Proceedings of the 31st ACM International Conference on Information & K
 Kesen Zhao, Xiangyu Zhao, Zijian Zhang, Muyang Li\
 CIKM'22, Proceedings of the 31st ACM International Conference on Information & Knowledge Management\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:P1cnDdPcjG8J:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5pTV0:AAGBfm0AAAAAY2tvVV0oqodQGWXC9yYsY8IA9yN8MvT_&scisig=AAGBfm0AAAAAY2tvVUS8Axj-XDf8WVjIOtXwyQP-jpUC&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-
-[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
-Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
-arXiv preprint arXiv:2209.10117\
-[[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:vWWaUbZcUu0J:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5pcBo:AAGBfm0AAAAAY2tvaBr4OG42CBGf_HK8HMNQJ7G7G_JT&scisig=AAGBfm0AAAAAY2tvaH95gXe7O0uXKI4ALHFo1J7VyEqk&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
 [AdaFS: Adaptive Feature Selection in Deep Recommender System](https://dl.acm.org/doi/abs/10.1145/3534678.3539204)\
 Weilin Lin, Xiangyu Zhao, Yejing Wang, Tong Xu, Xian Wu\
@@ -183,7 +253,7 @@ SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:E_rR0C-dsNQJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP50nmU:AAGBfm0AAAAAY2tyhmXsEor6F2sn1H1Hqmqpd4wWaNx_&scisig=AAGBfm0AAAAAY2tyhvugrObnQzaqjkV3kBJz6ITG81s2&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
 [Automated embedding size search in deep recommender systems](https://dl.acm.org/doi/abs/10.1145/3397271.3401436)\
-Haochen Liu*, Xiangyu Zhao*, Chong Wang, Xiaobing Liu, Jiliang Tang\
+Haochen Liu, Xiangyu Zhao, Chong Wang, Xiaobing Liu, Jiliang Tang\
 SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:ps5bBoLkiJwJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP50jv0:AAGBfm0AAAAAY2tylv1IZMM8L8tQL-zBFCZlmUy4Ssh7&scisig=AAGBfm0AAAAAY2tylnfq0GP-sAc1bd-LF89oNgCgSRca&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
