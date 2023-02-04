@@ -84,7 +84,7 @@ WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and 
 
 ### Publications in 2022
 
-[AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation]()\
+[AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation](https://www.computer.org/csdl/proceedings-article/icdm/2022/509900a458/1KpCDRd7R60)\
 Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 ICDM'22, Proceedings of the 22st International Conference on Data Mining\
 [[CITE]()]
@@ -130,7 +130,7 @@ Xiangyu Zhao, Xin Xin, Weinan Zhang, Li Zhao, Dawei Yin, Grace Hui Yang\
 SIGIR'22, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:NdtUsnCdfA4J:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5ppj8:AAGBfm0AAAAAY2tvvj_dswzJpG6bHG-U3qnXeVULr9Ok&scisig=AAGBfm0AAAAAY2tvvmXDMHKn-SyCe2aSrO5KQ3Fkd9ii&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[Automated Machine Learning for Recommendations: Fundamentals and Advances](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:LGlY6t8CeOMC)\
+[Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/doc/AutoML_RecSys_WWW2022.pdf)\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
 WWW'22, Companion Proceedings of the Web Conference 2022\
 [[LINK](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)]
@@ -150,12 +150,12 @@ Haochen Liu, Da Tang, Ji Yang, Xiangyu Zhao, Hui Liu, Jiliang Tang, Youlong Chen
 WWW'22, Proceedings of the ACM Web Conference 2022\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:HWwMr_rXwVsJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP52dRM:AAGBfm0AAAAAY2twbRMlXb9IUWfRMDWSHsbWU1fkCQ0V&scisig=AAGBfm0AAAAAY2twbTXxYoIHsBJpXaWRUiKJgK5hg7AB&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[MLP4Rec: A Pure MLP Architecture for Sequential Recommendations](https://arxiv.org/abs/2204.11510)\
+[MLP4Rec: A Pure MLP Architecture for Sequential Recommendations](https://www.ijcai.org/proceedings/2022/0297.pdf)\
 Muyang Li, Xiangyu Zhao, Chuan Lyu, Minghao Zhao, Runze Wu, Ruocheng Guo\
 IJCAI'22, Proceedings of the 31st International Joint Conference on Artificial Intelligence\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:awyX02488tQJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP52ZmQ:AAGBfm0AAAAAY2twfmTXIXhALh8UBz2m4C6jwUjZhr-y&scisig=AAGBfm0AAAAAY2twfl7-TJHU3Y-r5icW5Oy37ZZMqiQy&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[Automated Machine Learning for Deep Recommender Systems: A Survey](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:NMlhSUseqAsC)\
+[Automated Machine Learning for Deep Recommender Systems: A Survey](https://arxiv.org/abs/2204.01390)\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
 arXiv preprint arXiv:2204.01390\
 [[LINK](https://arxiv.org/abs/2204.01390)]
@@ -170,12 +170,12 @@ Zhi Zheng, Chao Wang, Tong Xu, Dazhong Shen, Penggang Qin, Xiangyu Zhao, Baoxing
 ACM Transactions on Information Systems (TOIS)\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:tmtebXIC0I4J:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53KZc:AAGBfm0AAAAAY2txMZelkFbibBPMVUekQ7FWSvkqtyyg&scisig=AAGBfm0AAAAAY2txMYm8qx4OhxtXgs3jzVnp5f6CJy3u&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[Graph Trend Networks for Recommendations](https://arxiv.org/abs/2108.05552)\
+[Graph Trend Networks for Recommendations](https://dl.acm.org/doi/abs/10.1145/3477495.3531985)\
 Wenqi Fan, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, Qing Li\
 SIGIR'22, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:zm5cSN8SmkoJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53WeQ:AAGBfm0AAAAAY2txQeSB4V2z40b96JCQkt91xOIIUxWI&scisig=AAGBfm0AAAAAY2txQfEs-eXLDC_J5xiCRHpFmNU0pV5p&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[Multi-Type Urban Crime Prediction](https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf)\
+[Multi-Type Urban Crime Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/20360)\
 Xiangyu Zhao, Wenqi Fan, Hui Liu, Jiliang Tang\
 AAAI'22, Proceedings of the AAAI Conference on Artificial Intelligence\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:qwfzkbXwBrIJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53Tdw:AAGBfm0AAAAAY2txVdyI42DcxrJxH4NS5-tAhyX8uDPE&scisig=AAGBfm0AAAAAY2txVYTnP98bDj1zdXgctRniW47UY9Mg&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
@@ -192,7 +192,7 @@ Lixin Zou, Long Xia, Linfang Hou, Xiangyu Zhao, Dawei Yin\
 arXiv preprint arXiv:2105.01620\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:bh0LvWxQuisJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53bVo:AAGBfm0AAAAAY2txdVpEoxIQ13_hc--8tBMiGvidSalg&scisig=AAGBfm0AAAAAY2txdQFGbiL6EYLsKPapCb7ZCn2erGu7&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[Deep Recommender System: Fundamentals and Advances Tutorial at The Web Conference 2021](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:__bU50VfleQC)\
+[Deep Recommender System: Fundamentals and Advances Tutorial at The Web Conference 2021](https://deeprs-tutorial.github.io/)\
 Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
 WWW'21, Companion Proceedings of the Web Conference 2021\
 [[LINK](https://deeprs-tutorial.github.io/)]
@@ -224,7 +224,7 @@ PhD Thesis, Michigan State University (extended abstract at ACM SIGWEB Newslette
 
 [Self-supervised Learning for Alleviating Selection Bias in Recommendation Systems](https://irsworkshop.github.io/2021/publications/IRS2021_paper_2.pdf)\
 Haochen Liu, Da Tang, Ji Yang, Xiangyu Zhao, Jiliang Tang, Youlong Cheng\
-WWW'22, Proceedings of the Web Conference 2022\
+IRS'21, In International Workshop on Industrial Recommendation Systems (IRS) at SIGKDD 2021.\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:jLoiH_eJGKMJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP50MmY:AAGBfm0AAAAAY2tyKmZS7LY-yjPn3g622XVtWbz0Gnk1&scisig=AAGBfm0AAAAAY2tyKtZNfElU68V_urnBqlItlZ-61ild&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
 [AutoLoss: Automated Loss Function Search in Recommendations](https://dl.acm.org/doi/abs/10.1145/3447548.3467208)\
@@ -271,7 +271,7 @@ ICDM'21, Proceedings of the 21st International Conference on Data Mining\
 
 ### Publications in 2019 and before
 
-[Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:5MTHONV0fEkC)\
+[Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://dl.acm.org/doi/10.1145/3320496.3320500)\
 Xiangyu Zhao, Long Xia, Jiliang Tang, Dawei Yin\
 ACM SIGWEB Newsletter\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:8b2IFtda4JoJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5002M:AAGBfm0AAAAAY2tyy2MxwnAmgIbwlKVs622zzUt6in71&scisig=AAGBfm0AAAAAY2tyy4lZOM1z5V8zRov1VQMcoEOG8w68&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
@@ -295,7 +295,7 @@ ACM SIGKDD Explorations Newsletter\
 
 [//]: # (### Publications in 2017)
 
-[Deep reinforcement learning for list-wise recommendations](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:Wq2b2clWBLsC)\
+[Deep reinforcement learning for list-wise recommendations](https://arxiv.org/abs/1801.00209)\
 Xiangyu Zhao, Liang Zhang, Long Xia, Zhuoye Ding, Dawei Yin, Jiliang Tang\
 RL4KD'19, 1st Workshop on Deep Reinforcement Learning for Knowledge Discovery\
 [[LINK](https://arxiv.org/abs/1801.00209)]
