@@ -11,94 +11,85 @@ permalink: /publications/
 
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
 
-# Tutorials in 2023
+### Tutorials in 2023
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
-WWW'23, Companion Proceedings of the Web Conference 2023\
-[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/a.html)]
+WWW'23, Companion Proceedings of the Web Conference 2023
 
+[AutoML for Deep Recommender Systems: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
+Ruiming Tang, Bo Chen, Yejing Wang, Huifeng Guo, Yong Liu, Wenqi Fan, Xiangyu Zhao\
+WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining
 
 ### Publications in 2023
 
-[Multi-Task Recommendations with Reinforcement Learning]()\
+[Multi-Task Recommendations with Reinforcement Learning]\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
 
-[IDPN: Instance Denoising for Click-through Rate Prediction]()\
+[IDPN: Instance Denoising for Click-through Rate Prediction]\
 Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[AutoMLP: Automated MLP for Sequential Recommendations]()\
+[AutoMLP: Automated MLP for Sequential Recommendations]\
 Muyang Li, Zijian Zhang, Xiangyu Zhao, Minghao Zhao, Runze Wu, Ruocheng Guo\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[Exploration and Regularization of the Latent Action Space in Recommendation]()\
+[Exploration and Regularization of the Latent Action Space in Recommendation]\
 Shuchang Liu, Qingpeng Cai, Bowen Sun, Yuhao Wang, Dong Zheng, Peng Jiang, Kun Gai, Ji Jiang, Xiangyu Zhao, Yongfeng Zhang\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[User Retention-oriented Recommendation with Decision Transformer]()\
+[User Retention-oriented Recommendation with Decision Transformer]\
 Kesen Zhao, Lixin Zou, Xiangyu Zhao, Maolin Wang, Dawei Yin\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[Denoising and Prompt-Tuning for Multi-Behavior Recommendation]()\
+[Denoising and Prompt-Tuning for Multi-Behavior Recommendation]\
 Chi Zhang, Xiangyu Zhao, Rui Chen, Qilong Han, Li Li\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[IMF: Interactive Multimodal Fusion Model for Link Prediction]()\
+[IMF: Interactive Multimodal Fusion Model for Link Prediction]\
 Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, Chunxiao Xing\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning]()\
+[Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning]\
 Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Guandong Xu\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation]()\
+[MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation]\
 Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Haochen Liu, Liu Zitao\
-WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]()]
+WWW'23, Proceedings of the ACM Web Conference 2023
 
-[AutoSTL: Automated Spatio-Temporal Multi-Task Learning]()\
+[AutoSTL: Automated Spatio-Temporal Multi-Task Learning]\
 Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
-AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence\
-[[CITE]()]
+AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence
 
-[AutoML for Deep Recommender Systems: Fundamentals and Advances]()\
-Ruiming Tang, Bo Chen, Yejing Wang, Huifeng Guo, Yong Liu, Wenqi Fan, Xiangyu Zhao\
-WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
-[[CITE]()]
-
-[AutoGen: An Automated Dynamic Model Generation Framework for Recommender System]()\
+[AutoGen: An Automated Dynamic Model Generation Framework for Recommender System]\
 Chenxu Zhu, Bo Chen, Huifeng Guo, Hang Xu, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang\
-WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
-[[CITE]()]
+WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining
+
+### Tutorials in 2022
+
+[Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
+Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
+WWW'22, Companion Proceedings of the Web Conference 2022
 
 ### Publications in 2022
 
 [AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation](https://www.computer.org/csdl/proceedings-article/icdm/2022/509900a458/1KpCDRd7R60)\
 Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 ICDM'22, Proceedings of the 22st International Conference on Data Mining\
-[[CITE]()]
-
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/song2022autoassign.html)]
 
 [Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3511808.3557338)\
 Xinhang Li, Zhaopeng Qiu, Xiangyu Zhao, Zihao Wang, Yong Zhang, Chunxiao Xing, Xian Wu\
 CIKM'22, Proceedings of the 31st ACM International Conference on Information & Knowledge Management\
-[[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:RXhC833HsTMJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5fnGA:AAGBfm0AAAAAY2tZhGChdRtS2qFb6dLCF4UFjZyZ_97T&scisig=AAGBfm0AAAAAY2tZhM0k4mQgw76TFz8gaWnOi9ZqOnLZ&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2022gromov.html)]
 
 [Hierarchical Item Inconsistency Signal Learning for Sequence Denoising in Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3511808.3557348)\
 Chi Zhang, Yantong Du, Xiangyu Zhao, Qilong Han, Rui Chen, Li Li\
 CIKM'22, Proceedings of the 31st ACM International Conference on Information & Knowledge Management\
-[[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:x4y_w-kpbHoJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5dx0s:AAGBfm0AAAAAY2tb30vuCGvamU9OGikFd0wfHXt2cA9A&scisig=AAGBfm0AAAAAY2tb35czlAEzdmDZe00PPyosY6RoGDUM&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2022hierarchical.html)]
 
 [PROPN: Personalized Probabilistic Strategic Parameter Optimization in Recommendations](https://dl.acm.org/doi/abs/10.1145/3511808.3557130)\
 Pengfei He, Haochen Liu, Xiangyu Zhao, Hui Liu, Jiliang Tang\
@@ -129,11 +120,6 @@ KDD'22, Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and
 Xiangyu Zhao, Xin Xin, Weinan Zhang, Li Zhao, Dawei Yin, Grace Hui Yang\
 SIGIR'22, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:NdtUsnCdfA4J:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5ppj8:AAGBfm0AAAAAY2tvvj_dswzJpG6bHG-U3qnXeVULr9Ok&scisig=AAGBfm0AAAAAY2tvvmXDMHKn-SyCe2aSrO5KQ3Fkd9ii&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-
-[Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/doc/AutoML_RecSys_WWW2022.pdf)\
-Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
-WWW'22, Companion Proceedings of the Web Conference 2022\
-[[LINK](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)]
 
 [CBR: Context Bias aware Recommendation for Debiasing User Modeling and Click Prediction](https://dl.acm.org/doi/abs/10.1145/3485447.3512099)\
 Zhi Zheng, Zhaopeng Qiu, Tong Xu, Xian Wu, Xiangyu Zhao, Enhong Chen, Hui Xiong\
@@ -180,6 +166,18 @@ Xiangyu Zhao, Wenqi Fan, Hui Liu, Jiliang Tang\
 AAAI'22, Proceedings of the AAAI Conference on Artificial Intelligence\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:qwfzkbXwBrIJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53Tdw:AAGBfm0AAAAAY2txVdyI42DcxrJxH4NS5-tAhyX8uDPE&scisig=AAGBfm0AAAAAY2txVYTnP98bDj1zdXgctRniW47UY9Mg&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
+# Tutorials in 2021
+
+[Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
+Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
+WWW'21, Companion Proceedings of the Web Conference 2021\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/t_west2021summary.html)]
+
+[Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
+Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
+IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
+
+
 ### Publications in 2021
 
 [DRL4IR: 2nd Workshop on Deep Reinforcement Learning for Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462818)\
@@ -191,11 +189,6 @@ SIGIR'22, Companion Proceedings of the 44th International ACM SIGIR Conference o
 Lixin Zou, Long Xia, Linfang Hou, Xiangyu Zhao, Dawei Yin\
 arXiv preprint arXiv:2105.01620\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:bh0LvWxQuisJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53bVo:AAGBfm0AAAAAY2txdVpEoxIQ13_hc--8tBMiGvidSalg&scisig=AAGBfm0AAAAAY2txdQFGbiL6EYLsKPapCb7ZCn2erGu7&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-
-[Deep Recommender System: Fundamentals and Advances Tutorial at The Web Conference 2021](https://deeprs-tutorial.github.io/)\
-Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
-WWW'21, Companion Proceedings of the Web Conference 2021\
-[[LINK](https://deeprs-tutorial.github.io/)]
 
 [AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3442381.3450124)\
 Xiangyu Zhao, Haochen Liu, Hui Liu, Jiliang Tang, Weiwei Guo, Jun Shi, Sida Wang, Huiji Gao, Bo Long\
