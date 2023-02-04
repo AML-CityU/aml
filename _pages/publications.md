@@ -11,6 +11,14 @@ permalink: /publications/
 
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
 
+# Tutorials in 2023
+
+[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
+Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
+WWW'23, Companion Proceedings of the Web Conference 2023\
+[[CITE](bibtex/a.html)]
+
+
 ### Publications in 2023
 
 [Multi-Task Recommendations with Reinforcement Learning]()\
@@ -58,12 +66,6 @@ WWW'23, Proceedings of the ACM Web Conference 2023\
 Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Haochen Liu, Liu Zitao\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]()]
-
-[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
-Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
-WWW'23, Companion Proceedings of the Web Conference 2023\
-[[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:vWWaUbZcUu0J:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5pcBo:AAGBfm0AAAAAY2tvaBr4OG42CBGf_HK8HMNQJ7G7G_JT&scisig=AAGBfm0AAAAAY2tvaH95gXe7O0uXKI4ALHFo1J7VyEqk&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
-
 
 [AutoSTL: Automated Spatio-Temporal Multi-Task Learning]()\
 Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
