@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="try update citings">
-      <change afterPath="$PROJECT_DIR$/_bibtex/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bibtex/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibtex/a.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bibtex/a.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00054" summary=".">
-      <created>1667355905912</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1667355905912</updated>
     </task>
     <task id="LOCAL-00055" summary=".">
       <created>1667356121832</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675551020330</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="try update citings">
+      <created>1675551326014</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1675551326014</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

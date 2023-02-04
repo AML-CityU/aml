@@ -16,7 +16,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 WWW'23, Companion Proceedings of the Web Conference 2023\
-[[CITE](site.data.a)]
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/a.html)]
 
 
 ### Publications in 2023
