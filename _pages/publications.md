@@ -222,7 +222,7 @@ PhD Thesis, Michigan State University (extended abstract at ACM SIGWEB Newslette
 
 [Self-supervised Learning for Alleviating Selection Bias in Recommendation Systems](https://irsworkshop.github.io/2021/publications/IRS2021_paper_2.pdf)\
 Haochen Liu, Da Tang, Ji Yang, Xiangyu Zhao, Jiliang Tang, Youlong Cheng\
-WWW'22, Proceedings of the Web Conference 2022\
+IRS'21, In International Workshop on Industrial Recommendation Systems (IRS) at SIGKDD 2021.\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:jLoiH_eJGKMJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP50MmY:AAGBfm0AAAAAY2tyKmZS7LY-yjPn3g622XVtWbz0Gnk1&scisig=AAGBfm0AAAAAY2tyKtZNfElU68V_urnBqlItlZ-61ild&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
 [AutoLoss: Automated Loss Function Search in Recommendations](https://dl.acm.org/doi/abs/10.1145/3447548.3467208)\
