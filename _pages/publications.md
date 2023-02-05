@@ -173,7 +173,7 @@ Wenqi Fan, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, Qing Li\
 SIGIR'22, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:zm5cSN8SmkoJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53WeQ:AAGBfm0AAAAAY2txQeSB4V2z40b96JCQkt91xOIIUxWI&scisig=AAGBfm0AAAAAY2txQfEs-eXLDC_J5xiCRHpFmNU0pV5p&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[Multi-Type Urban Crime Prediction](https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf)\
+[Multi-Type Urban Crime Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/20360)\
 Xiangyu Zhao, Wenqi Fan, Hui Liu, Jiliang Tang\
 AAAI'22, Proceedings of the AAAI Conference on Artificial Intelligence\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:qwfzkbXwBrIJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53Tdw:AAGBfm0AAAAAY2txVdyI42DcxrJxH4NS5-tAhyX8uDPE&scisig=AAGBfm0AAAAAY2txVYTnP98bDj1zdXgctRniW47UY9Mg&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
