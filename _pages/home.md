@@ -49,15 +49,37 @@ permalink: /
 
 
 <div class="center">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 100px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 100px">
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 100px">
+  </div>
+  <div class="logopic" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu.png" style="width: 100px">
+  </div>
 </div>
