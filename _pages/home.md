@@ -49,17 +49,15 @@ permalink: /
 
 
 <div class="center">
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 100px">
-</figure>
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 100px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 100px">
 </div>
