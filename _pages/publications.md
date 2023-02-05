@@ -190,7 +190,7 @@ Lixin Zou, Long Xia, Linfang Hou, Xiangyu Zhao, Dawei Yin\
 arXiv preprint arXiv:2105.01620\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:bh0LvWxQuisJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP53bVo:AAGBfm0AAAAAY2txdVpEoxIQ13_hc--8tBMiGvidSalg&scisig=AAGBfm0AAAAAY2txdQFGbiL6EYLsKPapCb7ZCn2erGu7&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
 
-[Deep Recommender System: Fundamentals and Advances Tutorial at The Web Conference 2021](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:__bU50VfleQC)\
+[Deep Recommender System: Fundamentals and Advances Tutorial at The Web Conference 2021](https://deeprs-tutorial.github.io/)\
 Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
 WWW'21, Companion Proceedings of the Web Conference 2021\
 [[LINK](https://deeprs-tutorial.github.io/)]
