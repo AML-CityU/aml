@@ -18,8 +18,6 @@ permalink: /
 
 
 **We are  looking for passionate new Postdocs, PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
-
-
 <div class="center">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
