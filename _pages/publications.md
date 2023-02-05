@@ -269,7 +269,7 @@ ICDM'21, Proceedings of the 21st International Conference on Data Mining\
 
 ### Publications in 2019 and before
 
-[Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:5MTHONV0fEkC)\
+[Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://dl.acm.org/doi/10.1145/3320496.3320500)\
 Xiangyu Zhao, Long Xia, Jiliang Tang, Dawei Yin\
 ACM SIGWEB Newsletter\
 [[CITE](https://scholar.googleusercontent.com/scholar.bib?q=info:8b2IFtda4JoJ:scholar.google.com/&output=citation&scisdr=CgVLA7NvENPBqP5002M:AAGBfm0AAAAAY2tyy2MxwnAmgIbwlKVs622zzUt6in71&scisig=AAGBfm0AAAAAY2tyy4lZOM1z5V8zRov1VQMcoEOG8w68&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
