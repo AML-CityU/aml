@@ -49,7 +49,7 @@ permalink: /
 
 
 <div class="center">
-<figure class="fourth">
+<figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 100px">

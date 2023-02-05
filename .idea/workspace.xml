@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="updating citings">
-      <change afterPath="$PROJECT_DIR$/images/logopic/alibaba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/ant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/baidu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/bytedance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/criteo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/huawei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/jd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/kuaishou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/netease.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logopic/tencent.png" afterDir="false" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="updating logos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logopic/tencent.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logopic/tencent.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00058" summary="check photo size">
-      <created>1667468609139</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1667468609139</updated>
     </task>
     <task id="LOCAL-00059" summary="check photo size">
       <created>1667468692006</created>
@@ -420,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675556698444</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="updating logos">
+      <created>1675558251455</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1675558251455</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,6 +496,7 @@
     <MESSAGE value="update news and publications" />
     <MESSAGE value="try update citings" />
     <MESSAGE value="updating citings" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating citings" />
+    <MESSAGE value="updating logos" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating logos" />
   </component>
 </project>
