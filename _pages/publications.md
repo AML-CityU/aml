@@ -11,7 +11,7 @@ permalink: /publications/
 
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
 
-### Tutorials in 2023
+### Tutorials
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
@@ -20,6 +20,19 @@ WWW'23, Companion Proceedings of the Web Conference 2023
 [AutoML for Deep Recommender Systems: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
 Ruiming Tang, Bo Chen, Yejing Wang, Huifeng Guo, Yong Liu, Wenqi Fan, Xiangyu Zhao\
 WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining
+
+[Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
+Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
+WWW'22, Companion Proceedings of the Web Conference 2022
+
+[Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
+Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
+WWW'21, Companion Proceedings of the Web Conference 2021\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/t_west2021summary.html)]
+
+[Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
+Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
+IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
 
 ### Publications in 2023
 
@@ -68,11 +81,6 @@ AutoGen: An Automated Dynamic Model Generation Framework for Recommender System\
 Chenxu Zhu, Bo Chen, Huifeng Guo, Hang Xu, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang\
 WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining
 
-### Tutorials in 2022
-
-[Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
-Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
-WWW'22, Companion Proceedings of the Web Conference 2022
 
 ### Publications in 2022
 
@@ -160,17 +168,6 @@ SIGIR'22, Proceedings of the 45th International ACM SIGIR Conference on Research
 Xiangyu Zhao, Wenqi Fan, Hui Liu, Jiliang Tang\
 AAAI'22, Proceedings of the AAAI Conference on Artificial Intelligence\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2022multi.html)]
-
-# Tutorials in 2021
-
-[Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
-Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
-WWW'21, Companion Proceedings of the Web Conference 2021\
-[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/t_west2021summary.html)]
-
-[Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
-Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
-IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
 
 
 ### Publications in 2021
