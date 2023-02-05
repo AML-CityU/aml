@@ -52,7 +52,6 @@ permalink: /
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
@@ -60,4 +59,5 @@ permalink: /
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu.png" style="width: 100px; margin-left: 5px; margin-right: 5px">
 </div>
