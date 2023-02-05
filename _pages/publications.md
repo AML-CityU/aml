@@ -293,7 +293,7 @@ ACM SIGKDD Explorations Newsletter\
 
 [//]: # (### Publications in 2017)
 
-[Deep reinforcement learning for list-wise recommendations](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Nkm9r2IAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=Nkm9r2IAAAAJ:Wq2b2clWBLsC)\
+[Deep reinforcement learning for list-wise recommendations](https://arxiv.org/abs/1801.00209)\
 Xiangyu Zhao, Liang Zhang, Long Xia, Zhuoye Ding, Dawei Yin, Jiliang Tang\
 RL4KD'19, 1st Workshop on Deep Reinforcement Learning for Knowledge Discovery\
 [[LINK](https://arxiv.org/abs/1801.00209)]
