@@ -22,6 +22,19 @@ permalink: /
 
 <br />
 
+<div class="center">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu1.png" style="width: 136px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 187px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+</div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -47,20 +60,4 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
-
-
-
-<div class="center">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu1.png" style="width: 136px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/bytedance.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/tencent.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 187px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
 </div>
