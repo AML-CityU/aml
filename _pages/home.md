@@ -22,14 +22,12 @@ permalink: /
 
 <br />
 
-<!--<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
+<!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
     </ol>
 
-    <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg" alt="Slide 1" />
@@ -46,8 +44,7 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>-->
-
+</div> -->
 
 <div class="center">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
@@ -62,4 +59,3 @@ permalink: /
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
 </div>
-
