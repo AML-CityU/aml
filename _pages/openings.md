@@ -8,7 +8,7 @@ permalink: /openings
 
 # Open positions
 
-AML Lab is a research group in [School of Data Science](https://www.sdsc.cityu.edu.hk/) at the [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), which is ranked #53 in QS World University Rankings 2022.
+AML Lab is a research group in [School of Data Science](https://www.sdsc.cityu.edu.hk/) at the [City University of Hong Kong (CityU)](https://www.cityu.edu.hk/), which is ranked around #50 in QS World University Rankings.
 
 We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA and Visiting positions who are interested in pursuing data mining and machine learning research and applications, especially
 
