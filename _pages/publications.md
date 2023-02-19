@@ -58,7 +58,7 @@ Kesen Zhao, Lixin Zou, Xiangyu Zhao, Maolin Wang, Dawei Yin\
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 Denoising and Prompt-Tuning for Multi-Behavior Recommendation\
-Chi Zhang, Xiangyu Zhao, Rui Chen, Qilong Han, Li Li\
+Chi Zhang, Rui Chen, Xiangyu Zhao, Qilong Han, Li Li\
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 IMF: Interactive Multimodal Fusion Model for Link Prediction\
