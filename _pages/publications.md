@@ -41,7 +41,7 @@ Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, D
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 
-IDPN: Instance Denoising for Click-through Rate Prediction\
+AutoDenoise: Automatic Data Instance Denoising for Recommendations\
 Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu\
 WWW'23, Proceedings of the ACM Web Conference 2023
 
