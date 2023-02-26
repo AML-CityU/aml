@@ -38,7 +38,7 @@ Exceptionally qualified students are encouraged to apply the [Hong Kong PhD Fell
 
 You are welcomed to apply the [CityU Joint Ph.D. programme](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes). You can obtain the CityU’s PhD degree simultaneously within the same normal year of study. There is no financial cost from students, and you will get a scholarship of HK$17,500/month during CityU. Please prepare your English test (TOEFL 79 or IELTS 6.5), and submit application to your home university in Dec every year.
 
-欢迎申请[CityU联合培养博士项目](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes)，可以同时获得CityU博士学位。**城大博士学位是留学基金委认可的海外学位，享受留学生各类福利，如人才引进政策等。在海外和港澳台地区也是直接认可有效的。** 学生和内地导师无需支付任何费用 (由两边学校支付)，学生在CityU期间每月获发奖学金17500+港币。请在12月9日向你所在学校(学院、研究生院)提交申请，需要英语成绩托福79或雅思6.5。多数高校可在次年2月提交英语成绩。请在先确认本校导师支持申请 (<u>注：部分高校本项目不占导师原有的博士指标</u>)。
+欢迎申请[CityU联合培养博士项目](https://www.cityu.edu.hk/pia/page.aspx?p=PhD_Joint_Degree_Programmes)，可以同时获得CityU博士学位。**城大博士学位是留学基金委认可的海外学位，享受留学生各类福利，如人才引进政策等。在海外和港澳台地区也是直接认可有效的。** 学生和内地导师无需支付任何费用 (由两边学校支付)，学生在CityU期间每月获发奖学金17500+港币。请在每年12月向你所在学校(学院、研究生院)提交申请，需要英语成绩托福79或雅思6.5 (多数高校可在次年2月提交英语成绩)。请确认本校导师支持申请 (<u>注：部分高校本项目不占导师原有的博士指标</u>)。
 
 
 ***
