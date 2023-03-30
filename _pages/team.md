@@ -555,7 +555,7 @@ Jump to [Faculty](#faculty), [PhD students](#phd-students), [MS Students](#ms-st
 ### Enrollment Date: 2023
 
 {% assign number_printed = 0 %}
-{% for member in site.data.ms21 %}
+{% for member in site.data.ms23 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
