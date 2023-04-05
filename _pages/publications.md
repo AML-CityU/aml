@@ -35,21 +35,34 @@ Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
 
 ### Publications in 2023
+
 Linear Attention Mechanism for Long-term Sequential Recommender Systems\
 Langming Liu, Xiangyu Zhao, Chi Zhang, Jingtong Gao, Wanyu Wang, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu and Qing Li\
-SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 PLATE: A Prompt-enhanced Paradigm for Multi-Target Cross-Domain Recommendation\
-Yuhao Wang\
-SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+Yuhao Wang, Xiangyu Zhao, Bo Chen, Qidong Liu, Huifeng Guo, Huanshuo Liu, Yichao Wang, Rui Zhang and Ruiming Tang\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 Instance Transfer for Cross-Domain Recommendations\
 Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo and Ruiming Tang\
-SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 Single-shot Feature Selection Framework for Multi-task Deep Recommender Systems\
 Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang and Zhenhua Dong\
-SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+Towards Robust Knowledge Tracing Models via k-Sparse Attention\
+Shuyan Huang, Zitao Liu, Xiangyu Zhao, Weiqi Luo and Jian Weng\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework\
+Xin Gan, Yuhao Wang, Xiangyu Zhao, Wanyu Wang, Yiqi Wang and Zitao Liu\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+Continuous Input Embedding Size Search For Recommender Systems\
+Yunke Qu, Tong Chen, Xiangyu Zhao, Lizhen Cui, Kai Zheng and Hongzhi Yin\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 Multi-Task Recommendations with Reinforcement Learning\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
