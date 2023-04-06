@@ -108,8 +108,8 @@ AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence
 
 AutoGen: An Automated Dynamic Model Generation Framework for Recommender System\
 Chenxu Zhu, Bo Chen, Huifeng Guo, Hang Xu, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang\
-WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining
-
+WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhu2023autogen.html)]
 
 ### Publications in 2022
 
