@@ -99,7 +99,7 @@ Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Gua
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation\
-Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Ming He, Yiqi Liu, Zitao Liu\
+Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Ming He, Yiqi Wang, Zitao Liu\
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 AutoSTL: Automated Spatio-Temporal Multi-Task Learning\
