@@ -71,11 +71,11 @@ WWW'23, Proceedings of the ACM Web Conference 2023
 
 
 AutoDenoise: Automatic Data Instance Denoising for Recommendations\
-Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu\
+Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu, Wanyu Wang\
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 AutoMLP: Automated MLP for Sequential Recommendations\
-Muyang Li, Zijian Zhang, Xiangyu Zhao, Minghao Zhao, Runze Wu, Ruocheng Guo\
+Muyang Li, Zijian Zhang, Xiangyu Zhao, Wanyu Wang, Minghao Zhao, Runze Wu, Ruocheng Guo\
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 Exploration and Regularization of the Latent Action Space in Recommendation\
@@ -99,7 +99,7 @@ Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Gua
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation\
-Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Haochen Liu, Liu Zitao\
+Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Ming He, Yiqi Liu, Zitao Liu\
 WWW'23, Proceedings of the ACM Web Conference 2023
 
 AutoSTL: Automated Spatio-Temporal Multi-Task Learning\
