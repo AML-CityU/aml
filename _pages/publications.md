@@ -40,11 +40,11 @@ Linear Attention Mechanism for Long-term Sequential Recommender Systems\
 Langming Liu, Xiangyu Zhao, Chi Zhang, Jingtong Gao, Wanyu Wang, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu and Qing Li\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-PLATE: A Prompt-enhanced Paradigm for Multi-Target Cross-Domain Recommendation\
+PLATE: A Prompt-enhanced Paradigm for Multi-Scenario Recommendations\
 Yuhao Wang, Xiangyu Zhao, Bo Chen, Qidong Liu, Huifeng Guo, Huanshuo Liu, Yichao Wang, Rui Zhang and Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-Instance Transfer for Cross-Domain Recommendations\
+AutoTransfer: Instance Transfer for Cross-Domain Recommendations\
 Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo and Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
