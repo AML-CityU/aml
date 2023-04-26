@@ -13,6 +13,14 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Tutorials
 
+Joint Modeling in Recommendations: Foundations and Frontiers\
+Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang\
+IJCAI'2023, Proceedings of the 30st International Joint Conference on Artificial Intelligence
+
+[Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
+Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
+IJCAI'2023, Proceedings of the 30st International Joint Conference on Artificial Intelligence
+
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 WWW'23, Companion Proceedings of the Web Conference 2023
@@ -35,6 +43,10 @@ Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
 
 ### Publications in 2023
+
+Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\
+Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang\
+TKDE, IEEE Transactions on Knowledge and Data Engineering
 
 Linear Attention Mechanism for Long-term Sequential Recommender Systems\
 Langming Liu, Xiangyu Zhao, Chi Zhang, Jingtong Gao, Wanyu Wang, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu and Qing Li\
