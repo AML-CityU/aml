@@ -15,11 +15,11 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 Joint Modeling in Recommendations: Foundations and Frontiers\
 Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang\
-IJCAI'2023, Proceedings of the 30st International Joint Conference on Artificial Intelligence
+IJCAI'2023, Proceedings of the 32st International Joint Conference on Artificial Intelligence
 
 [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
-IJCAI'2023, Proceedings of the 30st International Joint Conference on Artificial Intelligence
+IJCAI'2023, Proceedings of the 32st International Joint Conference on Artificial Intelligence
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
