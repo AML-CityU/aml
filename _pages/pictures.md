@@ -15,11 +15,10 @@ permalink: /pictures/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="clearfix">
+{{ pic.title }}
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
-{{ pic.title }}
   
 {% assign number_printed = number_printed | plus: 1 %}
   
