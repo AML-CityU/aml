@@ -10,14 +10,14 @@ permalink: /pictures/
 {% assign number_printed = 0 %}
 {% for pic in site.data.pic %}
 
-{% assign even_odd = number_printed | modulo: 1 %} 
+{% assign even_odd = number_printed | modulo: 1  %} 
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 <div class="clearfix">
 <b>{{ pic.title }}</b><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" style="float: center" />
 </div>
   
 {% assign number_printed = number_printed | plus: 1 %}
