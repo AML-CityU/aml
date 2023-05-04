@@ -16,7 +16,9 @@ permalink: /pictures/
 <div class="row">
 {% endif %}
 <div class="picpage">
+<div style= "text-align:center">
 <b>{{ pic.title }}</b><br>
+</div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" />
 </div>
   
