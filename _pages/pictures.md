@@ -15,9 +15,9 @@ permalink: /pictures/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-<div class="clearfix">
+<div class="picpage">
 <b>{{ pic.title }}</b><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" style="text-align: center" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" />
 </div>
   
 {% assign number_printed = number_printed | plus: 1 %}
