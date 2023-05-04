@@ -63,20 +63,6 @@
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
     </task>
-    <task id="LOCAL-00100" summary="update news and publications">
-      <created>1674689697786</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1674689697786</updated>
-    </task>
-    <task id="LOCAL-00101" summary="update news and publications">
-      <created>1674690217248</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1674690217248</updated>
-    </task>
     <task id="LOCAL-00102" summary="try update citings">
       <created>1675551020329</created>
       <option name="number" value="00102" />
@@ -406,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683167275312</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Update pics">
+      <created>1683167445640</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1683167445640</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Update pics">
+      <created>1683167578646</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1683167578646</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
