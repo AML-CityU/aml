@@ -17,7 +17,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/photos/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 {{ pic.title }}
   
