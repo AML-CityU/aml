@@ -126,13 +126,11 @@ firstp {
 
 .picpage{
    width:900px;
-   height:600px;
    position: relative;
 }
 
 .picpage img{
     position: absolute;
-    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
