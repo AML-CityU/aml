@@ -17,7 +17,7 @@ permalink: /pictures/
 {% endif %}
 <div class="clearfix">
 <b>{{ pic.title }}</b><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" style="float: center" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" style="text-align: center" />
 </div>
   
 {% assign number_printed = number_printed | plus: 1 %}
