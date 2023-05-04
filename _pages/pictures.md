@@ -5,15 +5,6 @@ excerpt: "AML Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-
----
-title: "NDS Lab - Pictures"
-layout: piclay
-excerpt: "NDS Lab -- Pictures"
-permalink: /lab-photos/
----
-
 # AML Lab Photos
 
 {% assign number_printed = 0 %}
