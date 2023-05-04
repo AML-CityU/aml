@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="Update pics">
-      <change beforePath="$PROJECT_DIR$/_pages/pictures.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/pictures.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
-    </list>
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="Update pics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00094" summary="update new ms members">
-      <created>1672810907208</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1672810907208</updated>
     </task>
     <task id="LOCAL-00095" summary="update new ms members">
       <created>1672810975673</created>
@@ -409,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683165255085</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="Update pics">
+      <created>1683165615401</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1683165615401</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
