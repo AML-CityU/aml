@@ -19,7 +19,7 @@ permalink: /pictures/
 <p style= "text-align:center">
 <b>{{ pic.title }}</b><br>
 </p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="70%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" width="85%" />
 </div>
   
 {% assign number_printed = number_printed | plus: 1 %}
