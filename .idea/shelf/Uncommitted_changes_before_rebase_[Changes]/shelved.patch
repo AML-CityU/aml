@@ -1,0 +1,441 @@
+Index: _pages/pictures.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>---\r\ntitle: \"AML Lab - Pictures\"\r\nlayout: piclay\r\nexcerpt: \"AML Lab -- Pictures\"\r\npermalink: /pictures/\r\n---\r\n\r\n# AML Lab Photos\r\n\r\n{% assign number_printed = 0 %}\r\n{% for pic in site.data.pic %}\r\n\r\n{% assign even_odd = number_printed | modulo: 1  %} \r\n\r\n{% if even_odd == 0 %}\r\n<div class=\"row\">\r\n{% endif %}\r\n<div class=\"picpage\">\r\n<p style= \"text-align:center\">\r\n<b>{{ pic.title }}</b><br>\r\n</p>\r\n<img src=\"{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}\" />\r\n</div>\r\n  \r\n{% assign number_printed = number_printed | plus: 1 %}\r\n  \r\n</div>\r\n\r\n{% endfor %}\r\n\r\n\r\n<p> &nbsp; </p>\r\n\r\n\r\n\r\n[//]: # (No pictures yet. We will update our activity photos in the future.)\r\n\r\n[//]: # ()\r\n[//]: # ()\r\n[//]: # (<div markdown=\"0\" id=\"carousel\" class=\"carousel slide\" data-ride=\"carousel\" data-interval=\"4000\" data-pause=\"hover\" >)\r\n\r\n[//]: # (    <!-- Menu -->)\r\n\r\n[//]: # (    <ol class=\"carousel-indicators\">)\r\n\r\n[//]: # (        <li data-target=\"#carousel\" data-slide-to=\"0\" class=\"active\"></li>)\r\n\r\n[//]: # (        <li data-target=\"#carousel\" data-slide-to=\"1\"></li>)\r\n\r\n[//]: # (    </ol>)\r\n\r\n[//]: # ()\r\n[//]: # (    <!-- Items -->)\r\n\r\n[//]: # (    <div class=\"carousel-inner\" markdown=\"0\">)\r\n\r\n[//]: # (        <div class=\"item active\">)\r\n\r\n[//]: # (            <img src=\"{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg\" alt=\"Slide 1\" />)\r\n\r\n[//]: # (        </div>)\r\n\r\n[//]: # (        <div class=\"item\">)\r\n\r\n[//]: # (            <img src=\"{{ site.url }}{{ site.baseurl }}/images/homepic/cityu1.jpg\" alt=\"Slide 2\" />)\r\n\r\n[//]: # (        </div>)\r\n\r\n[//]: # (    </div>)\r\n\r\n[//]: # (  <a class=\"left carousel-control\" href=\"#carousel\" role=\"button\" data-slide=\"prev\">)\r\n\r\n[//]: # (    <span class=\"glyphicon glyphicon-chevron-left\" aria-hidden=\"true\"></span>)\r\n\r\n[//]: # (    <span class=\"sr-only\">Previous</span>)\r\n\r\n[//]: # (  </a>)\r\n\r\n[//]: # (  <a class=\"right carousel-control\" href=\"#carousel\" role=\"button\" data-slide=\"next\">)\r\n\r\n[//]: # (    <span class=\"glyphicon glyphicon-chevron-right\" aria-hidden=\"true\"></span>)\r\n\r\n[//]: # (    <span class=\"sr-only\">Next</span>)\r\n\r\n[//]: # (  </a>)\r\n\r\n[//]: # (</div>)\r\n\r\n[//]: # (Jump to: [Leiden]&#40;#leiden&#41;, [ETHZ]&#40;#ethz&#41;, [Cornell]&#40;#cornell&#41;, [St Andrews]&#40;#st-andrews&#41;)\r\n\r\n\r\n[//]: # (## Leiden)\r\n\r\n[//]: # (#### Timelapse of our STM assembling [&#40;see LION news item&#41;]&#40;https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN&#41;:)\r\n\r\n[//]: # (<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3iKvUMv1h5A\" frameborder=\"0\" allowfullscreen></iframe>)\r\n\r\n[//]: # ()\r\n[//]: # (#### Gallery)\r\n\r\n[//]: # (&#40;Right-click *'view image'* to see a larger image.&#41;)\r\n\r\n[//]: # ({% assign number_printed = 0 %})\r\n\r\n[//]: # ({% for pic in site.data.pictures_Leiden %})\r\n\r\n[//]: # ()\r\n[//]: # ({% assign even_odd = number_printed | modulo: 4 %})\r\n\r\n[//]: # ()\r\n[//]: # ({% if even_odd == 0 %})\r\n\r\n[//]: # (<div class=\"row\">)\r\n\r\n[//]: # ({% endif %})\r\n\r\n[//]: # ()\r\n[//]: # (<div class=\"col-sm-3 clearfix\">)\r\n\r\n[//]: # (<img src=\"{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}\" class=\"img-responsive\" width=\"95%\" style=\"float: left\" />)\r\n\r\n[//]: # (</div>)\r\n\r\n[//]: # ()\r\n[//]: # ({% assign number_printed = number_printed | plus: 1 %})\r\n\r\n[//]: # ()\r\n[//]: # ({% if even_odd > 2 %})\r\n\r\n[//]: # (</div>)\r\n\r\n[//]: # ({% endif %})\r\n\r\n[//]: # ()\r\n[//]: # ()\r\n[//]: # ({% endfor %})\r\n\r\n[//]: # ()\r\n[//]: # ({% assign even_odd = number_printed | modulo: 4 %})\r\n\r\n[//]: # ({% if even_odd == 1 %})\r\n\r\n[//]: # (</div>)\r\n\r\n[//]: # ({% endif %})\r\n\r\n[//]: # ()\r\n[//]: # ({% if even_odd == 2 %})\r\n\r\n[//]: # (</div>)\r\n\r\n[//]: # ({% endif %})\r\n\r\n[//]: # ()\r\n[//]: # ({% if even_odd == 3 %})\r\n\r\n[//]: # (</div>)\r\n\r\n[//]: # ({% endif %})\r\n\r\n[//]: # ()\r\n[//]: # (<p> &nbsp; </p>)\r\n\r\n[//]: # ()\r\n[//]: # (First advertisement.)\r\n\r\n[//]: # (<figure>)\r\n\r\n[//]: # (<img src=\"{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg\" width=\"60%\" >)\r\n\r\n[//]: # (</figure>)\r\n\r\n[//]: # ()\r\n[//]: # ()\r\n[//]: # (## ETHZ)\r\n\r\n[//]: # (From the [group of Andreas Wallraff]&#40;http://www.qudev.ethz.ch/&#41;.)\r\n\r\n[//]: # (<figure>)\r\n\r\n[//]: # (<img src=\"{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg\" width=\"60%\">)\r\n\r\n[//]: # (</figure>)\r\n\r\n[//]: # ()\r\n[//]: # (## Cornell)\r\n\r\n[//]: # (From the [group of Seamus JC Davis]&#40;http://davisgroup.lassp.cornell.edu&#41;.)\r\n\r\n[//]: # (<figure>)\r\n\r\n[//]: # (<img src=\"{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg\" width=\"60%\">)\r\n\r\n[//]: # (</figure>)\r\n\r\n[//]: # ()\r\n[//]: # (## St Andrews)\r\n\r\n[//]: # (From the [group of Felix Baumberger]&#40;http://dqmp.unige.ch/baumberger/&#41; &#40;now at University of Geneva&#41;.)\r\n\r\n[//]: # (<figure>)\r\n\r\n[//]: # (<img src=\"{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg\" width=\"60%\">)\r\n\r\n[//]: # (</figure>)\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/_pages/pictures.md b/_pages/pictures.md
+--- a/_pages/pictures.md	(revision eab786e9a7a5e444b31ec902b11cceae30ceb935)
++++ b/_pages/pictures.md	(date 1683431251189)
+@@ -7,200 +7,268 @@
+ 
+ # AML Lab Photos
+ 
+-{% assign number_printed = 0 %}
+-{% for pic in site.data.pic %}
+-
+-{% assign even_odd = number_printed | modulo: 1  %} 
++[//]: # ({% assign number_printed = 0 %})
+ 
+-{% if even_odd == 0 %}
+-<div class="row">
+-{% endif %}
+-<div class="picpage">
+-<p style= "text-align:center">
+-<b>{{ pic.title }}</b><br>
+-</p>
+-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" />
+-</div>
+-  
+-{% assign number_printed = number_printed | plus: 1 %}
+-  
+-</div>
+-
+-{% endfor %}
+-
+-
+-<p> &nbsp; </p>
+-
+-
+-
+-[//]: # (No pictures yet. We will update our activity photos in the future.)
++[//]: # ({% for pic in site.data.pic %})
+ 
+ [//]: # ()
++[//]: # ({% assign even_odd = number_printed | modulo: 1  %} )
++
+ [//]: # ()
+-[//]: # (<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >)
+-
+-[//]: # (    <!-- Menu -->)
+-
+-[//]: # (    <ol class="carousel-indicators">)
+-
+-[//]: # (        <li data-target="#carousel" data-slide-to="0" class="active"></li>)
+-
+-[//]: # (        <li data-target="#carousel" data-slide-to="1"></li>)
++[//]: # ({% if even_odd == 0 %})
+ 
+-[//]: # (    </ol>)
++[//]: # (<div class="row">)
+ 
+-[//]: # ()
+-[//]: # (    <!-- Items -->)
++[//]: # ({% endif %})
+ 
+-[//]: # (    <div class="carousel-inner" markdown="0">)
++[//]: # (<div class="picpage">)
+ 
+-[//]: # (        <div class="item active">)
++[//]: # (<p style= "text-align:center">)
+ 
+-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg" alt="Slide 1" />)
++[//]: # (<b>{{ pic.title }}</b><br>)
+ 
+-[//]: # (        </div>)
++[//]: # (</p>)
+ 
+-[//]: # (        <div class="item">)
+-
+-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu1.jpg" alt="Slide 2" />)
+-
+-[//]: # (        </div>)
++[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" />)
+ 
+-[//]: # (    </div>)
++[//]: # (</div>)
+ 
+-[//]: # (  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">)
+-
+-[//]: # (    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>)
+-
+-[//]: # (    <span class="sr-only">Previous</span>)
+-
+-[//]: # (  </a>)
++[//]: # (  )
++[//]: # ({% assign number_printed = number_printed | plus: 1 %})
+ 
+-[//]: # (  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">)
+-
+-[//]: # (    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>)
+-
+-[//]: # (    <span class="sr-only">Next</span>)
+-
+-[//]: # (  </a>)
+-
++[//]: # (  )
+ [//]: # (</div>)
+ 
++[//]: # ()
++[//]: # ({% endfor %})
++
++[//]: # ()
++[//]: # ()
++[//]: # (<p> &nbsp; </p>)
++
++
++
++
++
++
++No pictures yet. We will update our activity photos in the future.
++
++
++
++<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
++
++    <!-- Menu -->
++
++    <ol class="carousel-indicators">
++
++        <li data-target="#carousel" data-slide-to="0" class="active"></li>
++
++        <li data-target="#carousel" data-slide-to="1"></li>
++
++    </ol>
++
++
++    <!-- Items -->
++
++    <div class="carousel-inner" markdown="0">
++
++        <div class="item active">
++
++            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg" alt="Slide 1" />
++
++        </div>
++
++        <div class="item">
++
++            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu1.jpg" alt="Slide 2" />
++
++        </div>
++
++    </div>
++
++  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
++
++    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
++
++    <span class="sr-only">Previous</span>
++
++  </a>
++
++  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
++
++    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
++
++    <span class="sr-only">Next</span>
++
++  </a>
++
++</div>
++
+ [//]: # (Jump to: [Leiden]&#40;#leiden&#41;, [ETHZ]&#40;#ethz&#41;, [Cornell]&#40;#cornell&#41;, [St Andrews]&#40;#st-andrews&#41;)
+ 
+-
++[//]: # ()
++[//]: # ()
+ [//]: # (## Leiden)
+ 
++[//]: # ()
+ [//]: # (#### Timelapse of our STM assembling [&#40;see LION news item&#41;]&#40;https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN&#41;:)
+ 
++[//]: # ()
+ [//]: # (<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>)
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # (#### Gallery)
+ 
++[//]: # ()
+ [//]: # (&#40;Right-click *'view image'* to see a larger image.&#41;)
+ 
++[//]: # ()
+ [//]: # ({% assign number_printed = 0 %})
+ 
++[//]: # ()
+ [//]: # ({% for pic in site.data.pictures_Leiden %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ({% assign even_odd = number_printed | modulo: 4 %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ({% if even_odd == 0 %})
+ 
++[//]: # ()
+ [//]: # (<div class="row">)
+ 
++[//]: # ()
+ [//]: # ({% endif %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # (<div class="col-sm-3 clearfix">)
+ 
++[//]: # ()
+ [//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />)
+ 
++[//]: # ()
+ [//]: # (</div>)
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ({% assign number_printed = number_printed | plus: 1 %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ({% if even_odd > 2 %})
+ 
++[//]: # ()
+ [//]: # (</div>)
+ 
++[//]: # ()
+ [//]: # ({% endif %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ()
+ [//]: # ({% endfor %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ({% assign even_odd = number_printed | modulo: 4 %})
+ 
++[//]: # ()
+ [//]: # ({% if even_odd == 1 %})
+ 
++[//]: # ()
+ [//]: # (</div>)
+ 
++[//]: # ()
+ [//]: # ({% endif %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ({% if even_odd == 2 %})
+ 
++[//]: # ()
+ [//]: # (</div>)
+ 
++[//]: # ()
+ [//]: # ({% endif %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ({% if even_odd == 3 %})
+ 
++[//]: # ()
+ [//]: # (</div>)
+ 
++[//]: # ()
+ [//]: # ({% endif %})
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # (<p> &nbsp; </p>)
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # (First advertisement.)
+ 
++[//]: # ()
+ [//]: # (<figure>)
+ 
++[//]: # ()
+ [//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >)
+ 
++[//]: # ()
+ [//]: # (</figure>)
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # ()
+ [//]: # (## ETHZ)
+ 
++[//]: # ()
+ [//]: # (From the [group of Andreas Wallraff]&#40;http://www.qudev.ethz.ch/&#41;.)
+ 
++[//]: # ()
+ [//]: # (<figure>)
+ 
++[//]: # ()
+ [//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">)
+ 
++[//]: # ()
+ [//]: # (</figure>)
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # (## Cornell)
+ 
++[//]: # ()
+ [//]: # (From the [group of Seamus JC Davis]&#40;http://davisgroup.lassp.cornell.edu&#41;.)
+ 
++[//]: # ()
+ [//]: # (<figure>)
+ 
++[//]: # ()
+ [//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">)
+ 
++[//]: # ()
+ [//]: # (</figure>)
+ 
++[//]: # ()
+ [//]: # ()
+ [//]: # (## St Andrews)
+ 
++[//]: # ()
+ [//]: # (From the [group of Felix Baumberger]&#40;http://dqmp.unige.ch/baumberger/&#41; &#40;now at University of Geneva&#41;.)
+ 
++[//]: # ()
+ [//]: # (<figure>)
+ 
++[//]: # ()
+ [//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">)
+ 
++[//]: # ()
+ [//]: # (</figure>)
+ 
++[//]: # ()
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"eadc4631-0ed2-4dff-9290-279df0e888d0\" name=\"Changes\" comment=\"Update pics\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"221023-1\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"221023-1\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Gc8gd4mgNlNDilcdqJlTBkXbub\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\github\\aml\\_data\" />\r\n      <recent name=\"C:\\github\\aml\\_pages\" />\r\n      <recent name=\"C:\\github\\aml\\images\" />\r\n      <recent name=\"C:\\github\\aml\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"eadc4631-0ed2-4dff-9290-279df0e888d0\" name=\"Changes\" comment=\"\" />\r\n      <created>1666676624002</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1666676624002</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00102\" summary=\"try update citings\">\r\n      <created>1675551020329</created>\r\n      <option name=\"number\" value=\"00102\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00102\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675551020330</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00103\" summary=\"try update citings\">\r\n      <created>1675551326014</created>\r\n      <option name=\"number\" value=\"00103\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00103\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675551326014</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00104\" summary=\"try update citings\">\r\n      <created>1675551916838</created>\r\n      <option name=\"number\" value=\"00104\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00104\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675551916838</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00105\" summary=\"try update citings\">\r\n      <created>1675553659645</created>\r\n      <option name=\"number\" value=\"00105\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00105\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675553659646</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00106\" summary=\"updating citings\">\r\n      <created>1675556698444</created>\r\n      <option name=\"number\" value=\"00106\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00106\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675556698444</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00107\" summary=\"updating logos\">\r\n      <created>1675558251455</created>\r\n      <option name=\"number\" value=\"00107\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00107\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675558251455</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00108\" summary=\"updating logos\">\r\n      <created>1675558916825</created>\r\n      <option name=\"number\" value=\"00108\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00108\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675558916825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00109\" summary=\"updating logos\">\r\n      <created>1675559541749</created>\r\n      <option name=\"number\" value=\"00109\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00109\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675559541749</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00110\" summary=\"updating logos\">\r\n      <created>1675559715212</created>\r\n      <option name=\"number\" value=\"00110\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00110\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675559715212</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00111\" summary=\"updating logos\">\r\n      <created>1675560665795</created>\r\n      <option name=\"number\" value=\"00111\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00111\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675560665795</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00112\" summary=\"updating logos\">\r\n      <created>1675561106399</created>\r\n      <option name=\"number\" value=\"00112\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00112\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675561106399</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00113\" summary=\"updating logos\">\r\n      <created>1675561283288</created>\r\n      <option name=\"number\" value=\"00113\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00113\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675561283288</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00114\" summary=\"updating logos\">\r\n      <created>1675561779017</created>\r\n      <option name=\"number\" value=\"00114\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00114\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675561779018</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00115\" summary=\"updating logos\">\r\n      <created>1675561911481</created>\r\n      <option name=\"number\" value=\"00115\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00115\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675561911481</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00116\" summary=\"updating logos\">\r\n      <created>1675562007270</created>\r\n      <option name=\"number\" value=\"00116\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00116\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675562007270</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00117\" summary=\"updating logos\">\r\n      <created>1675562125871</created>\r\n      <option name=\"number\" value=\"00117\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00117\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675562125871</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00118\" summary=\"updating logos\">\r\n      <created>1675562289102</created>\r\n      <option name=\"number\" value=\"00118\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00118\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675562289102</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00119\" summary=\"updating publications\">\r\n      <created>1675625242269</created>\r\n      <option name=\"number\" value=\"00119\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00119\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675625242269</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00120\" summary=\"updating publications\">\r\n      <created>1675626953017</created>\r\n      <option name=\"number\" value=\"00120\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00120\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675626953017</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00121\" summary=\"Update news.yml\">\r\n      <created>1676266934234</created>\r\n      <option name=\"number\" value=\"00121\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00121\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1676266934234</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00122\" summary=\"Update news.yml\">\r\n      <created>1676267032235</created>\r\n      <option name=\"number\" value=\"00122\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00122\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1676267032235</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00123\" summary=\"Update news.yml\">\r\n      <created>1676267094252</created>\r\n      <option name=\"number\" value=\"00123\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00123\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1676267094252</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00124\" summary=\"Update news.yml\">\r\n      <created>1676267121348</created>\r\n      <option name=\"number\" value=\"00124\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00124\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1676267121348</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00125\" summary=\"Update team members\">\r\n      <created>1680181709529</created>\r\n      <option name=\"number\" value=\"00125\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00125\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680181709529</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00126\" summary=\"Update team members\">\r\n      <created>1680182799243</created>\r\n      <option name=\"number\" value=\"00126\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00126\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680182799243</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00127\" summary=\"Update team members\">\r\n      <created>1680182946895</created>\r\n      <option name=\"number\" value=\"00127\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00127\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680182946895</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00128\" summary=\"Update publications and news\">\r\n      <created>1680684625487</created>\r\n      <option name=\"number\" value=\"00128\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00128\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680684625488</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00129\" summary=\"Update publications and news\">\r\n      <created>1680710888058</created>\r\n      <option name=\"number\" value=\"00129\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00129\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680710888058</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00130\" summary=\"Update publications and news\">\r\n      <created>1680710892833</created>\r\n      <option name=\"number\" value=\"00130\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00130\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680710892833</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00131\" summary=\"Update publications and news\">\r\n      <created>1680758797329</created>\r\n      <option name=\"number\" value=\"00131\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00131\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680758797330</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00132\" summary=\"Update publications and news\">\r\n      <created>1682522389418</created>\r\n      <option name=\"number\" value=\"00132\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00132\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682522389419</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00133\" summary=\"Update publications and news\">\r\n      <created>1682522594277</created>\r\n      <option name=\"number\" value=\"00133\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00133\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1682522594277</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00134\" summary=\"Update news\">\r\n      <created>1683089033939</created>\r\n      <option name=\"number\" value=\"00134\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00134\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683089033939</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00135\" summary=\"Update pics\">\r\n      <created>1683163239407</created>\r\n      <option name=\"number\" value=\"00135\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00135\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683163239408</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00136\" summary=\"Update pics\">\r\n      <created>1683163862019</created>\r\n      <option name=\"number\" value=\"00136\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00136\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683163862019</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00137\" summary=\"Update pics\">\r\n      <created>1683163957517</created>\r\n      <option name=\"number\" value=\"00137\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00137\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683163957517</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00138\" summary=\"Update pics\">\r\n      <created>1683164006615</created>\r\n      <option name=\"number\" value=\"00138\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00138\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683164006615</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00139\" summary=\"Update pics\">\r\n      <created>1683164147182</created>\r\n      <option name=\"number\" value=\"00139\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00139\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683164147182</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00140\" summary=\"Update pics\">\r\n      <created>1683164699918</created>\r\n      <option name=\"number\" value=\"00140\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00140\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683164699918</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00141\" summary=\"Update pics\">\r\n      <created>1683165134120</created>\r\n      <option name=\"number\" value=\"00141\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00141\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683165134120</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00142\" summary=\"Update pics\">\r\n      <created>1683165255085</created>\r\n      <option name=\"number\" value=\"00142\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00142\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683165255085</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00143\" summary=\"Update pics\">\r\n      <created>1683165615401</created>\r\n      <option name=\"number\" value=\"00143\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00143\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683165615401</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00144\" summary=\"Update pics\">\r\n      <created>1683166073070</created>\r\n      <option name=\"number\" value=\"00144\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00144\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683166073070</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00145\" summary=\"Update pics\">\r\n      <created>1683166351489</created>\r\n      <option name=\"number\" value=\"00145\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00145\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683166351489</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00146\" summary=\"Update pics\">\r\n      <created>1683166491791</created>\r\n      <option name=\"number\" value=\"00146\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00146\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683166491791</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00147\" summary=\"Update pics\">\r\n      <created>1683166959090</created>\r\n      <option name=\"number\" value=\"00147\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00147\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683166959090</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00148\" summary=\"Update pics\">\r\n      <created>1683167275312</created>\r\n      <option name=\"number\" value=\"00148\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00148\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683167275312</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00149\" summary=\"Update pics\">\r\n      <created>1683167445640</created>\r\n      <option name=\"number\" value=\"00149\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00149\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683167445640</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00150\" summary=\"Update pics\">\r\n      <created>1683167578646</created>\r\n      <option name=\"number\" value=\"00150\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00150\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1683167578646</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"151\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"9142d1d3-7cf2-437f-89f9-62e36114d286\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/221023-1\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/221030-ver1.0\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"origin/221030-ver1.0\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"221023-1\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"check photo size\" />\r\n    <MESSAGE value=\".\" />\r\n    <MESSAGE value=\".\" />\r\n    <MESSAGE value=\"update website link\" />\r\n    <MESSAGE value=\"。\" />\r\n    <MESSAGE value=\"Start adding link for publications.\" />\r\n    <MESSAGE value=\"Start adding link for publications.\" />\r\n    <MESSAGE value=\"Start adding link for publications.\" />\r\n    <MESSAGE value=\"update pengyuejia.jpg\" />\r\n    <MESSAGE value=\"update news\" />\r\n    <MESSAGE value=\"update new ms members\" />\r\n    <MESSAGE value=\"update members' email\" />\r\n    <MESSAGE value=\"update news and publications\" />\r\n    <MESSAGE value=\"try update citings\" />\r\n    <MESSAGE value=\"updating citings\" />\r\n    <MESSAGE value=\"updating logos\" />\r\n    <MESSAGE value=\"updating publications\" />\r\n    <MESSAGE value=\"Update news.yml\" />\r\n    <MESSAGE value=\"Update team members\" />\r\n    <MESSAGE value=\"Update publications and news\" />\r\n    <MESSAGE value=\"Update news\" />\r\n    <MESSAGE value=\"Update pics\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Update pics\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision eab786e9a7a5e444b31ec902b11cceae30ceb935)
++++ b/.idea/workspace.xml	(date 1683431251540)
+@@ -1,7 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="Update pics" />
++    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="Update pics">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/_pages/pictures.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/pictures.md" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -43,7 +46,7 @@
+     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GymGo" />
+     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+   </component>
+   <component name="RecentsManager">
+@@ -63,27 +66,6 @@
+       <option name="presentableId" value="Default" />
+       <updated>1666676624002</updated>
+     </task>
+-    <task id="LOCAL-00102" summary="try update citings">
+-      <created>1675551020329</created>
+-      <option name="number" value="00102" />
+-      <option name="presentableId" value="LOCAL-00102" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1675551020330</updated>
+-    </task>
+-    <task id="LOCAL-00103" summary="try update citings">
+-      <created>1675551326014</created>
+-      <option name="number" value="00103" />
+-      <option name="presentableId" value="LOCAL-00103" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1675551326014</updated>
+-    </task>
+-    <task id="LOCAL-00104" summary="try update citings">
+-      <created>1675551916838</created>
+-      <option name="number" value="00104" />
+-      <option name="presentableId" value="LOCAL-00104" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1675551916838</updated>
+-    </task>
+     <task id="LOCAL-00105" summary="try update citings">
+       <created>1675553659645</created>
+       <option name="number" value="00105" />
+@@ -406,7 +388,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1683167578646</updated>
+     </task>
+-    <option name="localTasksCounter" value="151" />
++    <task id="LOCAL-00151" summary="Update pics">
++      <created>1683167833615</created>
++      <option name="number" value="00151" />
++      <option name="presentableId" value="LOCAL-00151" />
++      <option name="project" value="LOCAL" />
++      <updated>1683167833615</updated>
++    </task>
++    <task id="LOCAL-00152" summary="Update pics">
++      <created>1683167967767</created>
++      <option name="number" value="00152" />
++      <option name="presentableId" value="LOCAL-00152" />
++      <option name="project" value="LOCAL" />
++      <updated>1683167967767</updated>
++    </task>
++    <task id="LOCAL-00153" summary="Update pics">
++      <created>1683168088909</created>
++      <option name="number" value="00153" />
++      <option name="presentableId" value="LOCAL-00153" />
++      <option name="project" value="LOCAL" />
++      <updated>1683168088909</updated>
++    </task>
++    <option name="localTasksCounter" value="154" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -442,7 +445,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="origin/221030-ver1.0" />
++                        <option value="221023-1" />
+                       </list>
+                     </value>
+                   </entry>
