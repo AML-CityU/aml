@@ -7,41 +7,57 @@ permalink: /pictures/
 
 # AML Lab Photos
 
+[//]: # ()
 [//]: # ({% assign number_printed = 0 %})
 
+[//]: # ()
 [//]: # ({% for pic in site.data.pic %})
 
+[//]: # ()
 [//]: # ()
 [//]: # ({% assign even_odd = number_printed | modulo: 1  %} )
 
 [//]: # ()
+[//]: # ()
 [//]: # ({% if even_odd == 0 %})
 
+[//]: # ()
 [//]: # (<div class="row">)
 
+[//]: # ()
 [//]: # ({% endif %})
 
+[//]: # ()
 [//]: # (<div class="picpage">)
 
+[//]: # ()
 [//]: # (<p style= "text-align:center">)
 
+[//]: # ()
 [//]: # (<b>{{ pic.title }}</b><br>)
 
+[//]: # ()
 [//]: # (</p>)
 
+[//]: # ()
 [//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" />)
 
+[//]: # ()
 [//]: # (</div>)
 
+[//]: # ()
 [//]: # (  )
 [//]: # ({% assign number_printed = number_printed | plus: 1 %})
 
+[//]: # ()
 [//]: # (  )
 [//]: # (</div>)
 
 [//]: # ()
+[//]: # ()
 [//]: # ({% endfor %})
 
+[//]: # ()
 [//]: # ()
 [//]: # ()
 [//]: # (<p> &nbsp; </p>)
@@ -72,7 +88,7 @@ permalink: /pictures/
         <div class="item active">
 
             <div class="picpage">
-                <p style= "text-align:center"><b>{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].title }}</b><br></p>
+                <p style= "text-align:center"><b>{{ site.data.pic[0].title }}</b><br></p>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
             </div>
 
@@ -82,7 +98,7 @@ permalink: /pictures/
         <div class="item">
 
             <div class="picpage">
-                <p style= "text-align:center"><b>{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[1].title }}</b><br></p>
+                <p style= "text-align:center"><b>{{ site.data.pic[1].title }}</b><br></p>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[1].image }}" alt="Slide 2" />
             </div>
 
