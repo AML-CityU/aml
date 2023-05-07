@@ -72,7 +72,7 @@ permalink: /pictures/
         <div class="item active">
 
 
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
 
 
         </div>
@@ -81,7 +81,7 @@ permalink: /pictures/
         <div class="item">
 
 
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu1.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[1].image }}" alt="Slide 2" />
 
 
         </div>

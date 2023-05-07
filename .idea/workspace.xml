@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="Update pics" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="try to modify pictures.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,20 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00106" summary="updating citings">
-      <created>1675556698444</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1675556698444</updated>
-    </task>
-    <task id="LOCAL-00107" summary="updating logos">
-      <created>1675558251455</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1675558251455</updated>
     </task>
     <task id="LOCAL-00108" summary="updating logos">
       <created>1675558916825</created>
@@ -406,7 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683433242619</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Update pics">
+      <created>1683433468899</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1683433468899</updated>
+    </task>
+    <task id="LOCAL-00156" summary="try to modify pictures.md">
+      <created>1683433819555</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1683433819555</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,6 +501,7 @@
     <MESSAGE value="Update news" />
     <MESSAGE value="Try to modify pics" />
     <MESSAGE value="Update pics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update pics" />
+    <MESSAGE value="try to modify pictures.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to modify pictures.md" />
   </component>
 </project>
