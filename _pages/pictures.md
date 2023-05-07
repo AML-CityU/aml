@@ -71,17 +71,20 @@ permalink: /pictures/
 
         <div class="item active">
 
-
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
-
+            <div class="picpage">
+                <p style= "text-align:center"><b>{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].title }}</b><br></p>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
+            </div>
 
         </div>
 
 
         <div class="item">
 
-
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[1].image }}" alt="Slide 2" />
+            <div class="picpage">
+                <p style= "text-align:center"><b>{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[1].title }}</b><br></p>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[1].image }}" alt="Slide 2" />
+            </div>
 
 
         </div>
