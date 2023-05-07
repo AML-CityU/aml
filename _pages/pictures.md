@@ -7,61 +7,6 @@ permalink: /pictures/
 
 # AML Lab Photos
 
-[//]: # ()
-[//]: # ({% assign number_printed = 0 %})
-
-[//]: # ()
-[//]: # ({% for pic in site.data.pic %})
-
-[//]: # ()
-[//]: # ()
-[//]: # ({% assign even_odd = number_printed | modulo: 1  %} )
-
-[//]: # ()
-[//]: # ()
-[//]: # ({% if even_odd == 0 %})
-
-[//]: # ()
-[//]: # (<div class="row">)
-
-[//]: # ()
-[//]: # ({% endif %})
-
-[//]: # ()
-[//]: # (<div class="picpage">)
-
-[//]: # ()
-[//]: # (<p style= "text-align:center">)
-
-[//]: # ()
-[//]: # (<b>{{ pic.title }}</b><br>)
-
-[//]: # ()
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" />)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (  )
-[//]: # ({% assign number_printed = number_printed | plus: 1 %})
-
-[//]: # ()
-[//]: # (  )
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # ()
-[//]: # ({% endfor %})
-
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (<p> &nbsp; </p>)
-
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
