@@ -66,12 +66,7 @@ permalink: /pictures/
     <div class="carousel-inner" markdown="0">
         {% for pic in site.data.pic %}
             <div class="item">
-                <div class="picpage">
-                    <p style= "text-align:center">
-                        <b>{{ pic.title }}</b><br>
-                    </p>
-                    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" />
-                </div>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" />
             </div>
         {% endfor %}
     </div>
