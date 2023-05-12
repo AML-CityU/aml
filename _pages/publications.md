@@ -79,44 +79,53 @@ SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conferen
 
 Multi-Task Recommendations with Reinforcement Learning\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
-WWW'23, Proceedings of the ACM Web Conference 2023
-
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023multi.html)]
 
 AutoDenoise: Automatic Data Instance Denoising for Recommendations\
 Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu, Wanyu Wang\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/lin2023autodenoise.html)]
 
 AutoMLP: Automated MLP for Sequential Recommendations\
 Muyang Li, Zijian Zhang, Xiangyu Zhao, Wanyu Wang, Minghao Zhao, Runze Wu, Ruocheng Guo\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023automlp.html)]
 
 Exploration and Regularization of the Latent Action Space in Recommendation\
 Shuchang Liu, Qingpeng Cai, Bowen Sun, Yuhao Wang, Dong Zheng, Peng Jiang, Kun Gai, Ji Jiang, Xiangyu Zhao, Yongfeng Zhang\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023exploration.html)]
 
 User Retention-oriented Recommendation with Decision Transformer\
 Kesen Zhao, Lixin Zou, Xiangyu Zhao, Maolin Wang, Dawei Yin\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2023user.html)]
 
 Denoising and Prompt-Tuning for Multi-Behavior Recommendation\
 Chi Zhang, Rui Chen, Xiangyu Zhao, Qilong Han, Li Li\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2023denoising.html)]
 
 IMF: Interactive Multimodal Fusion Model for Link Prediction\
 Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, Chunxiao Xing\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023imf.html)]
 
 Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning\
 Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Guandong Xu\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/Yang_2023.html)]
 
 MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation\
 Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Ming He, Yiqi Wang, Zitao Liu\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liang2023mmmlp.html)]
 
 AutoSTL: Automated Spatio-Temporal Multi-Task Learning\
 Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
-AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence
+AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2023autostl.html)]
 
 AutoGen: An Automated Dynamic Model Generation Framework for Recommender System\
 Chenxu Zhu, Bo Chen, Huifeng Guo, Hang Xu, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang\
