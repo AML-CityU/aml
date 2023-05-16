@@ -90,7 +90,7 @@ WWW'23, Proceedings of the ACM Web Conference 2023\
 AutoMLP: Automated MLP for Sequential Recommendations\
 Muyang Li, Zijian Zhang, Xiangyu Zhao, Wanyu Wang, Minghao Zhao, Runze Wu, Ruocheng Guo\
 WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023automlp.html)]
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023automlp.html)]
 
 Exploration and Regularization of the Latent Action Space in Recommendation\
 Shuchang Liu, Qingpeng Cai, Bowen Sun, Yuhao Wang, Dong Zheng, Peng Jiang, Kun Gai, Ji Jiang, Xiangyu Zhao, Yongfeng Zhang\
