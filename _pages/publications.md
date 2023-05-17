@@ -44,6 +44,14 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+TPSCF: Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning\
+Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang\
+KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+
+Doctor Specific Tag Recommendation for Online Medical Record Management\
+Yejing Wang, Shen Ge, Xiangyu Zhao, Xian Wu, Tong Xu, Chen Ma, Zhi Zheng\
+KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+
 Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\
 Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang\
 TKDE, IEEE Transactions on Knowledge and Data Engineering
