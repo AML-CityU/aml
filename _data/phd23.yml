@@ -28,3 +28,26 @@
   number_educ: 1
   education1: BS & MS from NWPU
   website: https://wlzhang2020.github.io/
+- name: Guojing Li
+  photo: guojingli.jpg
+  info: Will join AML lab in 23Fall
+  email: alfredjameslee@ruc.edu.cn
+- name: Siqi Lei
+  photo: siqilei.jpg
+  info: Will join AML lab in 23Fall
+  email: leisiqi@mail.ustc.edu.cn
+  website: http://home.ustc.edu.cn/~leisiqi/
+- name: Jiawei Cheng
+  photo: jiaweicheng.jpg
+  info: Will join AML lab in 24Fall
+  email: JarvisC@buaa.edu.cn
+- name: Derong Xu
+  photo: derongxu.jpg
+  email: derongxu@mail.ustc.edu.cn
+- name: Yusheng Lu
+  photo: yushenglu.jpg
+  email: luyusheng@tongji.edu.cn
+- name: Dayan Pan
+  photo: dayanpan.jpg
+  email: dayan@buaa.edu.cn
+

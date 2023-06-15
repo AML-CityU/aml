@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update citations">
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publication links">
+      <change afterPath="$PROJECT_DIR$/_data/phd24.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teampic/dayanpan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teampic/derongxu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teampic/guojingli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teampic/jiaweicheng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teampic/siqilei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teampic/yushenglu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/phd23.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/phd23.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,20 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00116" summary="updating logos">
-      <created>1675562007270</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1675562007270</updated>
-    </task>
-    <task id="LOCAL-00117" summary="updating logos">
-      <created>1675562125871</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1675562125871</updated>
     </task>
     <task id="LOCAL-00118" summary="updating logos">
       <created>1675562289102</created>
@@ -408,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684198455564</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="update news and publications">
+      <created>1684327033051</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1684327033052</updated>
+    </task>
+    <task id="LOCAL-00166" summary="update publication links">
+      <created>1684657730446</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1684657730446</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,7 +486,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="check photo size" />
     <MESSAGE value="." />
     <MESSAGE value="." />
     <MESSAGE value="update website link" />
@@ -490,7 +497,6 @@
     <MESSAGE value="update news" />
     <MESSAGE value="update new ms members" />
     <MESSAGE value="update members' email" />
-    <MESSAGE value="update news and publications" />
     <MESSAGE value="try update citings" />
     <MESSAGE value="updating citings" />
     <MESSAGE value="updating logos" />
@@ -503,6 +509,8 @@
     <MESSAGE value="Update pics" />
     <MESSAGE value="try to modify pictures.md" />
     <MESSAGE value="update citations" />
-    <option name="LAST_COMMIT_MESSAGE" value="update citations" />
+    <MESSAGE value="update news and publications" />
+    <MESSAGE value="update publication links" />
+    <option name="LAST_COMMIT_MESSAGE" value="update publication links" />
   </component>
 </project>
