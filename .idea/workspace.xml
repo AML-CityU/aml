@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publication links">
-      <change afterPath="$PROJECT_DIR$/_data/phd24.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/teampic/dayanpan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/teampic/derongxu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/teampic/guojingli.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/teampic/jiaweicheng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/teampic/siqilei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/teampic/yushenglu.jpg" afterDir="false" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update team members">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/phd23.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/phd23.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teampic/yushenglu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/teampic/yushenglu.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00118" summary="updating logos">
-      <created>1675562289102</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1675562289102</updated>
     </task>
     <task id="LOCAL-00119" summary="updating publications">
       <created>1675625242269</created>
@@ -416,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684657730446</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="update team members">
+      <created>1686814919285</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1686814919285</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +482,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="." />
-    <MESSAGE value="." />
     <MESSAGE value="update website link" />
     <MESSAGE value="。" />
     <MESSAGE value="Start adding link for publications." />
@@ -511,6 +505,7 @@
     <MESSAGE value="update citations" />
     <MESSAGE value="update news and publications" />
     <MESSAGE value="update publication links" />
-    <option name="LAST_COMMIT_MESSAGE" value="update publication links" />
+    <MESSAGE value="update team members" />
+    <option name="LAST_COMMIT_MESSAGE" value="update team members" />
   </component>
 </project>
