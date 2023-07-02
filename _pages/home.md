@@ -21,7 +21,7 @@ permalink: /
 
 **We are  looking for passionate new Postdocs, PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
-<br />
+
 
 <!-- <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
     <ol class="carousel-indicators">
