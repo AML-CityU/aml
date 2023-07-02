@@ -46,13 +46,6 @@ permalink: /
   </a>
 </div> -->
 
-[//]: # (<div class="center">)
-
-[//]: # ( <p>Funding and Institutional Support</p>)
-
-[//]: # (</div>)
-
-
 <div class="center">
 
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
