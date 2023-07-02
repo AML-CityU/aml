@@ -57,9 +57,10 @@ Doctor Specific Tag Recommendation for Online Medical Record Management\
 Yejing Wang, Shen Ge, Xiangyu Zhao, Xian Wu, Tong Xu, Chen Ma, Zhi Zheng\
 KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\
+[Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles](https://ieeexplore.ieee.org/abstract/document/10114977)\
 Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang\
-TKDE, IEEE Transactions on Knowledge and Data Engineering
+TKDE, IEEE Transactions on Knowledge and Data Engineering\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023adversarial.html)]
 
 Linear Attention Mechanism for Long-term Sequential Recommender Systems\
 Langming Liu, Xiangyu Zhao, Chi Zhang, Jingtong Gao, Wanyu Wang, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu and Qing Li\
