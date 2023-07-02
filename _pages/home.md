@@ -6,6 +6,9 @@ sitemap: false
 permalink: /
 ---
 
+<div class="center">
+  <b style="font-size:32px">Welcome to the AML Lab</b>
+</div>
 
 <br />
 
