@@ -46,9 +46,11 @@ permalink: /
   </a>
 </div> -->
 
-<div class="center">
- <p>Funding and Institutional Support</p>
-</div>
+[//]: # (<div class="center">)
+
+[//]: # ( <p>Funding and Institutional Support</p>)
+
+[//]: # (</div>)
 
 
 <div class="center">
