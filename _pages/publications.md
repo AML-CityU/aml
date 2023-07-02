@@ -45,6 +45,10 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+STRec: Sparse Transformer for Sequential Recommendations\
+Chengxi Li, Xiangyu Zhao*, Yejing Wang, Qidong Liu, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li\
+RecSys'23, Proceedings of the 17th ACM Conference on Recommender Systems
+
 TPSCF: Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning\
 Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang\
 KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
