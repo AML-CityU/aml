@@ -47,7 +47,7 @@ permalink: /
 </div> -->
 
 <div class="center">
-  <b style="font-size:20px">Funding and Institutional Support</b>
+  <b style="font-size:24px">Funding and Institutional Support</b>
 
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei2.jpg" style="width: 149px; margin-left: 16px; margin-right: 16px">
