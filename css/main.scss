@@ -113,10 +113,21 @@ firstp {
     border-color: #69acc7;
     color: white; }
 
+
+
 .center {
-    text-align: center;
-    border:5px;
+        text-align: center;
+        border:5px;
 	}
+
+.outer {
+	display: table;
+}
+.inner {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
 
 .content{
    width:340px;
