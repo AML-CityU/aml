@@ -12,7 +12,7 @@ permalink: /team/
  **We are  looking for passionate Postdocs, PhD students, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [Faculty](#faculty), [PhD students](#phd-students), [MS Students](#ms-students), [Visiting Scholars and Online RAs](#visiting-scholars-and-online-ras).
+Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD students](#phd-students), [MS Students](#ms-students), [Visiting Scholars and Online RAs](#visiting-scholars-and-online-ras).
 
 ## Faculty
 {% assign number_printed = 0 %}
