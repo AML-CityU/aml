@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications">
-      <change afterPath="$PROJECT_DIR$/images/teampic/zhuoranli.jpg" afterDir="false" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update team members">
+      <change afterPath="$PROJECT_DIR$/_data/postdoc23.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/ms23.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/ms23.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/team.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00142" summary="Update pics">
-      <created>1683165255085</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1683165255085</updated>
     </task>
     <task id="LOCAL-00143" summary="Update pics">
       <created>1683165615401</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688317589086</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="update team members">
+      <created>1688390674260</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1688390674260</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,8 +503,8 @@
     <MESSAGE value="update publication links" />
     <MESSAGE value="update news" />
     <MESSAGE value="update home page" />
-    <MESSAGE value="update team members" />
     <MESSAGE value="update publications" />
-    <option name="LAST_COMMIT_MESSAGE" value="update publications" />
+    <MESSAGE value="update team members" />
+    <option name="LAST_COMMIT_MESSAGE" value="update team members" />
   </component>
 </project>
