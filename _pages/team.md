@@ -89,8 +89,6 @@ Jump to [Faculty](#faculty), [PhD students](#phd-students), [MS Students](#ms-st
 
 ## PostDoc Members
 
-### PostDoc Enrollment Date: 2023
-
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc23 %}
 
