@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update team members" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update openings">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_7_11_18_51__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_7_11_18_51__Changes_.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,20 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00147" summary="Update pics">
-      <created>1683166959090</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1683166959090</updated>
-    </task>
-    <task id="LOCAL-00148" summary="Update pics">
-      <created>1683167275312</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1683167275312</updated>
     </task>
     <task id="LOCAL-00149" summary="Update pics">
       <created>1683167445640</created>
@@ -406,7 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688467789087</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="update openings">
+      <created>1689578650901</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1689578650901</updated>
+    </task>
+    <task id="LOCAL-00197" summary="update openings">
+      <created>1689578657326</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1689578657326</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,7 +478,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="。" />
     <MESSAGE value="Start adding link for publications." />
     <MESSAGE value="Start adding link for publications." />
     <MESSAGE value="Start adding link for publications." />
@@ -501,6 +502,7 @@
     <MESSAGE value="update home page" />
     <MESSAGE value="update publications" />
     <MESSAGE value="update team members" />
-    <option name="LAST_COMMIT_MESSAGE" value="update team members" />
+    <MESSAGE value="update openings" />
+    <option name="LAST_COMMIT_MESSAGE" value="update openings" />
   </component>
 </project>
