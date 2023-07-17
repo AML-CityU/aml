@@ -23,7 +23,7 @@ We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA a
 
 If you are interested in joining AML lab, please first contact us at: [[xy.zhao@cityu.edu.hk](mailto:xy.zhao@cityu.edu.hk)].
 
-- Please highlight your **BS's Average Score/100** and **TOEFL/IELTS**, since CityU has specific requirements
+- Please highlight your **BS's Average Score/100** and **TOEFL/IELTS**, since CityU has [specific requirements]({{ site.url }}{{ site.baseurl }}/requirement.html)
 - Please provide your publications, national award, homepage link, research projects/interns, ranking, etc
 - Please attach your CV/Resume, and Transcripts of BS/MS programmes
 
