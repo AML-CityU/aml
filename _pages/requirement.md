@@ -15,6 +15,7 @@ The thresholds are as follows:
 
 Note that these are the minimum requirements. To be shortlisted by our school's PhD admission committee, applicants are recommended to have a first-degree GPA of at least 5 points more than the minimum grade.
 
+***
 ### English Proficiency Requirements
 Applicants from an institution where the language of teaching is not English should satisfy the minimum English proficiency requirements as follows:
 - A minimum TOEFL total score of 550 (paper-based test) or 79 (Internet-based test); or 59 (revised Paper-delivered test); or
