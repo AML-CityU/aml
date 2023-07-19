@@ -18,7 +18,7 @@ Note that these are the minimum requirements. To be shortlisted by our school's 
 ***
 ### English Proficiency Requirements
 Applicants from an institution where the language of teaching is not English should satisfy the minimum English proficiency requirements as follows:
-- A minimum TOEFL total score of 550 (paper-based test) or 79 (Internet-based test); or 59 (revised Paper-delivered test); or
+- A minimum TOEFL total score of 550 (paper-based test) or 79 (Internet-based test); or
 - A minimum overall band score of 6.5 in IELTS; or
 - Other test scores that may be regarded as equivalent to TOEFL 550 (paper-based test) or 79 (Internet-based test); or 59 (revised Paper-delivered test).
 
