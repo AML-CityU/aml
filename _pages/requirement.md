@@ -5,7 +5,7 @@ excerpt: "Requirement"
 sitemap: false
 permalink: /requirement.html
 ---
-### Disclaimer
+### GPA Requirements (Disclaimer)
 CityU SGS has stringent requirements on the GPA of each applicant's first-degree. 
 The thresholds are as follows:
 - 75 (C9 & QS/THE/ARWU Top 20)
@@ -13,7 +13,7 @@ The thresholds are as follows:
 - 85 (211 & QS/THE/ARWU Top 200)
 - 90 (other universities)
 
-Note that these are the minimum requirements. To be shortlisted by our school's PhD admission committee, applicants are recommended to have a first-degree GPA of at least 5 points more than the minimum grade.
+Note that these are the minimum requirements. To be shortlisted by our school's PhD admission committee, applicants are recommended to have a first-degree GPA of **at least 5 points** more than the minimum grade.
 
 ***
 ### English Proficiency Requirements
