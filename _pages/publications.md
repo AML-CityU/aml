@@ -67,7 +67,7 @@ TKDE, IEEE Transactions on Knowledge and Data Engineering\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023adversarial.html)]
 
 [LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591717)\
-Langming Liu, Liu Cai, Chi Zhang, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Yifu Lv, Wenqi Fan, Yiqi Wang, Ming He, and others\
+Langming Liu, Liu Cai, Chi Zhang, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Yifu Lv, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu, Qing Li\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023linrec.html)]
 
