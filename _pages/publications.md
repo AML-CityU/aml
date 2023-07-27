@@ -62,37 +62,37 @@ Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Ji
 TKDE, IEEE Transactions on Knowledge and Data Engineering\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023adversarial.html)]
 
-Linear Attention Mechanism for Long-term Sequential Recommender Systems\
-Langming Liu, Xiangyu Zhao, Chi Zhang, Jingtong Gao, Wanyu Wang, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu and Qing Li\
+[LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591717)\
+Langming Liu, Liu Cai, Chi Zhang, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Yifu Lv, Wenqi Fan, Yiqi Wang, Ming He, and others\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023linrec.html)]
 
-PLATE: A Prompt-enhanced Paradigm for Multi-Scenario Recommendations\
+[PLATE: A Prompt-enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591750)\
 Yuhao Wang, Xiangyu Zhao, Bo Chen, Qidong Liu, Huifeng Guo, Huanshuo Liu, Yichao Wang, Rui Zhang and Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023plate.html)]
 
-AutoTransfer: Instance Transfer for Cross-Domain Recommendations\
+[AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
 Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo and Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2023autotransfer.html)]
 
-Single-shot Feature Selection Framework for Multi-task Deep Recommender Systems\
+[Single-shot Feature Selection for Multi-task Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591767)\
 Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang and Zhenhua Dong\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023single.html)]
 
-Continuous Input Embedding Size Search For Recommender Systems\
+[Continuous Input Embedding Size Search For Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591653)\
 Yunke Qu, Tong Chen, Xiangyu Zhao, Lizhen Cui, Kai Zheng and Hongzhi Yin\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/qu2023continuous.html)]
 
-AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework\
+[AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework](https://dl.acm.org/doi/pdf/10.1145/3539618.3591953)\
 Xin Gan, Yuhao Wang, Xiangyu Zhao, Wanyu Wang, Yiqi Wang and Zitao Liu\
 SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gan2023autodpq.html)]
 
-Towards Robust Knowledge Tracing Models via k-Sparse Attention\
+[Towards Robust Knowledge Tracing Models via k-Sparse Attention](https://dl.acm.org/doi/pdf/10.1145/3539618.3592073)\
 Shuyan Huang, Zitao Liu, Xiangyu Zhao, Weiqi Luo and Jian Weng\
 SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/huang2023towards.html)]
@@ -113,7 +113,7 @@ WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023automlp.html)]
 
 [Exploration and Regularization of the Latent Action Space in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583244)\
-Shuchang Liu, Qingpeng Cai, Bowen Sun, Yuhao Wang, Dong Zheng, Peng Jiang, Kun Gai, Ji Jiang, Xiangyu Zhao, Yongfeng Zhang\
+Shuchang Liu, Qingpeng Cai, Bowen Sun, Yuhao Wang, Ji Jiang, Dong Zheng, Peng Jiang, Kun Gai, Xiangyu Zhao, Yongfeng Zhang\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023exploration.html)]
 
@@ -137,12 +137,12 @@ Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Gua
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/Yang_2023.html)]
 
-[MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583378)\
-Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Ming He, Yiqi Wang, Zitao Liu\
+[MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583378)\
+Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Zitao Liu\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liang2023mmmlp.html)]
 
-[AutoSTL: Automated Spatio-Temporal Multi-Task Learning](https://arxiv.org/pdf/2304.09174)\
+[AutoSTL: Automated Spatio-Temporal Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/25616/25388)\
 Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
 AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2023autostl.html)]
