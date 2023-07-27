@@ -45,6 +45,10 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation\
+Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo and Ruiming Tang\
+Knowledge and Information Systems (KAIS)
+
 STRec: Sparse Transformer for Sequential Recommendations\
 Chengxi Li, Xiangyu Zhao, Yejing Wang, Qidong Liu, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li\
 RecSys'23, Proceedings of the 17th ACM Conference on Recommender Systems
