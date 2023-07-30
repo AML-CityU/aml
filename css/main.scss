@@ -75,14 +75,16 @@ firstp {
 }
 
 /* Grid overrides */
+.col-sm-4 {
+	padding-left: 26px;
+	padding-right: 26px;
+}
+
 .others {
 	padding-left: 26px;
 	padding-right: 26px;
-	justify-content: space-evenly; /* 水平均匀分布 */
-    align-items: center; /* 垂直居中 */
     flex-direction: column;
 }
-
 
 /* Carusel */
 
