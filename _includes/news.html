@@ -1,9 +1,9 @@
-<img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/QRcode.png" style="width: 242px">
+<img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/QRcode.png" style="width: 281px">
 
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:4 %}
+{% for article in site.data.news limit:3 %}
 <p><b>{{ article.date }}</b><br>{{ article.headline | markdownify}}</p>
 {% endfor %}
 
