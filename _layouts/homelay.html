@@ -9,6 +9,11 @@ layout: default
 <!--        <h1 style="display:inline, text-align: center">Welcome to the AML Lab</h1>-->
 	{{ content }}
   </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
+  <div id="others" class="col-sm-4" >
+    <div id="QR" class="col-sm-4" >
+	  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/QRcode.jpg">
+    </div>
+	<div id="newsid" class="col-sm-4" >
+	  {% include news.html %}
+    </div>
   </div>
