@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update homepage">
-      <change beforePath="$PROJECT_DIR$/_layouts/homelay.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/homelay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/news.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00163" summary="update citations">
-      <created>1683879665757</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1683879665757</updated>
     </task>
     <task id="LOCAL-00164" summary="update citations">
       <created>1684198455564</created>
@@ -408,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690700650502</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="update homepage">
+      <created>1690700894236</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1690700894236</updated>
+    </task>
+    <option name="localTasksCounter" value="213" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
