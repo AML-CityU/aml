@@ -29,20 +29,6 @@ permalink: /pictures/
 
     <div class="carousel-inner" markdown="0">
 
-
-        <div class="item active">
-
-
-            <div class="picpage">
-
-                <p style= "text-align:center"><b>{{ site.data.pic[0].title }}</b><br></p>
-
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
-
-            </div>
-
-
-        </div>
         {% assign start = 0 %}
         {% for pic in site.data.pic %}
 
