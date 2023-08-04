@@ -50,8 +50,8 @@ permalink: /pictures/
         {% assign start = 1 %}
         <div class="item active">
             <div class="picpage">
-                <p style= "text-align:center"><b>{{ site.data.pic[0].title }}</b><br></p>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
+                <p style= "text-align:center"><b>{{ pic.title }}</b><br></p>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" alt="Slide 1" />
             </div>
         </div>
 
