@@ -30,25 +30,30 @@ permalink: /pictures/
     <div class="carousel-inner" markdown="0">
 
 
-        <div class="item active">
+[//]: # (        <div class="item active">)
 
-            <div class="picpage">
-                <p style= "text-align:center"><b>{{ site.data.pic[0].title }}</b><br></p>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
-            </div>
+[//]: # ()
+[//]: # (            <div class="picpage">)
 
-        </div>
+[//]: # (                <p style= "text-align:center"><b>{{ site.data.pic[0].title }}</b><br></p>)
 
+[//]: # (                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />)
 
+[//]: # (            </div>)
+
+[//]: # ()
+[//]: # (        </div>)
+
+        {% for pic in site.data.pic %}
         <div class="item">
 
             <div class="picpage">
-                <p style= "text-align:center"><b>{{ site.data.pic[1].title }}</b><br></p>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[1].image }}" alt="Slide 2" />
+                <p style= "text-align:center"><b>{{ pic.title }}</b><br></p>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" alt="Slides" />
             </div>
 
-
         </div>
+        {% endfor %}
 
 
     </div>
@@ -79,99 +84,3 @@ permalink: /pictures/
 
 
 </div>
-
-
-
-[//]: # (No pictures yet. We will update our activity photos in the future.)
-
-
-
-[//]: # (<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    <!-- Menu -->)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    <ol class="carousel-indicators">)
-
-[//]: # ()
-[//]: # ()
-[//]: # (        <li data-target="#carousel" data-slide-to="0" class="active"></li>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (        <li data-target="#carousel" data-slide-to="1"></li>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    </ol>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    <div class="carousel-inner" markdown="0">)
-
-[//]: # ()
-[//]: # ()
-[//]: # (        <div class="item active">)
-
-[//]: # ()
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu.jpg" alt="Slide 1" />)
-
-[//]: # ()
-[//]: # ()
-[//]: # (        </div>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (        <div class="item">)
-
-[//]: # ()
-[//]: # ()
-[//]: # (            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/cityu1.jpg" alt="Slide 2" />)
-
-[//]: # ()
-[//]: # ()
-[//]: # (        </div>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    </div>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    <span class="sr-only">Previous</span>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (  </a>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    <span class="sr-only">Next</span>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (  </a>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (</div>)
