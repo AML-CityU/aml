@@ -29,16 +29,43 @@ permalink: /pictures/
 
     <div class="carousel-inner" markdown="0">
 
-        {% for pic in site.data.pic %}
-        <div class="item">
 
+        <div class="item active">
+
+
+            <div class="picpage">
+
+                <p style= "text-align:center"><b>{{ site.data.pic[0].title }}</b><br></p>
+
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
+
+            </div>
+
+
+        </div>
+        {% assign start = 0 %}
+        {% for pic in site.data.pic %}
+
+        {% if start == 0 %}
+        {% assign start = 1 %}
+        <div class="item active">
+            <div class="picpage">
+                <p style= "text-align:center"><b>{{ site.data.pic[0].title }}</b><br></p>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ site.data.pic[0].image }}" alt="Slide 1" />
+            </div>
+        </div>
+
+        {% else %}
+        <div class="item">
             <div class="picpage">
                 <p style= "text-align:center"><b>{{ pic.title }}</b><br></p>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/{{ pic.image }}" alt="Slides" />
             </div>
-
         </div>
+
+        {% endif %}
         {% endfor %}
+
 
     </div>
 
