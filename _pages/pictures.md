@@ -17,11 +17,20 @@ permalink: /pictures/
 
     <ol class="carousel-indicators">
 
+        {% assign start = 0 %}
+        {% for pic in site.data.pic %}
 
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        {% if start == 0 %}
+        <li data-target="#carousel" data-slide-to=start class="active"></li>
 
+        {% else %}
+        <li data-target="#carousel" data-slide-to=start></li>
 
-        <li data-target="#carousel" data-slide-to="1"></li>
+        {% assign start = start | plus: 1 %}
+        {% endif %}
+        {% endfor %}
+        
+
 
 
     </ol>
