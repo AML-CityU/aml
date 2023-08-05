@@ -45,6 +45,10 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+HAMUR: Hyper Adapter for Multi-Domain Recommendation\
+Xiaopeng Li, Fan Yan, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Bo Chen and Ruiming Tang\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management\
+
 AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation\
 Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo and Ruiming Tang\
 Knowledge and Information Systems (KAIS)
