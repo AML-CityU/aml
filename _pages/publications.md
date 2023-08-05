@@ -45,6 +45,10 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+Hierarchical Information Enhanced Traffic Forecasting\
+QianMa, ZijianZhang, XiangyuZhao, HaoliangLi, HongweiZhao, YiqiWang, ZitaoLiu, WanyuWang\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+
 Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction\
 Zijian Zhang, Xiangyu Zhao, Qidong Liu, Chunxu Zhang, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
