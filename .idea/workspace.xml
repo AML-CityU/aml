@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update pictures.md" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00185" summary="update home page">
-      <created>1688273423628</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1688273423628</updated>
     </task>
     <task id="LOCAL-00186" summary="update home page">
       <created>1688273578141</created>
@@ -406,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691166013042</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <task id="LOCAL-00234" summary="update publications.md">
+      <created>1691242715905</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1691242715905</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,12 +498,12 @@
     <MESSAGE value="update team members" />
     <MESSAGE value="update Requirement" />
     <MESSAGE value="update openings" />
-    <MESSAGE value="update publications.md" />
     <MESSAGE value="update publica" />
     <MESSAGE value="update footer" />
     <MESSAGE value="update homepage" />
     <MESSAGE value="update pic.yml" />
     <MESSAGE value="update pictures.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update pictures.md" />
+    <MESSAGE value="update publications.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update publications.md" />
   </component>
 </project>

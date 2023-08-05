@@ -45,9 +45,25 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction\
+Zijian Zhang, Xiangyu Zhao, Qidong Liu, Chunxu Zhang, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+
+MLPST: MLP is All You Need for Spatio-Temporal Prediction\
+Zijian Zhang, Ze Huang, Zhiwei Hu, Xiangyu Zhao, Wanyu Wang, Zitao Liu, Junbo Zhang, S. Joe Qin and Hongwei Zhao\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+
+REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning\
+Xinhang Li, Zhaopeng Qiu, Xiangyu Zhao, Yong Zhang, Chunxiao Xing, Xian Wu\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+
+Towards Automatic ICD Coding via Knowledge Enhanced Multi-Task Learning\
+Xinhang Li, Xiangyu Zhao, Yong Zhang, Chunxiao Xing\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+
 HAMUR: Hyper Adapter for Multi-Domain Recommendation\
 Xiaopeng Li, Fan Yan, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Bo Chen and Ruiming Tang\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation\
 Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo and Ruiming Tang\
