@@ -44,6 +44,7 @@ Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
 
 ### Publications in 2023
+
 Diffusion Augmentation for Sequential Recommendation\
 Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang and Feng Tian\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
@@ -71,6 +72,14 @@ CIKM'23, Proceedings of the 32st ACM International Conference on Information & K
 HAMUR: Hyper Adapter for Multi-Domain Recommendation\
 Xiaopeng Li, Fan Yan, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Bo Chen and Ruiming Tang\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+
+Counterfactual-Consistent Adversarial Learning for Recommender Systems\
+Jialin Liu, Zijian Zhang, Xiangyu Zhao, Jun Li\
+CIKM'23 (short paper), Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+
+Accessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue\
+Jiahao Chen, Zitao Liu, Shuyan Huang, Yaying Huang, Xiangyu Zhao, Boyu Gao and Weiqi Lu\
+CIKM'23 (short paper), Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation\
 Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo and Ruiming Tang\
