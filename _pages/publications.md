@@ -44,6 +44,9 @@ Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
 
 ### Publications in 2023
+Diffusion Augmentation for Sequential Recommendation\
+Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang and Feng Tian\
+CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 Hierarchical Information Enhanced Traffic Forecasting\
 QianMa, ZijianZhang, XiangyuZhao, HaoliangLi, HongweiZhao, YiqiWang, ZitaoLiu, WanyuWang\
