@@ -45,6 +45,10 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+[Recommender systems in the era of large language models (llms)](https://arxiv.org/abs/2307.02046)\
+Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li\
+arxiv preprint
+
 Diffusion Augmentation for Sequential Recommendation\
 Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang and Feng Tian\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
