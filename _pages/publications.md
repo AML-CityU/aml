@@ -50,7 +50,7 @@ Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen We
 arxiv preprint
 
 Diffusion Augmentation for Sequential Recommendation\
-Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang and Feng Tian\
+Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Feng Tian\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 Hierarchical Information Enhanced Traffic Forecasting\
@@ -62,7 +62,7 @@ Zijian Zhang, Xiangyu Zhao, Qidong Liu, Chunxu Zhang, Qian Ma, Wanyu Wang, Hongw
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 MLPST: MLP is All You Need for Spatio-Temporal Prediction\
-Zijian Zhang, Ze Huang, Zhiwei Hu, Xiangyu Zhao, Wanyu Wang, Zitao Liu, Junbo Zhang, S. Joe Qin and Hongwei Zhao\
+Zijian Zhang, Ze Huang, Zhiwei Hu, Xiangyu Zhao, Wanyu Wang, Zitao Liu, Junbo Zhang, S. Joe Qin, Hongwei Zhao\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning\
@@ -74,7 +74,7 @@ Xinhang Li, Xiangyu Zhao, Yong Zhang, Chunxiao Xing\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 HAMUR: Hyper Adapter for Multi-Domain Recommendation\
-Xiaopeng Li, Fan Yan, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Bo Chen and Ruiming Tang\
+Xiaopeng Li, Fan Yan, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Bo Chen, Ruiming Tang\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 Counterfactual-Consistent Adversarial Learning for Recommender Systems\
@@ -82,11 +82,11 @@ Jialin Liu, Zijian Zhang, Xiangyu Zhao, Jun Li\
 CIKM'23 (short paper), Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 Accessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue\
-Jiahao Chen, Zitao Liu, Shuyan Huang, Yaying Huang, Xiangyu Zhao, Boyu Gao and Weiqi Lu\
+Jiahao Chen, Zitao Liu, Shuyan Huang, Yaying Huang, Xiangyu Zhao, Boyu Gao, Weiqi Lu\
 CIKM'23 (short paper), Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation\
-Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo and Ruiming Tang\
+Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 Knowledge and Information Systems (KAIS)
 
 STRec: Sparse Transformer for Sequential Recommendations\
@@ -112,32 +112,32 @@ SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023linrec.html)]
 
 [PLATE: A Prompt-enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591750)\
-Yuhao Wang, Xiangyu Zhao, Bo Chen, Qidong Liu, Huifeng Guo, Huanshuo Liu, Yichao Wang, Rui Zhang and Ruiming Tang\
+Yuhao Wang, Xiangyu Zhao, Bo Chen, Qidong Liu, Huifeng Guo, Huanshuo Liu, Yichao Wang, Rui Zhang, Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023plate.html)]
 
 [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
-Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo and Ruiming Tang\
+Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo, Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2023autotransfer.html)]
 
 [Single-shot Feature Selection for Multi-task Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591767)\
-Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang and Zhenhua Dong\
+Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang, Zhenhua Dong\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023single.html)]
 
 [Continuous Input Embedding Size Search For Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591653)\
-Yunke Qu, Tong Chen, Xiangyu Zhao, Lizhen Cui, Kai Zheng and Hongzhi Yin\
+Yunke Qu, Tong Chen, Xiangyu Zhao, Lizhen Cui, Kai Zheng, Hongzhi Yin\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/qu2023continuous.html)]
 
 [AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework](https://dl.acm.org/doi/pdf/10.1145/3539618.3591953)\
-Xin Gan, Yuhao Wang, Xiangyu Zhao, Wanyu Wang, Yiqi Wang and Zitao Liu\
+Xin Gan, Yuhao Wang, Xiangyu Zhao, Wanyu Wang, Yiqi Wang, Zitao Liu\
 SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gan2023autodpq.html)]
 
 [Towards Robust Knowledge Tracing Models via k-Sparse Attention](https://dl.acm.org/doi/pdf/10.1145/3539618.3592073)\
-Shuyan Huang, Zitao Liu, Xiangyu Zhao, Weiqi Luo and Jian Weng\
+Shuyan Huang, Zitao Liu, Xiangyu Zhao, Weiqi Luo, Jian Weng\
 SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/huang2023towards.html)]
 
