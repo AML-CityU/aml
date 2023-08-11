@@ -58,7 +58,7 @@ QianMa, ZijianZhang, XiangyuZhao, HaoliangLi, HongweiZhao, YiqiWang, ZitaoLiu, W
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction\
-Zijian Zhang, Xiangyu Zhao, Qidong Liu, Chunxu Zhang, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu\
+Zijian Zhang, Qidong Liu, Chunxu Zhang, Qian Ma, Xiangyu Zhao, Shanru Lin, Hongwei Zhao, Yiqi Wang, Zitao Liu\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 MLPST: MLP is All You Need for Spatio-Temporal Prediction\
