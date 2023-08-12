@@ -54,7 +54,7 @@ Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Feng
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 Hierarchical Information Enhanced Traffic Forecasting\
-QianMa, ZijianZhang, XiangyuZhao, HaoliangLi, HongweiZhao, YiqiWang, ZitaoLiu, WanyuWang\
+Qian Ma, Zijian Zhang, Xiangyu Zhao, Haoliang Li, Hongwei Zhao, Yiqi Wang, Zitao Liu, Wanyu Wang\
 CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
 
 Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction\
