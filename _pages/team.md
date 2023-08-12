@@ -790,7 +790,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD students]
 
 
 
-## Visiting Scholars and Online RAs
+## Visiting Scholars and Onsite/Online RAs
 {% assign number_printed = 0 %}
 {% for member in site.data.visitors %}
 
