@@ -45,6 +45,10 @@ IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+Mitigating Performance Sacrifice in DP-satisfied Federated Settings through Graph Contrastive Learning\
+Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen, Guandong Xu\
+Information Sciences
+
 [Recommender systems in the era of large language models (llms)](https://arxiv.org/abs/2307.02046)\
 Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li\
 arxiv preprint
