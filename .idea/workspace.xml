@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update news">
+      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,13 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00194" summary="update team members">
-      <created>1688439120998</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1688439120998</updated>
     </task>
     <task id="LOCAL-00195" summary="update team members">
       <created>1688467789087</created>
@@ -406,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691983402245</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="update news">
+      <created>1691983689602</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1691983689602</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,8 +501,8 @@
     <MESSAGE value="update pic.yml" />
     <MESSAGE value="update pictures.md" />
     <MESSAGE value="update publications.md" />
-    <MESSAGE value="update news" />
     <MESSAGE value="update publications" />
-    <option name="LAST_COMMIT_MESSAGE" value="update publications" />
+    <MESSAGE value="update news" />
+    <option name="LAST_COMMIT_MESSAGE" value="update news" />
   </component>
 </project>
