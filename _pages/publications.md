@@ -89,9 +89,10 @@ Accessing Student Performance with Multi-granularity Attention from Online Class
 Jiahao Chen, Zitao Liu, Shuyan Huang, Yaying Huang, Xiangyu Zhao, Boyu Gao, Weiqi Lu\
 CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
-AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation\
+[AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation](https://link.springer.com/article/10.1007/s10115-023-01951-1)\
 Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 Knowledge and Information Systems (KAIS)
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023autoassign+.html)]
 
 STRec: Sparse Transformer for Sequential Recommendations\
 Chengxi Li, Xiangyu Zhao, Yejing Wang, Qidong Liu, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li\
