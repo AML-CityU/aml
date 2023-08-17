@@ -41,7 +41,7 @@ WWW'21, Companion Proceedings of the Web Conference 2021\
 
 [Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
 Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
-IJCAI'21, Proceedings of the 30st International Joint Conference on Artificial Intelligence
+IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2023
 
@@ -55,39 +55,39 @@ arxiv preprint
 
 Diffusion Augmentation for Sequential Recommendation\
 Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Feng Tian\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 Hierarchical Information Enhanced Traffic Forecasting\
 Qian Ma, Zijian Zhang, Xiangyu Zhao, Haoliang Li, Hongwei Zhao, Yiqi Wang, Zitao Liu, Wanyu Wang\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction\
 Zijian Zhang, Xiangyu Zhao, Qidong Liu, Chunxu Zhang, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 MLPST: MLP is All You Need for Spatio-Temporal Prediction\
 Zijian Zhang, Ze Huang, Zhiwei Hu, Xiangyu Zhao, Wanyu Wang, Zitao Liu, Junbo Zhang, S. Joe Qin, Hongwei Zhao\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning\
 Xinhang Li, Zhaopeng Qiu, Xiangyu Zhao, Yong Zhang, Chunxiao Xing, Xian Wu\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 Towards Automatic ICD Coding via Knowledge Enhanced Multi-Task Learning\
 Xinhang Li, Xiangyu Zhao, Yong Zhang, Chunxiao Xing\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 HAMUR: Hyper Adapter for Multi-Domain Recommendation\
 Xiaopeng Li, Fan Yan, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Bo Chen, Ruiming Tang\
-CIKM'23, Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 Counterfactual-Consistent Adversarial Learning for Recommender Systems\
 Jialin Liu, Zijian Zhang, Xiangyu Zhao, Jun Li\
-CIKM'23 (short paper), Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 Accessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue\
 Jiahao Chen, Zitao Liu, Shuyan Huang, Yaying Huang, Xiangyu Zhao, Boyu Gao, Weiqi Lu\
-CIKM'23 (short paper), Proceedings of the 32st ACM International Conference on Information & Knowledge Management
+CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
 
 AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation\
 Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
@@ -204,7 +204,7 @@ WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and 
 
 [AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation](https://www.computer.org/csdl/proceedings-article/icdm/2022/509900a458/1KpCDRd7R60)\
 Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-ICDM'22, Proceedings of the 22st International Conference on Data Mining\
+ICDM'22, Proceedings of the 22nd International Conference on Data Mining\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/song2022autoassign.html)]
 
 [Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557338)\
