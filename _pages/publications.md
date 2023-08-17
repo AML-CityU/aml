@@ -91,7 +91,7 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation](https://link.springer.com/article/10.1007/s10115-023-01951-1)\
 Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-Knowledge and Information Systems (KAIS)
+Knowledge and Information Systems (KAIS)\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023autoassign+.html)]
 
 STRec: Sparse Transformer for Sequential Recommendations\
