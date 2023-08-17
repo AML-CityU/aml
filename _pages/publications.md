@@ -19,7 +19,7 @@ IJCAI'2023, Proceedings of the 32nd International Joint Conference on Artificial
 
 [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
-IJCAI'2023, Proceedings of the 32st International Joint Conference on Artificial Intelligence\
+IJCAI'2023, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
 KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
