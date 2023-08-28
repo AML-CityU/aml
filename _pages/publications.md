@@ -20,19 +20,23 @@ IJCAI'2023, Proceedings of the 32nd International Joint Conference on Artificial
 [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
 IJCAI'2023, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
-KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023trustworthy.html)]
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
-WWW'23, Companion Proceedings of the Web Conference 2023
+WWW'23, Companion Proceedings of the Web Conference 2023\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2022comprehensive.html)]
 
 [AutoML for Deep Recommender Systems: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
 Ruiming Tang, Bo Chen, Yejing Wang, Huifeng Guo, Yong Liu, Wenqi Fan, Xiangyu Zhao\
-WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining
+WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/tang2023automl.html)]
 
 [Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
-Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
-WWW'22, Companion Proceedings of the Web Conference 2022
+Xiangyu Zhao, Wenqi Fan, Bo Chen, Ruiming Tang\
+WWW'22, Companion Proceedings of the Web Conference 2022\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2022automated.html)]
 
 [Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
 Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\

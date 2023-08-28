@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications">
-      <change afterPath="$PROJECT_DIR$/bibtex/han2023mitigating.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bibtex/wang2023doctor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bibtex/zhao2022automated.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
     </list>
@@ -67,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00202" summary="update publications.md">
-      <created>1690337967366</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1690337967366</updated>
     </task>
     <task id="LOCAL-00203" summary="update publications.md">
       <created>1690463631014</created>
@@ -411,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692787414741</updated>
     </task>
-    <option name="localTasksCounter" value="251" />
+    <task id="LOCAL-00251" summary="update publications">
+      <created>1693233680463</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1693233680463</updated>
+    </task>
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
