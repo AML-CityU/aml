@@ -18,7 +18,7 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, Jingtong Gao, Huife
 IJCAI'2023, Proceedings of the 32nd International Joint Conference on Artificial Intelligence
 
 [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
-Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
+Wenqi Fan, Xiangyu Zhao, Lin Wang, Xiao Chen, Jingtong Gao, Qidong Liu, Shijie Wang\
 IJCAI'2023, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
 KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023trustworthy.html)]
