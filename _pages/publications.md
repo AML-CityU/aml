@@ -98,13 +98,15 @@ STRec: Sparse Transformer for Sequential Recommendations\
 Chengxi Li, Xiangyu Zhao, Yejing Wang, Qidong Liu, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li\
 RecSys'23, Proceedings of the 17th ACM Conference on Recommender Systems
 
-TPSCF: Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning\
+[Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3580305.3599528)\
 Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang\
-KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/han2023mitigating.html)]
 
-Doctor Specific Tag Recommendation for Online Medical Record Management\
+[Doctor Specific Tag Recommendation for Online Medical Record Management](https://dl.acm.org/doi/pdf/10.1145/3580305.3599810)\
 Yejing Wang, Shen Ge, Xiangyu Zhao, Xian Wu, Tong Xu, Chen Ma, Zhi Zheng\
-KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023doctor.html)]
 
 [Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles](https://ieeexplore.ieee.org/abstract/document/10114977)\
 Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang\
