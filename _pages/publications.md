@@ -190,7 +190,7 @@ WWW'23, Proceedings of the ACM Web Conference 2023\
 [Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583499)\
 Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Guandong Xu\
 WWW'23, Proceedings of the ACM Web Conference 2023\
-[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/Yang_2023.html)]
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2023generating.html)]
 
 [MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583378)\
 Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Zitao Liu\

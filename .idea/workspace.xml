@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications">
+      <change afterPath="$PROJECT_DIR$/bibtex/yang2023generating.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibtex/Yang_2023.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibtex/qu2023continuous.html" beforeDir="false" afterPath="$PROJECT_DIR$/bibtex/qu2023continuous.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00204" summary="update publications.md">
-      <created>1690463895594</created>
-      <option name="number" value="00204" />
-      <option name="presentableId" value="LOCAL-00204" />
-      <option name="project" value="LOCAL" />
-      <updated>1690463895594</updated>
-    </task>
-    <task id="LOCAL-00205" summary="update footer">
-      <created>1690464179868</created>
-      <option name="number" value="00205" />
-      <option name="presentableId" value="LOCAL-00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1690464179868</updated>
     </task>
     <task id="LOCAL-00206" summary="update publica">
       <created>1690464347578</created>
@@ -409,7 +398,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693234472097</updated>
     </task>
-    <option name="localTasksCounter" value="253" />
+    <task id="LOCAL-00253" summary="update publications">
+      <created>1693234884719</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1693234884719</updated>
+    </task>
+    <task id="LOCAL-00254" summary="update publications">
+      <created>1693234953531</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1693234953531</updated>
+    </task>
+    <option name="localTasksCounter" value="255" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
