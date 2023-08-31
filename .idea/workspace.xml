@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications">
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update news">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/news.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/news.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00207" summary="update footer">
-      <created>1690699114989</created>
-      <option name="number" value="00207" />
-      <option name="presentableId" value="LOCAL-00207" />
-      <option name="project" value="LOCAL" />
-      <updated>1690699114989</updated>
     </task>
     <task id="LOCAL-00208" summary="update homepage">
       <created>1690699719227</created>
@@ -408,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693486044520</updated>
     </task>
-    <option name="localTasksCounter" value="256" />
+    <task id="LOCAL-00256" summary="update news">
+      <created>1693488687747</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1693488687748</updated>
+    </task>
+    <option name="localTasksCounter" value="257" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,8 +502,8 @@
     <MESSAGE value="update pic.yml" />
     <MESSAGE value="update pictures.md" />
     <MESSAGE value="update publications.md" />
-    <MESSAGE value="update news" />
     <MESSAGE value="update publications" />
-    <option name="LAST_COMMIT_MESSAGE" value="update publications" />
+    <MESSAGE value="update news" />
+    <option name="LAST_COMMIT_MESSAGE" value="update news" />
   </component>
 </project>
