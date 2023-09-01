@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing\
+Hao Miao, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, Christian S. Jensen\
+TKDE, IEEE Transactions on Knowledge and Data Engineering
+
 Mitigating Performance Sacrifice in DP-satisfied Federated Settings through Graph Contrastive Learning\
 Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen, Guandong Xu\
 Information Sciences
