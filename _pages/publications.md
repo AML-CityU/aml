@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization\
+Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
+ICDM'23, Proceedings of the 23rd International Conference on Data Mining
+
 Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing\
 Hao Miao, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, Christian S. Jensen\
 TKDE, IEEE Transactions on Knowledge and Data Engineering
