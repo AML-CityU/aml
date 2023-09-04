@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update teams" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications and news" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00217" summary="update homepage">
-      <created>1690702632214</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1690702632214</updated>
     </task>
     <task id="LOCAL-00218" summary="update homepage">
       <created>1690702644795</created>
@@ -406,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693671583859</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="update publications and news">
+      <created>1693802350876</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1693802350876</updated>
+    </task>
+    <option name="localTasksCounter" value="267" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,11 +496,11 @@
     <MESSAGE value="update publications" />
     <MESSAGE value="update news" />
     <MESSAGE value="update members" />
-    <MESSAGE value="update publications and news" />
     <MESSAGE value="update pics" />
     <MESSAGE value="update team members" />
     <MESSAGE value="update team link" />
     <MESSAGE value="update teams" />
-    <option name="LAST_COMMIT_MESSAGE" value="update teams" />
+    <MESSAGE value="update publications and news" />
+    <option name="LAST_COMMIT_MESSAGE" value="update publications and news" />
   </component>
 </project>
