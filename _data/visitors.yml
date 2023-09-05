@@ -19,6 +19,16 @@
   info: PhD at Tsinghua, with Prof Chunxiao Xing and Prof Yong Zhang, Online RA in 2022-Now
   email: xh-li20@mails.tsinghua.edu.cn
   number_educ: 0
+- name: Qingqing Yi
+  photo: qingqingyi.jpg
+  info: PhD at SWUFE, Visiting Student in 2023
+  email: yiqingqing@smail.swufe.edu.cn
+  number_educ: 0
+- name: Zhenyu Deng
+  photo: zhenyudeng.jpg
+  info: MS at SWPU, Visiting Student in 2023
+  email: zhenyu_deng@qq.com
+  number_educ: 0
 - name: Shanru Lin
   photo: shanrulin.jpg
   info: Full-time RA at CityU, in 2023
@@ -58,14 +68,4 @@
   photo: chuanlyu.jpg
   info: BS at ZJU, Online RA in 2021, next position - PhD at ZJU
   email:
-  number_educ: 0
-- name: Qingqing Yi
-  photo: qingqingyi.jpg
-  info: PhD at SWUFE, Visiting Student in 2023
-  email: yiqingqing@smail.swufe.edu.cn
-  number_educ: 0
-- name: Zhenyu Deng
-  photo: zhenyudeng.jpg
-  info: MS at SWPU, Visiting Student in 2023
-  email: zhenyu_deng@qq.com
   number_educ: 0

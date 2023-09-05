@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update publications and news" />
+    <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update QRcode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/ms23.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/ms23.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/phd20.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/phd20.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/postdoc23.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/postdoc23.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/visitors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/visitors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teampic/shuoxu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teampic/zhenyudeng.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/teampic/zhenyudeng.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,20 +71,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00218" summary="update homepage">
-      <created>1690702644795</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1690702644795</updated>
-    </task>
-    <task id="LOCAL-00219" summary="update homepage">
-      <created>1690703012557</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1690703012557</updated>
     </task>
     <task id="LOCAL-00220" summary="update homepage">
       <created>1690703240041</created>
@@ -406,7 +401,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693802350876</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="update teams">
+      <created>1693802593034</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1693802593034</updated>
+    </task>
+    <task id="LOCAL-00268" summary="update QRcode">
+      <created>1693802660379</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1693802660379</updated>
+    </task>
+    <option name="localTasksCounter" value="269" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,7 +485,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update publications and news" />
     <MESSAGE value="Update news" />
     <MESSAGE value="Try to modify pics" />
     <MESSAGE value="Update pics" />
@@ -499,8 +507,9 @@
     <MESSAGE value="update pics" />
     <MESSAGE value="update team members" />
     <MESSAGE value="update team link" />
-    <MESSAGE value="update teams" />
     <MESSAGE value="update publications and news" />
-    <option name="LAST_COMMIT_MESSAGE" value="update publications and news" />
+    <MESSAGE value="update teams" />
+    <MESSAGE value="update QRcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="update QRcode" />
   </component>
 </project>

@@ -551,7 +551,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 ## MS Students (CityU 1-year MSDS Program)
 
-### Enrollment Date: 2021
+### Enrollment Date: 2021 (graduated)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ms21 %}
