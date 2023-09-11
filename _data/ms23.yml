@@ -5,18 +5,22 @@
   number_educ: 0
 - name: Yiqi You
   photo: yiqiyou.jpg
+  info: Mentor - Pengyue Jia
   email: yqyou4-c@my.cityu.edu.hk
   number_educ: 0
 - name: Sheng Zhang
   photo: shengzhang.jpg
+  info: Mentor - Maolin Wang
   email: szhang844-c@my.cityu.edu.hk
   number_educ: 0
 - name: Jiawei Liu
   photo: jiaweiliu.jpg
+  info: Mentor - Yejing Wang
   email: jiawliu7-c@my.cityu.edu.hk
   number_educ: 0
   website: https://patrick-liu123.github.io/
 - name: Xuchuan Wang
+  info: Mentor - Siqi Lei
   photo: xuchuanwang.jpg
   email: xuchuwang3-c@my.cityu.edu.hk
   number_educ: 0
