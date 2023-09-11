@@ -53,13 +53,15 @@ Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Fac
 Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 ICDM'23, Proceedings of the 23rd International Conference on Data Mining
 
-Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing\
+[Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://ieeexplore.ieee.org/iel7/69/4358933/10239279.pdf)\
 Hao Miao, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, Christian S. Jensen\
 TKDE, IEEE Transactions on Knowledge and Data Engineering
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/miao2023task.html)]
 
-Mitigating Performance Sacrifice in DP-satisfied Federated Settings through Graph Contrastive Learning\
+[Mitigating Performance Sacrifice in DP-satisfied Federated Settings through Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0020025523011374)\
 Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen, Guandong Xu\
 Information Sciences
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2023mitigating.html)]
 
 [Recommender Systems in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2307.02046)\
 Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li\
