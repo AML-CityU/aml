@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadc4631-0ed2-4dff-9290-279df0e888d0" name="Changes" comment="update teams">
-      <change beforePath="$PROJECT_DIR$/_data/ms23.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/ms23.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/ms22.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/ms22.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,20 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666676624002</updated>
-    </task>
-    <task id="LOCAL-00222" summary="update homepage">
-      <created>1690703480001</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1690703480001</updated>
-    </task>
-    <task id="LOCAL-00223" summary="update homepage">
-      <created>1690703645082</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1690703645082</updated>
     </task>
     <task id="LOCAL-00224" summary="update homepage">
       <created>1690703749064</created>
@@ -408,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694472525454</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="update teams">
+      <created>1694472757553</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1694472757553</updated>
+    </task>
+    <task id="LOCAL-00272" summary="update teams">
+      <created>1694472904438</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1694472904438</updated>
+    </task>
+    <option name="localTasksCounter" value="273" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
