@@ -108,9 +108,10 @@ Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming
 Knowledge and Information Systems (KAIS)\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023autoassign+.html)]
 
-STRec: Sparse Transformer for Sequential Recommendations\
+[STRec: Sparse Transformer for Sequential Recommendations](https://dl.acm.org/doi/abs/10.1145/3604915.3608779)\
 Chengxi Li, Xiangyu Zhao, Yejing Wang, Qidong Liu, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li\
-RecSys'23, Proceedings of the 17th ACM Conference on Recommender Systems
+RecSys'23, Proceedings of the 17th ACM Conference on Recommender Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023strec.html)]
 
 [Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3580305.3599528)\
 Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang\
