@@ -13,7 +13,7 @@ The thresholds are as follows:
 - 85 (211 & QS/THE/ARWU Top 200)
 - 90 (other universities)
 
-Note that these are the minimum requirements. To be shortlisted by our school's PhD admission committee, applicants are recommended to have a first-degree GPA of **at least 5 points** more than the minimum grade.
+Note that these are the minimum requirements of CityU. To be shortlisted by the PhD admission committee of the School of Data Science (SDSC), applicants are recommended to have a first-degree GPA of **at least 5 points** more than the minimum grade.
 
 ***
 ### English Proficiency Requirements
