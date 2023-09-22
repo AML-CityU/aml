@@ -59,15 +59,15 @@ NeurIPS'23, Proceedings of the 37th Advances in Neural Information Processing Sy
 
 Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis\
 Yuanshao Zhu, Yongchao Ye, Ying Wu, Xiangyu Zhao, James J.Q. Yu\
-NeurIPS'23 (Datasets and Benchmarks paper), Proceedings of the 37th Advances in Neural Information Processing Systems
+NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Advances in Neural Information Processing Systems
 
 KuaiSim: A Comprehensive Simulator for Recommender Systems\
 Kesen Zhao, Shuchang Liu, Qingpeng Cai, Xiangyu Zhao, Ziru Liu, Dong Zheng, Peng Jiang, Kun Gai\
-NeurIPS'23 (Datasets and Benchmarks paper), Proceedings of the 37th Advances in Neural Information Processing Systems
+NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Advances in Neural Information Processing Systems
 
 XES3G5M: A Knowledge Tracing BenchmarkDataset with Auxiliary Information\
 Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao,Jiliang Tang, Weiqi Luo, Jian Weng\
-NeurIPS'23 (Datasets and Benchmarks paper), Proceedings of the 37th Advances in Neural Information Processing Systems
+NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Advances in Neural Information Processing Systems
 
 Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization\
 Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
