@@ -49,10 +49,25 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations\
+Haoran Yang, Xiangyu Zhao, Yicong Li, Hongxu Chen, Guandong Xu\
+NeurIPS'23, Advances in Neural Information Processing Systems 36
+
+DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model\
+Yuanshao Zhu, Yongchao Ye, Shiyao Zhang, Xiangyu Zhao, James J.Q. Yu\
+NeurIPS'23, Advances in Neural Information Processing Systems 36
+
+Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis\
+Yuanshao Zhu, Yongchao Ye, Ying Wu, Xiangyu Zhao, James J.Q. Yu\
+NeurIPS'23, Advances in Neural Information Processing Systems 36
+
+KuaiSim: A Comprehensive Simulator for Recommender Systems\
+Kesen Zhao, Shuchang Liu, Qingpeng Cai, Xiangyu Zhao, Ziru Liu, Dong Zheng, Peng Jiang, Kun Gai\
+NeurIPS'23, Advances in Neural Information Processing Systems 36
+
 XES3G5M: A Knowledge Tracing BenchmarkDataset with Auxiliary Information\
 Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao,Jiliang Tang, Weiqi Luo, Jian Weng\
 NeurIPS'23, Advances in Neural Information Processing Systems 36
-
 
 Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization\
 Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
