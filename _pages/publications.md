@@ -49,6 +49,11 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+XES3G5M: A Knowledge Tracing BenchmarkDataset with Auxiliary Information\
+Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao,Jiliang Tang, Weiqi Luo, Jian Weng\
+NeurIPS'23, Advances in Neural Information Processing Systems 36
+
+
 Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization\
 Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 ICDM'23, Proceedings of the 23rd International Conference on Data Mining
