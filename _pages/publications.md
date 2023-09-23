@@ -65,8 +65,8 @@ KuaiSim: A Comprehensive Simulator for Recommender Systems\
 Kesen Zhao, Shuchang Liu, Qingpeng Cai, Xiangyu Zhao, Ziru Liu, Dong Zheng, Peng Jiang, Kun Gai\
 NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems
 
-XES3G5M: A Knowledge Tracing BenchmarkDataset with Auxiliary Information\
-Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao,Jiliang Tang, Weiqi Luo, Jian Weng\
+XES3G5M: A Knowledge Tracing Benchmark Dataset with Auxiliary Information\
+Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao, Jiliang Tang, Weiqi Luo, Jian Weng\
 NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems
 
 Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization\
