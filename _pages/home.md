@@ -59,7 +59,7 @@ permalink: /
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 187px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/boss.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/boss.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
 </div>
