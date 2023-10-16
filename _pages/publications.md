@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+A Comprehensive Survey on Automated Machine learning forRecommendations\
+Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
+TORS, ACM Transactions on Recommender Systems
+
 An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations\
 Haoran Yang, Xiangyu Zhao, Yicong Li, Hongxu Chen, Guandong Xu\
 NeurIPS'23, Proceedings of the 37th Annual Conference on Neural Information Processing Systems
