@@ -49,6 +49,13 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2023
 
+Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation\
+Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
+WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
+
+MultiFS: Automated Multi-Scenario Feature Selection in DeepRecommender Systems\
+WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
+
 A Comprehensive Survey on Automated Machine learning forRecommendations\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
 TORS, ACM Transactions on Recommender Systems
