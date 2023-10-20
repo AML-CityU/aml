@@ -54,6 +54,7 @@ Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming T
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
 
 MultiFS: Automated Multi-Scenario Feature Selection in DeepRecommender Systems\
+Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
 
 A Comprehensive Survey on Automated Machine learning forRecommendations\
