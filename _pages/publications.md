@@ -53,11 +53,11 @@ Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Reco
 Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
 
-MultiFS: Automated Multi-Scenario Feature Selection in DeepRecommender Systems\
+MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems\
 Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
 
-A Comprehensive Survey on Automated Machine learning forRecommendations\
+A Comprehensive Survey on Automated Machine learning for Recommendations\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
 TORS, ACM Transactions on Recommender Systems
 
