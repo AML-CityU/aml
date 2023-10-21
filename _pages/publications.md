@@ -47,7 +47,7 @@ WWW'21, Companion Proceedings of the Web Conference 2021\
 Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
-### Publications in 2023
+### Publications in 2024
 
 Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation\
 Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
@@ -56,6 +56,8 @@ WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and 
 MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems\
 Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
+
+### Publications in 2023
 
 A Comprehensive Survey on Automated Machine learning for Recommendations\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
@@ -337,13 +339,12 @@ Xiangyu Zhao, Wenqi Fan, Hui Liu, Jiliang Tang\
 AAAI'22, Proceedings of the AAAI Conference on Artificial Intelligence\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2022multi.html)]
 
-
-### Publications in 2021
-
 [DRL4IR: 2nd Workshop on Deep Reinforcement Learning for Information Retrieval](https://dl.acm.org/doi/pdf/10.1145/3404835.3462818)\
 Weinan Zhang, Xiangyu Zhao, Li Zhao, Dawei Yin, Grace Hui Yang\
 SIGIR'22, Companion Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2021drl4ir.html)]
+
+### Publications in 2021
 
 [Data-Efficient Reinforcement Learning for Malaria Control](https://arxiv.org/pdf/2105.01620)\
 Lixin Zou, Long Xia, Linfang Hou, Xiangyu Zhao, Dawei Yin\
