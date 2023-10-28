@@ -102,13 +102,15 @@ Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen We
 arxiv preprint\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023recommender.html)]
 
-Diffusion Augmentation for Sequential Recommendation\
+[Diffusion Augmentation for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615134)\
 Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Feng Tian\
-CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023diffusion.html)]
 
-Hierarchical Information Enhanced Traffic Forecasting\
+[Rethinking Sensors Modeling: Hierarchical Information Enhanced Traffic Forecasting](https://dl.acm.org/doi/pdf/10.1145/3583780.3614910)\
 Qian Ma, Zijian Zhang, Xiangyu Zhao, Haoliang Li, Hongwei Zhao, Yiqi Wang, Zitao Liu, Wanyu Wang\
-CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management
+CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/ma2023rethinking.html)]
 
 Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction\
 Zijian Zhang, Xiangyu Zhao, Qidong Liu, Chunxu Zhang, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu\
