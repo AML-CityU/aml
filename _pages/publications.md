@@ -99,7 +99,8 @@ Information Sciences\
 
 [Recommender Systems in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2307.02046)\
 Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li\
-arxiv preprint
+arxiv preprint\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023recommender.html)]
 
 Diffusion Augmentation for Sequential Recommendation\
 Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Feng Tian\
