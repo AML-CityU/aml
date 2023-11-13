@@ -59,37 +59,49 @@ WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and 
 
 ### Publications in 2023
 
+Dynamically engineered multi-modal feature learning for predictions of office building cooling loads\
+Yiren Liu, Xiangyu Zhao, S. Joe Qin\
+Applied Energy
+
 [On the Opportunities of Green Computing: A Survey](https://arxiv.org/abs/2311.00447)\
 You Zhou, Xiujing Lin, Xiang Zhang, Maolin Wang, Gangwei Jiang, Huakang Lu, Yupeng Wu, Kai Zhang, Zhe Yang, Kehang Wang, Yongduo Sui, Fengwei Jia, Zuoli Tang, Yao Zhao, Hongxuan Zhang, Tiannuo Yang, Weibo Chen, Yunong Mao, Yi Li, De Bao, Yu Li, Hongrui Liao, Ting Liu, Jingwen Liu, Jinchi Guo, Jin Zhao, Xiangyu Zhao, Ying WEI, Hong Qian, Qi Liu, Xiang Wang, Wai Kin (Victor)Chan, Chenliang Li, Yusen Li, Shiyu Yang, Jining Yan, Chao Mou, Shuai Han, Wuxia Jin, Guannan Zhang, Xiaodong Zeng\
-arxiv preprint
+arxiv preprint\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhou2023opportunities.html)]
 
 [Embedding in Recommender Systems: A Survey](https://arxiv.org/abs/2310.18608)\
 Xiangyu Zhao, Maolin Wang, Xinjian Zhao, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo\
-arxiv preprint
+arxiv preprint\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2023embedding.html)]
 
-A Comprehensive Survey on Automated Machine learning for Recommendations\
+[A Comprehensive Survey on Automated Machine learning for Recommendations](https://dl.acm.org/doi/abs/10.1145/3630104)\
 Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
-TORS, ACM Transactions on Recommender Systems
+TORS, ACM Transactions on Recommender Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/1011453.html)]
 
-An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations\
+[An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations](https://openreview.net/forum?id=XyAP8ScqLV)\
 Haoran Yang, Xiangyu Zhao, Yicong Li, Hongxu Chen, Guandong Xu\
-NeurIPS'23, Proceedings of the 37th Annual Conference on Neural Information Processing Systems
+NeurIPS'23, Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2023an.html)]
 
-DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model\
+[DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model](https://openreview.net/forum?id=ykMdzevPkJ)\
 Yuanshao Zhu, Yongchao Ye, Shiyao Zhang, Xiangyu Zhao, James J.Q. Yu\
-NeurIPS'23, Proceedings of the 37th Annual Conference on Neural Information Processing Systems
+NeurIPS'23, Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhu2023difftraj.html)]
 
-Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis\
+[SynMob: Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis](https://openreview.net/forum?id=oz4AGs0phP)\
 Yuanshao Zhu, Yongchao Ye, Ying Wu, Xiangyu Zhao, James J.Q. Yu\
-NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems
+NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhu2023synmob.html)]
 
-KuaiSim: A Comprehensive Simulator for Recommender Systems\
+[KuaiSim: A Comprehensive Simulator for Recommender Systems](https://openreview.net/forum?id=dJEjgQcbOt)\
 Kesen Zhao, Shuchang Liu, Qingpeng Cai, Xiangyu Zhao, Ziru Liu, Dong Zheng, Peng Jiang, Kun Gai\
-NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems
+NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2023kuaisim.html)]
 
-XES3G5M: A Knowledge Tracing Benchmark Dataset with Auxiliary Information\
+[XES3G5M: A Knowledge Tracing Benchmark Dataset with Auxiliary Information](https://openreview.net/forum?id=Mn9oHNdYCE)\
 Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao, Jiliang Tang, Weiqi Luo, Jian Weng\
-NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems
+NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023xesgm.html)]
 
 Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization\
 Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
