@@ -59,9 +59,10 @@ WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and 
 
 ### Publications in 2023
 
-Dynamically engineered multi-modal feature learning for predictions of office building cooling loads\
+[Dynamically engineered multi-modal feature learning for predictions of office building cooling loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477)\
 Yiren Liu, Xiangyu Zhao, S. Joe Qin\
-Applied Energy
+Applied Energy\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/LIU2024122183.html)]
 
 [On the Opportunities of Green Computing: A Survey](https://arxiv.org/abs/2311.00447)\
 You Zhou, Xiujing Lin, Xiang Zhang, Maolin Wang, Gangwei Jiang, Huakang Lu, Yupeng Wu, Kai Zhang, Zhe Yang, Kehang Wang, Yongduo Sui, Fengwei Jia, Zuoli Tang, Yao Zhao, Hongxuan Zhang, Tiannuo Yang, Weibo Chen, Yunong Mao, Yi Li, De Bao, Yu Li, Hongrui Liao, Ting Liu, Jingwen Liu, Jinchi Guo, Jin Zhao, Xiangyu Zhao, Ying WEI, Hong Qian, Qi Liu, Xiang Wang, Wai Kin (Victor)Chan, Chenliang Li, Yusen Li, Shiyu Yang, Jining Yan, Chao Mou, Shuai Han, Wuxia Jin, Guannan Zhang, Xiaodong Zeng\
