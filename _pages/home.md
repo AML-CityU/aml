@@ -58,7 +58,7 @@ permalink: /
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/kuaishou.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/jd.png" style="width: 187px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/alibaba.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/netease.png" style="width: 166px; margin-left: 14px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/boss.png" style="width: 170px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baichuan.png" style="width: 140px; margin-left: 30px; margin-right: 30px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
