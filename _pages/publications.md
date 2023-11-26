@@ -59,7 +59,7 @@ WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and 
 
 ### Publications in 2023
 
-[Dynamically engineered multi-modal feature learning for predictions of office building cooling loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477)\
+[Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477)\
 Yiren Liu, Xiangyu Zhao, S. Joe Qin\
 Applied Energy\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/LIU2024122183.html)]
