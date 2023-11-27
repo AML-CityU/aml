@@ -8,10 +8,10 @@ permalink: /requirement.html
 ### GPA Requirements (Disclaimer)
 CityU SGS has stringent requirements on the GPA of each applicant's first-degree. 
 The thresholds are as follows:
-- 75 (C9 & QS/THE/ARWU Top 20)
-- 80 (985 & QS/THE/ARWU Top 100)
-- 85 (211 & QS/THE/ARWU Top 200)
-- 90 (other universities)
+- Priority 1: 75 + 5 (C9 & QS/THE/ARWU Top 20)
+- Priority 2: 80 + 5 (985 & QS/THE/ARWU Top 100)
+- Priority 3: 85 + 5 (211 & QS/THE/ARWU Top 200)
+- Priority 4: 90 + 5 (other universities)
 
 Note that these are the minimum requirements of CityU. To be shortlisted by the PhD admission committee of the School of Data Science (SDSC), applicants are recommended to have a **<u>first-degree GPA of at least 5 points more than the minimum grade</u>**.
 
