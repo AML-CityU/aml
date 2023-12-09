@@ -49,6 +49,14 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2024
 
+D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations\
+Pengyue Jia, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Huifeng Guo, Ruiming Tang\
+AAAI'24
+
+SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation\
+Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
+ICDE'24
+
 Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation\
 Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
