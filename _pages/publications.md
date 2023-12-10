@@ -67,6 +67,10 @@ WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and 
 
 ### Publications in 2023
 
+SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations\
+Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
+Transactions on lnformation Systems
+
 [Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477)\
 Yiren Liu, Xiangyu Zhao, S. Joe Qin\
 Applied Energy\
