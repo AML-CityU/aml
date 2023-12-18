@@ -73,7 +73,7 @@ WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and 
 
 SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations\
 Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
-Transactions on lnformation Systems (TOIS)
+TOIS, Transactions on lnformation Systems
 
 [Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477)\
 Yiren Liu, Xiangyu Zhao, S. Joe Qin\
@@ -186,7 +186,7 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation](https://link.springer.com/article/10.1007/s10115-023-01951-1)\
 Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-Knowledge and Information Systems (KAIS)\
+KAIS, Knowledge and Information Systems\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023autoassign+.html)]
 
 [STRec: Sparse Transformer for Sequential Recommendations](https://dl.acm.org/doi/abs/10.1145/3604915.3608779)\
@@ -373,7 +373,7 @@ ICLR'22, Proceedings of the 10th International Conference on Learning Representa
 
 [Interaction-aware Drug Package Recommendation via Policy Gradient](https://dl.acm.org/doi/pdf/10.1145/3511020)\
 Zhi Zheng, Chao Wang, Tong Xu, Dazhong Shen, Penggang Qin, Xiangyu Zhao, Baoxing Huai, Xian Wu, Enhong Chen\
-ACM Transactions on Information Systems (TOIS)\
+TOIS, ACM Transactions on Information Systems\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zheng2022interaction.html)]
 
 [Graph Trend Filtering Networks for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3477495.3531985)\
@@ -529,7 +529,7 @@ DASFAA'16, International conference on database systems for advanced application
 
 [Identifying effective multiple spreaders by coloring complex networks](https://iopscience.iop.org/article/10.1209/0295-5075/108/68005/meta)\
 Xiangyu Zhao, Bin Huang, Ming Tang, Haifeng Zhang, Duanbing Chen\
-EPL (Europhysics Letters)\
+EPL, Europhysics Letters\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2015identifying.html)]
 
 [Coloring the complex networks and its application for immunization strategy](https://scholars.cityu.edu.hk/en/publications/coloring-the-complex-networks-and-its-application-for-immunization-strategy(ade9ca02-2a27-427b-ba7e-294239d2b51d).html)\
