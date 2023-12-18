@@ -120,7 +120,7 @@ Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao, Ji
 NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023xesgm.html)]
 
-Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization\
+[Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization](https://arxiv.org/pdf/2311.10341.pdf)\
 Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 ICDM'23, Proceedings of the 23rd International Conference on Data Mining
 
