@@ -51,11 +51,11 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 Tensorized Hypergraph Neural Networks\
 Maolin Wang, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
-SDM'2024
+SDM'24
 
 D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations\
 Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-AAAI'24
+AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence
 
 SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation\
 Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
@@ -73,7 +73,7 @@ WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and 
 
 SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations\
 Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
-Transactions on lnformation Systems
+Transactions on lnformation Systems (TOIS)
 
 [Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477)\
 Yiren Liu, Xiangyu Zhao, S. Joe Qin\
