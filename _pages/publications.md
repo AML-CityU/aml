@@ -51,7 +51,7 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 Tensorized Hypergraph Neural Networks\
 Maolin Wang, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
-SDM'24
+SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining
 
 D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations\
 Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
@@ -59,7 +59,7 @@ AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence
 
 SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation\
 Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
-ICDE'24
+ICDE'24, Proceedings of the 40th IEEE International Conference on Data Engineering
 
 Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation\
 Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
