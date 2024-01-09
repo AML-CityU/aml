@@ -303,7 +303,7 @@ WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and 
 
 [AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation](https://www.computer.org/csdl/proceedings-article/icdm/2022/509900a458/1KpCDRd7R60)\
 Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-ICDM'22, Proceedings of the 22nd International Conference on Data Mining, **__Best-ranked Papers__**\
+ICDM'22, Proceedings of the 22nd International Conference on Data Mining, `__Best-ranked Papers__`\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/song2022autoassign.html)]
 
 [Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557338)\
@@ -440,7 +440,7 @@ AAAI'21, Proceedings of the AAAI Conference on Artificial Intelligence\
 
 [AutoEmb: Automated embedding dimensionality search in streaming recommendations](https://ieeexplore.ieee.org/abstract/document/9679068/)\
 Xiangyu Zhao, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, Jiliang Tang\
-ICDM'21, Proceedings of the 21st International Conference on Data Mining, `**Best-ranked Papers**` <font color=red>Best-ranked Papers</font>\
+ICDM'21, Proceedings of the 21st International Conference on Data Mining, `__Best-ranked Papers__`\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2021autoemb.html)]
 
 ### Publications in 2020
