@@ -440,7 +440,7 @@ AAAI'21, Proceedings of the AAAI Conference on Artificial Intelligence\
 
 [AutoEmb: Automated embedding dimensionality search in streaming recommendations](https://ieeexplore.ieee.org/abstract/document/9679068/)\
 Xiangyu Zhao, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, Jiliang Tang\
-ICDM'21, Proceedings of the 21st International Conference on Data Mining, `**Best-ranked Papers**`\
+ICDM'21, Proceedings of the 21st International Conference on Data Mining, `**Best-ranked Papers**` <font color=red>Best-ranked Papers</font>\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2021autoemb.html)]
 
 ### Publications in 2020
