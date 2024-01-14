@@ -1,3 +1,17 @@
+- name: Jiaming Guo
+  photo: jiamingguo.jpg
+  email: jiaminguo6-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Yuantian Zhou
+  photo: yuantianzhou.jpg
+  email: yuantzhou3-c@my.cityu.edu.hk
+  website: https://github.com/ZhouYuantian
+  number_educ: 0
+- name: Ziwei Liu
+  photo: ziweiliu.jpg
+  email: ziwliu8@gmail.com
+  website: https://github.com/BokettoW
+  number_educ: 0
 - name: Qiyuan Ge
   photo: qiyuange.jpg
   info: Mentor - Wenlin Zhang
