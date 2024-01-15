@@ -782,7 +782,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-### Enrollment Date: 2023
+### Enrollment Date: 2024
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ms24 %}
