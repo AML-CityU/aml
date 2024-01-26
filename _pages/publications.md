@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2024
 
+When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions\
+Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang\
+WWW'24, Proceedings of the ACM Web Conference 2024
+
 Tensorized Hypergraph Neural Networks\
 Maolin Wang, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining
