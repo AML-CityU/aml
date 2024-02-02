@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2024
 
+Large Multimodal Model Compression via Efficient Pruning and Distillation\
+Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
+WWW'24 (industry track), Proceedings of the ACM Web Conference 2024
+
 When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions\
 Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang\
 WWW'24, Proceedings of the ACM Web Conference 2024
