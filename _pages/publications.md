@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2024
 
+Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models\
+Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
+LREC-COLING 2024, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
+
 Large Multimodal Model Compression via Efficient Pruning and Distillation\
 Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
 WWW'24 (industry track), Proceedings of the ACM Web Conference 2024
