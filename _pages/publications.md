@@ -81,16 +81,17 @@ MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems\
 Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
 
-### Publications in 2023
-
-SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations\
-Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
-TOIS, Transactions on lnformation Systems
-
-[Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477)\
+[Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477?via%3Dihub)\
 Yiren Liu, Xiangyu Zhao, S. Joe Qin\
 Applied Energy\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/LIU2024122183.html)]
+
+### Publications in 2023
+
+[SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/10.1145/3637871)\
+Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
+TOIS, Transactions on lnformation Systems\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2024smlp4rec.html)]
 
 [On the Opportunities of Green Computing: A Survey](https://arxiv.org/abs/2311.00447)\
 You Zhou, Xiujing Lin, Xiang Zhang, Maolin Wang, Gangwei Jiang, Huakang Lu, Yupeng Wu, Kai Zhang, Zhe Yang, Kehang Wang, Yongduo Sui, Fengwei Jia, Zuoli Tang, Yao Zhao, Hongxuan Zhang, Tiannuo Yang, Weibo Chen, Yunong Mao, Yi Li, De Bao, Yu Li, Hongrui Liao, Ting Liu, Jingwen Liu, Jinchi Guo, Jin Zhao, Xiangyu Zhao, Ying WEI, Hong Qian, Qi Liu, Xiang Wang, Wai Kin (Victor)Chan, Chenliang Li, Yusen Li, Shiyu Yang, Jining Yan, Chao Mou, Shuai Han, Wuxia Jin, Guannan Zhang, Xiaodong Zeng\
