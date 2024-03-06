@@ -50,9 +50,9 @@ permalink: /
 <div class="center">
   <b style="font-size:24px">Funding and Institutional Support</b>
   
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/UGC.jpg" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/itc.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/env.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/UGC.jpg" style="width: 177px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/itc.png" style="width: 149px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/env.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/ant.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei2.jpg" style="width: 149px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baidu1.png" style="width: 177px; margin-left: 16px; margin-right: 16px">
