@@ -73,11 +73,11 @@ SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation\
 Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
 ICDE'24, Proceedings of the 40th IEEE International Conference on Data Engineering
 
-Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation\
+[Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3616855.3635807)\
 Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
 
-MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems\
+[MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3616855.3635859)\
 Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao\
 WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
 
