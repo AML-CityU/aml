@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2024
 
+Mobile Trajectory Anomaly Detection: Taxonomy, Methodology, Challenges, and Directions\
+Xiangjie Kong, Juntao Wang, Zehao Hu, Yuwei He, Xiangyu Zhao, Guojiang Shen\
+IoT, IEEE Internet of Things Journal 
+
 Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models\
 Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
 LREC-COLING 2024, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
