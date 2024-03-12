@@ -79,12 +79,12 @@ ICDE'24, Proceedings of the 40th IEEE International Conference on Data Engineeri
 
 [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3616855.3635807)\
 Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
-WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
+WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2024diff.html)]
 
 [MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3616855.3635859)\
 Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao\
-WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining
+WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2024multifs.html)]
 
 [Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477?via%3Dihub)\
