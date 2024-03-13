@@ -73,7 +73,7 @@ D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Mu
 Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence
 
-SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation\
+[SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation](https://arxiv.org/abs/2403.04278)\
 Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
 ICDE'24, Proceedings of the 40th IEEE International Conference on Data Engineering
 
