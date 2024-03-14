@@ -49,6 +49,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2024
 
+[MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056)\
+Pengyue Jia, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
+NAACL 2024, 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+
 Mobile Trajectory Anomaly Detection: Taxonomy, Methodology, Challenges, and Directions\
 Xiangjie Kong, Juntao Wang, Zehao Hu, Yuwei He, Xiangyu Zhao, Guojiang Shen\
 IoT, IEEE Internet of Things Journal 
