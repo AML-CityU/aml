@@ -1,4 +1,3 @@
-![image](https://github.com/AML-CityU/AML-CityU.github.io/assets/52476526/5bada19f-d45c-4309-8733-21859a121fd9)---
 title: "AML Lab - Publications"
 layout: gridlay
 excerpt: "AML Lab -- Publications."
