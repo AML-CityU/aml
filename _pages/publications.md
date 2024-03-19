@@ -1,4 +1,4 @@
----
+![image](https://github.com/AML-CityU/AML-CityU.github.io/assets/52476526/5bada19f-d45c-4309-8733-21859a121fd9)---
 title: "AML Lab - Publications"
 layout: gridlay
 excerpt: "AML Lab -- Publications."
@@ -48,6 +48,10 @@ Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2024
+
+Modeling Net Ecosystem Exchange of CO2 with Gated Recurrent Unit Neural Networks\
+Huimin Zou, Jiquan Chen, Xianglan Li, Michael Abraha, Xiangyu Zhao, Jiliang Tang\
+Agricultural and Forest Meteorology
 
 [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056)\
 Pengyue Jia, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
