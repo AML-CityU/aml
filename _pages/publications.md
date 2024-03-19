@@ -1,3 +1,10 @@
+---
+title: "AML Lab - Publications"
+layout: gridlay
+excerpt: "AML Lab -- Publications."
+sitemap: false
+permalink: /publications/
+---
 
 # Publications
 
