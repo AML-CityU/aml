@@ -56,9 +56,10 @@ Agricultural and Forest Meteorology
 Pengyue Jia, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
 NAACL 2024, 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 
-Mobile Trajectory Anomaly Detection: Taxonomy, Methodology, Challenges, and Directions\
+[Mobile Trajectory Anomaly Detection: Taxonomy, Methodology, Challenges, and Directions](https://ieeexplore.ieee.org/document/10468597)\
 Xiangjie Kong, Juntao Wang, Zehao Hu, Yuwei He, Xiangyu Zhao, Guojiang Shen\
-IoT, IEEE Internet of Things Journal 
+IoT, IEEE Internet of Things Journal\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/10468597.html)]
 
 Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models\
 Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
