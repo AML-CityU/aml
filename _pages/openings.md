@@ -50,7 +50,7 @@ Master's and Bachelor's students at CityU who intent to work with us, please con
 
 [Visiting research students & scholars positions](https://www.cityu.edu.hk/pg/visiting/visiting-research-students) are available year around.
 
-Onsite and Online RA positions are available for excellent students (preferably >= 6 months).
+Due to the large number of lab members, on-site and online RA positions are only available for excellent students (preferably >= 6 months).
 
 ***
 <u>Due to the high volume of the emails, I may not be able to reply to each individual of them.</u>
