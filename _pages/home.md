@@ -65,7 +65,7 @@ permalink: /
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/baichuan.png" style="width: 140px; margin-left: 30px; margin-right: 30px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/linkedin.png" style="width: 166px; margin-left: 16px; margin-right: 16px">
   <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/criteo.png" style="width: 166px; margin-left: 16px; margin-right: 16px">-->
-  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/all.png" style="width: 650px; margin-left: 16px; margin-right: 16px">
+  <img class="logopic" src="{{ site.url }}{{ site.baseurl }}/images/logopic/all.png" style="width: 625px; margin-left: 16px; margin-right: 16px">
   
   
 </div>
