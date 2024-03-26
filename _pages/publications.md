@@ -48,6 +48,10 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 ### Publications in 2024
 
+Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention\
+Ziru Liu, Shuchang Liu, Zijian Zhang, Qingpeng Cai, Xiangyu Zhao, Kesen Zhao, Lantao Hu, Peng Jiang, Kun Gai\
+SIGIR'24 (full track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
 When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications\
 Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, Derong Xu, Feng Tian, Yefeng Zheng\
 SIGIR'24 (full track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
