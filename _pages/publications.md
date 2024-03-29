@@ -100,6 +100,7 @@ SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining
 [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699)\
 Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/jia2024d3.html)]
 
 [SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation](https://arxiv.org/abs/2403.04278)\
 Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
