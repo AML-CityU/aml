@@ -52,7 +52,7 @@ Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term R
 Ziru Liu, Shuchang Liu, Zijian Zhang, Qingpeng Cai, Xiangyu Zhao, Kesen Zhao, Lantao Hu, Peng Jiang, Kun Gai\
 SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications\
+[When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://arxiv.org/abs/2310.18339)\
 Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, Derong Xu, Feng Tian, Yefeng Zheng\
 SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
@@ -64,11 +64,11 @@ Optimal Transport Enhanced Cross-City Site Recommendation\
 Xinhang Li, Xiangyu Zhao, Zihao Wang, Yang Duan, Yong Zhang, Chunxiao Xing\
 SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-OpenSiteRec: An Open Dataset for Site Recommendation\
+[OpenSiteRec: An Open Dataset for Site Recommendation](https://arxiv.org/abs/2307.00856)\
 Xinhang Li, Xiangyu Zhao, Yejing Wang, Yu Liu, Chong Chen, Cheng Long, Yong Zhang, Chunxiao Xing\
 SIGIR'24 (resource track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-Modeling Net Ecosystem Exchange of CO2 with Gated Recurrent Unit Neural Networks\
+[Modeling Net Ecosystem Exchange of CO2 with Gated Recurrent Unit Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S016819232400100X)\
 Huimin Zou, Jiquan Chen, Xianglan Li, Michael Abraha, Xiangyu Zhao, Jiliang Tang\
 Agricultural and Forest Meteorology
 
@@ -81,23 +81,23 @@ Xiangjie Kong, Juntao Wang, Zehao Hu, Yuwei He, Xiangyu Zhao, Guojiang Shen\
 IoT, IEEE Internet of Things Journal\
 [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/10468597.html)]
 
-Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models\
+[Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models](https://arxiv.org/abs/2403.01972)\
 Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
 COLING'24, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
 
-Large Multimodal Model Compression via Efficient Pruning and Distillation\
+[Large Multimodal Model Compression via Efficient Pruning and Distillation](https://arxiv.org/abs/2312.05795)\
 Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
 WWW'24 (industry track), Proceedings of the ACM Web Conference 2024, <font color=red> Oral Presentation </font>
 
-When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions\
+[When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650)\
 Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang\
 WWW'24, Proceedings of the ACM Web Conference 2024
 
-Tensorized Hypergraph Neural Networks\
+[Tensorized Hypergraph Neural Networks](https://arxiv.org/abs/2306.02560)\
 Maolin Wang, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining
 
-D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations\
+[D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699)\
 Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence
 
