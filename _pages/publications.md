@@ -50,19 +50,19 @@ IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial I
 
 Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention\
 Ziru Liu, Shuchang Liu, Zijian Zhang, Qingpeng Cai, Xiangyu Zhao, Kesen Zhao, Lantao Hu, Peng Jiang, Kun Gai\
-SIGIR'24 (full track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications\
 Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, Derong Xu, Feng Tian, Yefeng Zheng\
-SIGIR'24 (full track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 MDMTRec: An Adaptive Multi-Task Multi-Domain Recommendation Framework\
 Zijian Zhang, Shuchang Liu, Jiaao Yu, Qingpeng Cai, Xiangyu Zhao, Chunxu Zhang, Ziru Liu, Qidong Liu, Hongwei Zhao, Lantao Hu, Peng Jiang, Kun Gai\
-SIGIR'24 (full track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 Optimal Transport Enhanced Cross-City Site Recommendation\
 Xinhang Li, Xiangyu Zhao, Zihao Wang, Yang Duan, Yong Zhang, Chunxiao Xing\
-SIGIR'24 (full track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 OpenSiteRec: An Open Dataset for Site Recommendation\
 Xinhang Li, Xiangyu Zhao, Yejing Wang, Yu Liu, Chong Chen, Cheng Long, Yong Zhang, Chunxiao Xing\
@@ -83,7 +83,7 @@ IoT, IEEE Internet of Things Journal\
 
 Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models\
 Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
-LREC-COLING 2024, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
+COLING'24, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
 
 Large Multimodal Model Compression via Efficient Pruning and Distillation\
 Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
