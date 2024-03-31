@@ -93,7 +93,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [10] [Large Multimodal Model Compression via Efficient Pruning and Distillation](https://arxiv.org/abs/2312.05795)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;WWW'24 (industry track), Proceedings of the ACM Web Conference 2024, <font color=red> Oral Presentation </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'24 (industry track), Proceedings of the ACM Web Conference 2024\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation </font>
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023large.html)]
 
 [11] [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650)\
@@ -362,7 +363,8 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [1] [AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation](https://www.computer.org/csdl/proceedings-article/icdm/2022/509900a458/1KpCDRd7R60)\
 &nbsp;&nbsp;&nbsp;&nbsp;Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;ICDM'22, Proceedings of the 22nd International Conference on Data Mining, <font color=red>Best-ranked Papers</font>\
+&nbsp;&nbsp;&nbsp;&nbsp;ICDM'22, Proceedings of the 22nd International Conference on Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Best-ranked Papers</font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/song2022autoassign.html)]
 
 [2] [Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557338)\
@@ -422,7 +424,8 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [13] [MLP4Rec: A Pure MLP Architecture for Sequential Recommendations](https://www.ijcai.org/proceedings/2022/0297.pdf)\
 &nbsp;&nbsp;&nbsp;&nbsp;Muyang Li, Xiangyu Zhao, Chuan Lyu, Minghao Zhao, Runze Wu, Ruocheng Guo\
-&nbsp;&nbsp;&nbsp;&nbsp;IJCAI'22, Proceedings of the 31st International Joint Conference on Artificial Intelligence, <font color=red> LONG Oral Presentation (3.75%) </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;IJCAI'22, Proceedings of the 31st International Joint Conference on Artificial Intelligence\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>LONG Oral Presentation (3.75%) </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2022mlp4rec.html)]
 
 [14] [Automated self-supervised learning for graphs](https://arxiv.org/pdf/2106.05470)\
@@ -474,8 +477,8 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [5] [Towards Long-term Fairness in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3437963.3441824)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, Yunqi Li, Xiangyu Zhao, Changhua Pei, Fei Sun, Junfeng Ge, Wenwu Ou, Yongfeng Zhang\
-&nbsp;&nbsp;&nbsp;&nbsp;WSDM'21, Proceedings of the 14th ACM International Conference on Web Search and Data Mining, <font color=red> Top-4 Most Cited Paper 4 / 155 Accepted </font>\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red> Papers </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;WSDM'21, Proceedings of the 14th ACM International Conference on Web Search and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Top-4 Most Cited Paper 4 / 155 Accepted Papers </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/ge2021towards.html)]
 
 [6] [Adaptive and Automated Deep Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3533274.3533277)\
@@ -500,8 +503,8 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [10] [AutoEmb: Automated embedding dimensionality search in streaming recommendations](https://ieeexplore.ieee.org/abstract/document/9679068/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, Jiliang Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;ICDM'21, Proceedings of the 21st International Conference on Data Mining, <font color=red>Best-ranked Papers</font>, <font color=red> Top-10 Most Cited Paper 10 / 208 Accepted </font>\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red> Papers </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;ICDM'21, Proceedings of the 21st International Conference on Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Best-ranked Papers, Top-10 Most Cited Paper 10 / 208 Accepted Papers </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2021autoemb.html)]
 
 ### Publications in 2020
@@ -535,18 +538,20 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [1] [Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://dl.acm.org/doi/10.1145/3320496.3320500)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Long Xia, Jiliang Tang, Dawei Yin\
-&nbsp;&nbsp;&nbsp;&nbsp;ACM SIGWEB Newsletter, <font color=red> Top-2 Most Cited Paper 2 / 551 in History </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;ACM SIGWEB Newsletter\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Top-2 Most Cited Paper 2 / 551 in History </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2019deep.html)]
 
 [2] [Deep reinforcement learning for page-wise recommendations](https://dl.acm.org/doi/pdf/10.1145/3240323.3240374)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;RecSys'18, Proceedings of the 12th ACM Conference on Recommender Systems, <font color=red> Top-1 Most Cited Paper 1 / 117 Accepted Papers </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;RecSys'18, Proceedings of the 12th ACM Conference on Recommender Systems\ 
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Top-1 Most Cited Paper 1 / 117 Accepted Papers </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2018deep.html)]
 
 [3] [Recommendations with negative feedback via pairwise deep reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3219819.3219886)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'18, Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, <font color=red> Top-20 Most Cited Paper 19 / </font>\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red> 294 Accepted Papers </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'18, Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red> Top-20 Most Cited Paper 19 / 294 Accepted Papers </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2018recommendations.html)]
 
 [4] [Crime in urban areas: A data mining perspective](https://dl.acm.org/doi/pdf/10.1145/3229329.3229331)\
@@ -571,8 +576,8 @@ CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on I
 
 [8] [Modeling temporal-spatial correlations for crime prediction](https://dl.acm.org/doi/pdf/10.1145/3132847.3133024)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Jiliang Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'17, Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, <font color=red> Top-20 Most Cited Paper 20 / 350 Accepted </font>\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red> Papers </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'17, Proceedings of the 2017 ACM on Conference on Information and Knowledge Management\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Top-20 Most Cited Paper 20 / 350 Accepted Papers </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2017modeling.html)]
 
 [9] [Cosolorec: Joint factor model with content, social, location for heterogeneous point-of-interest recommendation](https://link.springer.com/chapter/10.1007/978-3-319-47650-6_48)\
