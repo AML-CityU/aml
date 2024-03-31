@@ -6,6 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
+
 # Publications
 
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
@@ -529,10 +530,10 @@ SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research
 
 ### Publications in 2019 and before
 
-[Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://dl.acm.org/doi/10.1145/3320496.3320500)\
-Xiangyu Zhao, Long Xia, Jiliang Tang, Dawei Yin\
-ACM SIGWEB Newsletter, <font color=red> Top-2 Most Cited Paper 2 / 551 in History </font>\
-[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2019deep.html)]
+[1] [Deep reinforcement learning for search, recommendation, and online advertising: a survey](https://dl.acm.org/doi/10.1145/3320496.3320500)\
+&nbsp&nbsp&nbsp&nbsp Xiangyu Zhao, Long Xia, Jiliang Tang, Dawei Yin\
+&nbsp&nbsp&nbsp&nbsp ACM SIGWEB Newsletter, <font color=red> Top-2 Most Cited Paper 2 / 551 in History </font>\
+&nbsp&nbsp&nbsp&nbsp [[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2019deep.html)]
 
 [Deep reinforcement learning for page-wise recommendations](https://dl.acm.org/doi/pdf/10.1145/3240323.3240374)\
 Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang\
