@@ -94,7 +94,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [10] [Large Multimodal Model Compression via Efficient Pruning and Distillation](https://arxiv.org/abs/2312.05795)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'24 (industry track), Proceedings of the ACM Web Conference 2024\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023large.html)]
 
 [11] [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650)\
