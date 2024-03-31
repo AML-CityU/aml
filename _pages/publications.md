@@ -54,7 +54,8 @@ SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research
 
 [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://arxiv.org/abs/2310.18339)\
 Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, Derong Xu, Feng Tian, Yefeng Zheng\
-SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023moelora.html)]
 
 MDMTRec: An Adaptive Multi-Task Multi-Domain Recommendation Framework\
 Zijian Zhang, Shuchang Liu, Jiaao Yu, Qingpeng Cai, Xiangyu Zhao, Chunxu Zhang, Ziru Liu, Qidong Liu, Hongwei Zhao, Lantao Hu, Peng Jiang, Kun Gai\
@@ -66,7 +67,8 @@ SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research
 
 [OpenSiteRec: An Open Dataset for Site Recommendation](https://arxiv.org/abs/2307.00856)\
 Xinhang Li, Xiangyu Zhao, Yejing Wang, Yu Liu, Chong Chen, Cheng Long, Yong Zhang, Chunxiao Xing\
-SIGIR'24 (resource track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SIGIR'24 (resource track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023opensiterec.html)]
 
 [Modeling Net Ecosystem Exchange of CO2 with Gated Recurrent Unit Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S016819232400100X)\
 Huimin Zou, Jiquan Chen, Xianglan Li, Michael Abraha, Xiangyu Zhao, Jiliang Tang\
@@ -74,7 +76,8 @@ Agricultural and Forest Meteorology
 
 [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056)\
 Pengyue Jia, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
-NAACL 2024, 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+NAACL 2024, 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/jia2023mill.html)]
 
 [Mobile Trajectory Anomaly Detection: Taxonomy, Methodology, Challenges, and Directions](https://ieeexplore.ieee.org/document/10468597)\
 Xiangjie Kong, Juntao Wang, Zehao Hu, Yuwei He, Xiangyu Zhao, Guojiang Shen\
@@ -83,19 +86,23 @@ IoT, IEEE Internet of Things Journal\
 
 [Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models](https://arxiv.org/abs/2403.01972)\
 Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
-COLING'24, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
+COLING'24, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/xu2024multi.html)]
 
 [Large Multimodal Model Compression via Efficient Pruning and Distillation](https://arxiv.org/abs/2312.05795)\
 Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
-WWW'24 (industry track), Proceedings of the ACM Web Conference 2024, <font color=red> Oral Presentation </font>
+WWW'24 (industry track), Proceedings of the ACM Web Conference 2024, <font color=red> Oral Presentation </font>\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023large.html)]
 
 [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650)\
 Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang\
-WWW'24, Proceedings of the ACM Web Conference 2024
+WWW'24, Proceedings of the ACM Web Conference 2024\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2024federated.html)]
 
 [Tensorized Hypergraph Neural Networks](https://arxiv.org/abs/2306.02560)\
 Maolin Wang, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
-SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining
+SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023tensorized.html)]
 
 [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699)\
 Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
@@ -104,7 +111,8 @@ AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence\
 
 [SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation](https://arxiv.org/abs/2403.04278)\
 Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
-ICDE'24, Proceedings of the 40th IEEE International Conference on Data Engineering
+ICDE'24, Proceedings of the 40th IEEE International Conference on Data Engineering\
+[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2024ssdrec.html)]
 
 [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3616855.3635807)\
 Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
