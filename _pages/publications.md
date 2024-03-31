@@ -544,7 +544,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [2] [Deep reinforcement learning for page-wise recommendations](https://dl.acm.org/doi/pdf/10.1145/3240323.3240374)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;RecSys'18, Proceedings of the 12th ACM Conference on Recommender Systems\ 
+&nbsp;&nbsp;&nbsp;&nbsp;RecSys'18, Proceedings of the 12th ACM Conference on Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Top-1 Most Cited Paper 1 / 117 Accepted Papers </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2018deep.html)]
 
