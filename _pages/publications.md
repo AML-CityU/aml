@@ -551,7 +551,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [3] [Recommendations with negative feedback via pairwise deep reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3219819.3219886)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'18, Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red> Top-20 Most Cited Paper 19 / 294 Accepted Papers </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Top-20 Most Cited Paper 19 / 294 Accepted Papers </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2018recommendations.html)]
 
 [4] [Crime in urban areas: A data mining perspective](https://dl.acm.org/doi/pdf/10.1145/3229329.3229331)\
