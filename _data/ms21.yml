@@ -13,15 +13,15 @@
   info: Mentor - Xiangyu Zhao & Zijian Zhang, First Author - CIKM23, next position - PhD at CUHK SZ
   email:
   number_educ: 0
-- name: Ze Huang
-  photo: zehuang.jpg
-  info: Mentor - Xiangyu Zhao & Zijian Zhang, First Author - CIKM23, next position - Shokz
-  email:
-  number_educ: 0
 - name: Jiahao Liang
   photo: jiahaoliang.jpg
   info: Mentor - Xiangyu Zhao, First Author - WWW23, next position - PhD at SCUT
   email: jiahliang6-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Ze Huang
+  photo: zehuang.jpg
+  info: Mentor - Xiangyu Zhao & Zijian Zhang, First Author - CIKM23, next position - Shokz
+  email:
   number_educ: 0
 - name: Xinxin Gong
   photo: xinxingong.jpg
