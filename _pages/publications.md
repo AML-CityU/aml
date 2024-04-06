@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ).
+You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ). Please find our open-sourced works on our [Lab GitHub](https://github.com/Applied-Machine-Learning-Lab).
 
 ### Tutorials
 
