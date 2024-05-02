@@ -49,6 +49,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2024
 
+[1] Graph Neural Stochastic Diffusion for Estimating Uncertainty in Node Classification\
+&nbsp;&nbsp;&nbsp;&nbsp;Xixun Lin, Wenxiao Zhang, Fengzhao Shi, Chuan Zhou, Lixin Zou, Xiangyu Zhao, Dawei Yin, Shirui Pan, Yanan Cao\
+&nbsp;&nbsp;&nbsp;&nbsp;ICML 2024, Proceedings of the 41st International Conference on Machine Learning
+
 [1] KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Yinghui Liu, Guojiang Shen, Chengyong Cui, Zhenzhen Zhao, Xiao Han, Jiaxin Du, Xiangyu Zhao, Xiangjie Kong\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI 2024, Proceedings of the 33rd International Joint Conference on Artificial Intelligence
