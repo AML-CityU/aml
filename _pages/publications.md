@@ -71,7 +71,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023moelora.html)]
 
 [6] [MDMTRec: An Adaptive Multi-Task Multi-Domain Recommendation Framework](https://arxiv.org/abs/2404.18465)\
-&nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Shuchang Liu, Jiaao Yu, Qingpeng Cai, Xiangyu Zhao, Chunxu Zhang, Ziru Liu, Qidong Liu, Hongwei Zhao, Lantao Hu, Peng Jiang, Kun Gai\
+&nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Shuchang Liu, Jiaao Yu, Qingpeng Cai, Xiangyu Zhao, Chunxu Zhang, Ziru Liu, Qidong Liu, Hongwei Zhao, Lantao Hu, Peng Jiang, \
+&nbsp;&nbsp;&nbsp;&nbsp;Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 [7] Optimal Transport Enhanced Cross-City Site Recommendation\
