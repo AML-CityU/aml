@@ -324,7 +324,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% assign number_printed = 0 %}
 {% for member in site.data.phd21 %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 
 {% if even_odd == 0 %}
 
@@ -385,6 +385,10 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
 </div>
 {% endif %}
 
