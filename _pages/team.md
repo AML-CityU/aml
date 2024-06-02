@@ -388,13 +388,9 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
