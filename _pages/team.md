@@ -333,7 +333,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="12.5%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -388,28 +388,10 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 {% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 3 %}
 </div>
 {% endif %}
 
