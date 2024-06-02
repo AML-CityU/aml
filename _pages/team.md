@@ -312,32 +312,10 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 {% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 3 %}
 </div>
 {% endif %}
 
