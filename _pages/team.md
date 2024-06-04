@@ -80,7 +80,11 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 {% endfor %}
 
-{% if (even_odd == 0 %) || (even_odd == 1 %) || (even_odd == 2 %)}
+{% if even_odd == 0 %}
+</div>
+{% elif even_odd == 1 %}
+</div>
+{% elif even_odd == 2 %}
 </div>
 {% endif %}
 
@@ -380,15 +384,19 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
   </div>
 
 </div>
+{% assign number_printed = number_printed | plus: 1 %}
 
-{% if (even_odd == 0 %) || (even_odd == 1 %) || (even_odd == 2 %)}
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if even_odd == 0 %}
+</div>
+{% elif even_odd == 1 %}
+</div>
+{% elif even_odd == 2 %}
 </div>
 {% endif %}
 
