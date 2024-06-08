@@ -751,15 +751,15 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 0 %}
-</div>
-{% endif %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
 
 {% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
@@ -835,15 +835,15 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 0 %}
-</div>
-{% endif %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
 
 {% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
@@ -920,15 +920,15 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 0 %}
-</div>
-{% endif %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
 
 {% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
@@ -1004,10 +1004,6 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 0 %}
-</div>
-{% endif %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -1016,7 +1012,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-{% if number_printed <= 4 %}
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
@@ -1093,14 +1089,14 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 0 %}
-</div>
-{% endif %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}
 
 {% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
 </div>
 {% endif %}
