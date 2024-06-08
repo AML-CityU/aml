@@ -1016,13 +1016,11 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-
-
+{% if number_printed <= 4 %}
+</div>
+{% endif %}
 
 ***
-
-
-
 
 ## Visiting Scholars and Onsite/Online RAs
 {% assign number_printed = 0 %}
