@@ -49,123 +49,127 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2024
 
-[1] Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning\
+[1] Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs\
+&nbsp;&nbsp;&nbsp;&nbsp;Xi Zhu, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen\
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on lnformation Systems
+
+[2] Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, Hengshu Zhu\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[2] ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model\
+[3] ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Qidong Liu, Yongchao Ye, Wei Chen, Zijian Zhang, Xuetao Wei, Yuxuan Liang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[3] ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems\
+[4] ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[4] Modeling User Retention through Generative Flow Networks\
+[5] Modeling User Retention through Generative Flow Networks\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Shuchang Liu, Bin Yang, Zhenghai Xue, Qingpeng Cai, Xiangyu Zhao, Zijian Zhang, Lantao Hu, Han Li, Peng Jiang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[5] Automatic Data Repair: Are We Ready to Deploy?\
+[6] Automatic Data Repair: Are We Ready to Deploy?\
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Ni, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Jianwei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;VLDB'24, Proceedings of the 50th International Conference on Very Large Databases
 
-[6] Graph Neural Stochastic Diffusion for Estimating Uncertainty in Node Classification\
+[7] Graph Neural Stochastic Diffusion for Estimating Uncertainty in Node Classification\
 &nbsp;&nbsp;&nbsp;&nbsp;Xixun Lin, Wenxiao Zhang, Fengzhao Shi, Chuan Zhou, Lixin Zou, Xiangyu Zhao, Dawei Yin, Shirui Pan, Yanan Cao\
-&nbsp;&nbsp;&nbsp;&nbsp;ICML 2024, Proceedings of the 41st International Conference on Machine Learning
+&nbsp;&nbsp;&nbsp;&nbsp;ICML'24, Proceedings of the 41st International Conference on Machine Learning
 
-[7] KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation\
+[8] KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Yinghui Liu, Guojiang Shen, Chengyong Cui, Zhenzhen Zhao, Xiao Han, Jiaxin Du, Xiangyu Zhao, Xiangjie Kong\
-&nbsp;&nbsp;&nbsp;&nbsp;IJCAI 2024, Proceedings of the 33rd International Joint Conference on Artificial Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;IJCAI'24, Proceedings of the 33rd International Joint Conference on Artificial Intelligence
 
-[8] Enhancing Length Generalization for Attention based Knowledge Tracing Models with Linear Biases\
+[9] Enhancing Length Generalization for Attention based Knowledge Tracing Models with Linear Biases\
 &nbsp;&nbsp;&nbsp;&nbsp;Xueyi Li, Youheng Bai, Teng Guo, Zitao Liu, Yaying Huang, Xiangyu Zhao, Feng Xia, Weiqi Luo, Jian Weng\
-&nbsp;&nbsp;&nbsp;&nbsp;IJCAI 2024, Proceedings of the 33rd International Joint Conference on Artificial Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;IJCAI'24, Proceedings of the 33rd International Joint Conference on Artificial Intelligence
 
-[9] [Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention](https://arxiv.org/abs/2404.03637)\
+[10] [Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention](https://arxiv.org/abs/2404.03637)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Shuchang Liu, Zijian Zhang, Qingpeng Cai, Xiangyu Zhao, Kesen Zhao, Lantao Hu, Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[10] [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://arxiv.org/abs/2310.18339)\
+[11] [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://arxiv.org/abs/2310.18339)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, Derong Xu, Feng Tian, Yefeng Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023moelora.html)]
 
-[11] [MDMTRec: An Adaptive Multi-Task Multi-Domain Recommendation Framework](https://arxiv.org/abs/2404.18465)\
+[12] [MDMTRec: An Adaptive Multi-Task Multi-Domain Recommendation Framework](https://arxiv.org/abs/2404.18465)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Shuchang Liu, Jiaao Yu, Qingpeng Cai, Xiangyu Zhao, Chunxu Zhang, Ziru Liu, Qidong Liu, Hongwei Zhao, Lantao Hu, \
 &nbsp;&nbsp;&nbsp;&nbsp;Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[12] Optimal Transport Enhanced Cross-City Site Recommendation\
+[13] Optimal Transport Enhanced Cross-City Site Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinhang Li, Xiangyu Zhao, Zihao Wang, Yang Duan, Yong Zhang, Chunxiao Xing\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[13] [OpenSiteRec: An Open Dataset for Site Recommendation](https://arxiv.org/abs/2307.00856)\
+[14] [OpenSiteRec: An Open Dataset for Site Recommendation](https://arxiv.org/abs/2307.00856)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinhang Li, Xiangyu Zhao, Yejing Wang, Yu Liu, Chong Chen, Cheng Long, Yong Zhang, Chunxiao Xing\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24 (resource track), Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023opensiterec.html)]
 
-[14] [Modeling Net Ecosystem Exchange of CO2 with Gated Recurrent Unit Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S016819232400100X)\
+[15] [Modeling Net Ecosystem Exchange of CO2 with Gated Recurrent Unit Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S016819232400100X)\
 &nbsp;&nbsp;&nbsp;&nbsp;Huimin Zou, Jiquan Chen, Xianglan Li, Michael Abraha, Xiangyu Zhao, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;Agricultural and Forest Meteorology\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zou2024modeling.html)]
 
-[15] [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056)\
+[16] [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
-&nbsp;&nbsp;&nbsp;&nbsp;NAACL 2024, 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics\
+&nbsp;&nbsp;&nbsp;&nbsp;NAACL'24, 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/jia2023mill.html)]
 
-[16] [Mobile Trajectory Anomaly Detection: Taxonomy, Methodology, Challenges, and Directions](https://ieeexplore.ieee.org/document/10468597)\
+[17] [Mobile Trajectory Anomaly Detection: Taxonomy, Methodology, Challenges, and Directions](https://ieeexplore.ieee.org/document/10468597)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangjie Kong, Juntao Wang, Zehao Hu, Yuwei He, Xiangyu Zhao, Guojiang Shen\
 &nbsp;&nbsp;&nbsp;&nbsp;IoT, IEEE Internet of Things Journal\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/10468597.html)]
 
-[17] [Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models](https://arxiv.org/abs/2403.01972)\
+[18] [Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models](https://arxiv.org/abs/2403.01972)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;COLING'24, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/xu2024multi.html)]
 
-[18] [Large Multimodal Model Compression via Efficient Pruning and Distillation](https://arxiv.org/abs/2312.05795)\
+[19] [Large Multimodal Model Compression via Efficient Pruning and Distillation](https://arxiv.org/abs/2312.05795)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'24 (industry track), Proceedings of the ACM Web Conference 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023large.html)]
 
-[19] [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650)\
+[20] [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://arxiv.org/abs/2305.12650)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chunxu Zhang, Guodong Long, Tianyi Zhou, Zijian Zhang, Peng Yan, Bo Yang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'24, Proceedings of the ACM Web Conference 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2024federated.html)]
 
-[20] [Tensorized Hypergraph Neural Networks](https://arxiv.org/abs/2306.02560)\
+[21] [Tensorized Hypergraph Neural Networks](https://arxiv.org/abs/2306.02560)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023tensorized.html)]
 
-[21] [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699)\
+[22] [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/jia2024d3.html)]
 
-[22] [SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation](https://arxiv.org/abs/2403.04278)\
+[23] [SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation](https://arxiv.org/abs/2403.04278)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chi Zhang, Qilong Han, Rui Chen, Xiangyu Zhao, Peng Tang, Hongtao Song\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDE'24, Proceedings of the 40th IEEE International Conference on Data Engineering\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2024ssdrec.html)]
 
-[23] [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3616855.3635807)\
+[24] [Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3616855.3635807)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Ziru Liu, Yichao Wang, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2024diff.html)]
 
-[24] [MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3616855.3635859)\
+[25] [MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3616855.3635859)\
 &nbsp;&nbsp;&nbsp;&nbsp;Dugang Liu, Chaohua Yang, Xing Tang, Yejing Wang, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM'24, Proceedings of the 17th ACM International Conference on Web Search and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2024multifs.html)]
 
-[25] [Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477?via%3Dihub)\
+[26] [Dynamically Engineered Multi-modal Feature Learning for Predictions of Office Building Cooling Loads](https://www.sciencedirect.com/science/article/pii/S0306261923015477?via%3Dihub)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yiren Liu, Xiangyu Zhao, S. Joe Qin\
 &nbsp;&nbsp;&nbsp;&nbsp;Applied Energy\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/LIU2024122183.html)]
 
-[26] [Recommender Systems in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2307.02046)\
+[27] [Recommender Systems in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2307.02046)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023recommender.html)]
