@@ -51,19 +51,19 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [1] Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, Hengshu Zhu\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [2] ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Qidong Liu, Yongchao Ye, Wei Chen, Zijian Zhang, Xuetao Wei, Yuxuan Liang\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [3] ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [4] Modeling User Retention through Generative Flow Networks\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Shuchang Liu, Bin Yang, Zhenghai Xue, Qingpeng Cai, Xiangyu Zhao, Zijian Zhang, Lantao Hu, Han Li, Peng Jiang\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [5] Automatic Data Repair: Are We Ready to Deploy?\
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Ni, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Jianwei Yin\
