@@ -51,7 +51,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [1] Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs\
 &nbsp;&nbsp;&nbsp;&nbsp;Xi Zhu, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on lnformation Systems
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
 
 [2] Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, Hengshu Zhu\
@@ -174,224 +174,224 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023recommender.html)]
 
-### Publications in 2023
-
-[1] [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/10.1145/3637871)\
+[28] [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/10.1145/3637871)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on lnformation Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2024smlp4rec.html)]
 
-[2] [On the Opportunities of Green Computing: A Survey](https://arxiv.org/abs/2311.00447)\
+### Publications in 2023
+
+[1] [On the Opportunities of Green Computing: A Survey](https://arxiv.org/abs/2311.00447)\
 &nbsp;&nbsp;&nbsp;&nbsp;You Zhou, Xiujing Lin, Xiang Zhang, Maolin Wang, Gangwei Jiang, Huakang Lu, Yupeng Wu, Kai Zhang, Zhe Yang, Kehang Wang, Yongduo Sui, Fengwei Jia, Zuoli Tang, Yao Zhao, Hongxuan Zhang, Tiannuo Yang, Weibo Chen, Yunong Mao, Yi Li, De Bao, Yu Li, Hongrui Liao, Ting Liu, Jingwen Liu, Jinchi Guo, Jin Zhao, Xiangyu Zhao, Ying WEI, Hong Qian, Qi Liu, Xiang Wang, Wai Kin (Victor)Chan, Chenliang Li, Yusen Li, Shiyu Yang, Jining Yan, Chao Mou, Shuai Han, Wuxia Jin, Guannan Zhang, Xiaodong Zeng\
 &nbsp;&nbsp;&nbsp;&nbsp;arxiv preprint\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhou2023opportunities.html)]
 
-[3] [Embedding in Recommender Systems: A Survey](https://arxiv.org/abs/2310.18608)\
+[2] [Embedding in Recommender Systems: A Survey](https://arxiv.org/abs/2310.18608)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Maolin Wang, Xinjian Zhao, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo\
 &nbsp;&nbsp;&nbsp;&nbsp;arxiv preprint\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2023embedding.html)]
 
-[4] [A Comprehensive Survey on Automated Machine learning for Recommendations](https://dl.acm.org/doi/abs/10.1145/3630104)\
+[3] [A Comprehensive Survey on Automated Machine learning for Recommendations](https://dl.acm.org/doi/abs/10.1145/3630104)\
 &nbsp;&nbsp;&nbsp;&nbsp;Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;TORS, ACM Transactions on Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/1011453.html)]
 
-[5] [An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations](https://openreview.net/forum?id=XyAP8ScqLV)\
+[4] [An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations](https://openreview.net/forum?id=XyAP8ScqLV)\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Xiangyu Zhao, Yicong Li, Hongxu Chen, Guandong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'23, Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2023an.html)]
 
-[6] [DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model](https://openreview.net/forum?id=ykMdzevPkJ)\
+[5] [DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model](https://openreview.net/forum?id=ykMdzevPkJ)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, Yongchao Ye, Shiyao Zhang, Xiangyu Zhao, James J.Q. Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'23, Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhu2023difftraj.html)]
 
-[7] [SynMob: Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis](https://openreview.net/forum?id=oz4AGs0phP)\
+[6] [SynMob: Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis](https://openreview.net/forum?id=oz4AGs0phP)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, Yongchao Ye, Ying Wu, Xiangyu Zhao, James J.Q. Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhu2023synmob.html)]
 
-[8] [KuaiSim: A Comprehensive Simulator for Recommender Systems](https://openreview.net/forum?id=dJEjgQcbOt)\
+[7] [KuaiSim: A Comprehensive Simulator for Recommender Systems](https://openreview.net/forum?id=dJEjgQcbOt)\
 &nbsp;&nbsp;&nbsp;&nbsp;Kesen Zhao, Shuchang Liu, Qingpeng Cai, Xiangyu Zhao, Ziru Liu, Dong Zheng, Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2023kuaisim.html)]
 
-[9] [XES3G5M: A Knowledge Tracing Benchmark Dataset with Auxiliary Information](https://openreview.net/forum?id=Mn9oHNdYCE)\
+[8] [XES3G5M: A Knowledge Tracing Benchmark Dataset with Auxiliary Information](https://openreview.net/forum?id=Mn9oHNdYCE)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, Shuyan Huang, Xiangyu Zhao, Jiliang Tang, Weiqi Luo, Jian Weng\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'23 (Datasets and Benchmarks track), Proceedings of the 37th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023xesgm.html)]
 
-[10] [Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization](https://arxiv.org/pdf/2311.10341.pdf)\
+[9] [Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor Factorization](https://arxiv.org/pdf/2311.10341.pdf)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM'23, Proceedings of the 23rd International Conference on Data Mining
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023federated.html)]
 
-[11] [Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://ieeexplore.ieee.org/iel7/69/4358933/10239279.pdf)\
+[10] [Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://ieeexplore.ieee.org/iel7/69/4358933/10239279.pdf)\
 &nbsp;&nbsp;&nbsp;&nbsp;Hao Miao, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, Christian S. Jensen\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/miao2023task.html)]
 
-[12] [Mitigating Performance Sacrifice in DP-satisfied Federated Settings through Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0020025523011374)\
+[11] [Mitigating Performance Sacrifice in DP-satisfied Federated Settings through Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0020025523011374)\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen, Guandong Xu\
-&nbsp;&nbsp;&nbsp;&nbsp;Information Sciences\
+&nbsp;&nbsp;&nbsp;&nbsp;INS, Information Sciences\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2023mitigating.html)]
 
-[13] [Diffusion Augmentation for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615134)\
+[12] [Diffusion Augmentation for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615134)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Fan Yan, Xiangyu Zhao, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Feng Tian\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023diffusion.html)]
 
-[14] [Rethinking Sensors Modeling: Hierarchical Information Enhanced Traffic Forecasting](https://dl.acm.org/doi/pdf/10.1145/3583780.3614910)\
+[13] [Rethinking Sensors Modeling: Hierarchical Information Enhanced Traffic Forecasting](https://dl.acm.org/doi/pdf/10.1145/3583780.3614910)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qian Ma, Zijian Zhang, Xiangyu Zhao, Haoliang Li, Hongwei Zhao, Yiqi Wang, Zitao Liu, Wanyu Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/ma2023rethinking.html)]
 
-[15] [PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction](https://dl.acm.org/doi/pdf/10.1145/3583780.3615016)\
+[14] [PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction](https://dl.acm.org/doi/pdf/10.1145/3583780.3615016)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Xiangyu Zhao, Qidong Liu, Chunxu Zhang, Qian Ma, Wanyu Wang, Hongwei Zhao, Yiqi Wang, Zitao Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2023promptst.html)]
 
-[16] [MLPST: MLP is All You Need for Spatio-Temporal Prediction](https://dl.acm.org/doi/pdf/10.1145/3583780.3614969)\
+[15] [MLPST: MLP is All You Need for Spatio-Temporal Prediction](https://dl.acm.org/doi/pdf/10.1145/3583780.3614969)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Ze Huang, Zhiwei Hu, Xiangyu Zhao, Wanyu Wang, Zitao Liu, Junbo Zhang, S. Joe Qin, Hongwei Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2023mlpst.html)]
 
-[17] [REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/3583780.3615033)\
+[16] [REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/3583780.3615033)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinhang Li, Zhaopeng Qiu, Xiangyu Zhao, Yong Zhang, Chunxiao Xing, Xian Wu\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023rest.html)]
 
-[18] [Towards Automatic ICD Coding via Knowledge Enhanced Multi-Task Learning](https://dl.acm.org/doi/pdf/10.1145/3583780.3615087)\
+[17] [Towards Automatic ICD Coding via Knowledge Enhanced Multi-Task Learning](https://dl.acm.org/doi/pdf/10.1145/3583780.3615087)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinhang Li, Xiangyu Zhao, Yong Zhang, Chunxiao Xing\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023rest.html)]
 
-[19] [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615137)\
+[18] [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615137)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Fan Yan, Xiangyu Zhao, Yichao Wang, Huifeng Guo, Bo Chen, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23, Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023hamur.html)]
 
-[20] [Counterfactual Adversarial Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3583780.3615152)\
+[19] [Counterfactual Adversarial Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3583780.3615152)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jialin Liu, Zijian Zhang, Xiangyu Zhao, Jun Li\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023counterfactual.html)]
 
-[21] [Accessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue](https://dl.acm.org/doi/pdf/10.1145/3583780.3615143)\
+[20] [Accessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue](https://dl.acm.org/doi/pdf/10.1145/3583780.3615143)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiahao Chen, Zitao Liu, Shuyan Huang, Yaying Huang, Xiangyu Zhao, Boyu Gao, Weiqi Lu\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/chen2023assessing.html)]
 
-[22] [AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation](https://link.springer.com/article/10.1007/s10115-023-01951-1)\
+[21] [AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation](https://link.springer.com/article/10.1007/s10115-023-01951-1)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;KAIS, Knowledge and Information Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023autoassign+.html)]
 
-[23] [STRec: Sparse Transformer for Sequential Recommendations](https://dl.acm.org/doi/abs/10.1145/3604915.3608779)\
+[22] [STRec: Sparse Transformer for Sequential Recommendations](https://dl.acm.org/doi/abs/10.1145/3604915.3608779)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chengxi Li, Xiangyu Zhao, Yejing Wang, Qidong Liu, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;RecSys'23, Proceedings of the 17th ACM Conference on Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023strec.html)]
 
-[24] [Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3580305.3599528)\
+[23] [Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3580305.3599528)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/han2023mitigating.html)]
 
-[25] [Doctor Specific Tag Recommendation for Online Medical Record Management](https://dl.acm.org/doi/pdf/10.1145/3580305.3599810)\
+[24] [Doctor Specific Tag Recommendation for Online Medical Record Management](https://dl.acm.org/doi/pdf/10.1145/3580305.3599810)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Shen Ge, Xiangyu Zhao, Xian Wu, Tong Xu, Chen Ma, Zhi Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023doctor.html)]
 
-[26] [Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles](https://ieeexplore.ieee.org/abstract/document/10114977)\
+[25] [Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles](https://ieeexplore.ieee.org/abstract/document/10114977)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023adversarial.html)]
 
-[27] [LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591717)\
+[26] [LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591717)\
 &nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Liu Cai, Chi Zhang, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Yifu Lv, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu, Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023linrec.html)]
 
-[28] [PLATE: A Prompt-enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591750)\
+[27] [PLATE: A Prompt-enhanced Paradigm for Multi-Scenario Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591750)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Xiangyu Zhao, Bo Chen, Qidong Liu, Huifeng Guo, Huanshuo Liu, Yichao Wang, Rui Zhang, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023plate.html)]
 
-[29] [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
+[28] [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2023autotransfer.html)]
 
-[30] [Single-shot Feature Selection for Multi-task Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591767)\
+[29] [Single-shot Feature Selection for Multi-task Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591767)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang, Zhenhua Dong\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023single.html)]
 
-[31] [Continuous Input Embedding Size Search For Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591653)\
+[30] [Continuous Input Embedding Size Search For Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591653)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yunke Qu, Tong Chen, Xiangyu Zhao, Lizhen Cui, Kai Zheng, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/qu2023continuous.html)]
 
-[32] [AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework](https://dl.acm.org/doi/pdf/10.1145/3539618.3591953)\
+[31] [AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework](https://dl.acm.org/doi/pdf/10.1145/3539618.3591953)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xin Gan, Yuhao Wang, Xiangyu Zhao, Wanyu Wang, Yiqi Wang, Zitao Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gan2023autodpq.html)]
 
-[33] [Towards Robust Knowledge Tracing Models via k-Sparse Attention](https://dl.acm.org/doi/pdf/10.1145/3539618.3592073)\
+[32] [Towards Robust Knowledge Tracing Models via k-Sparse Attention](https://dl.acm.org/doi/pdf/10.1145/3539618.3592073)\
 &nbsp;&nbsp;&nbsp;&nbsp;Shuyan Huang, Zitao Liu, Xiangyu Zhao, Weiqi Luo, Jian Weng\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/huang2023towards.html)]
 
-[34] [Multi-Task Recommendations with Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583467)\
+[33] [Multi-Task Recommendations with Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583467)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023multi.html)]
 
-[35] [AutoDenoise: Automatic Data Instance Denoising for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339)\
+[34] [AutoDenoise: Automatic Data Instance Denoising for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339)\
 &nbsp;&nbsp;&nbsp;&nbsp;Weilin Lin, Xiangyu Zhao, Yejing Wang, Yuanshao Zhu, Wanyu Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/lin2023autodenoise.html)]
 
-[36] [AutoMLP: Automated MLP for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583440)\
+[35] [AutoMLP: Automated MLP for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583440)\
 &nbsp;&nbsp;&nbsp;&nbsp;Muyang Li, Zijian Zhang, Xiangyu Zhao, Wanyu Wang, Minghao Zhao, Runze Wu, Ruocheng Guo\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023automlp.html)]
 
-[37] [Exploration and Regularization of the Latent Action Space in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583244)\
+[36] [Exploration and Regularization of the Latent Action Space in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583244)\
 &nbsp;&nbsp;&nbsp;&nbsp;Shuchang Liu, Qingpeng Cai, Bowen Sun, Yuhao Wang, Ji Jiang, Dong Zheng, Peng Jiang, Kun Gai, Xiangyu Zhao, Yongfeng Zhang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023exploration.html)]
 
-[38] [User Retention-oriented Recommendation with Decision Transformer](https://dl.acm.org/doi/pdf/10.1145/3543507.3583418)\
+[37] [User Retention-oriented Recommendation with Decision Transformer](https://dl.acm.org/doi/pdf/10.1145/3543507.3583418)\
 &nbsp;&nbsp;&nbsp;&nbsp;Kesen Zhao, Lixin Zou, Xiangyu Zhao, Maolin Wang, Dawei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2023user.html)]
 
-[39] [Denoising and Prompt-Tuning for Multi-Behavior Recommendation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583513)\
+[38] [Denoising and Prompt-Tuning for Multi-Behavior Recommendation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583513)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chi Zhang, Rui Chen, Xiangyu Zhao, Qilong Han, Li Li\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2023denoising.html)]
 
-[40] [IMF: Interactive Multimodal Fusion Model for Link Prediction](https://dl.acm.org/doi/pdf/10.1145/3543507.3583554)\
+[39] [IMF: Interactive Multimodal Fusion Model for Link Prediction](https://dl.acm.org/doi/pdf/10.1145/3543507.3583554)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, Chunxiao Xing\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023imf.html)]
 
-[41] [Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583499)\
+[40] [Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583499)\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Hongxu Chen, Sixiao Zhang, Xiangguo Sun, Qian Li, Xiangyu Zhao, Guandong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2023generating.html)]
 
-[42] [MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583378)\
+[41] [MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583378)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiahao Liang, Xiangyu Zhao, Muyang Li, Zijian Zhang, Wanyu Wang, Haochen Liu, Zitao Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Proceedings of the ACM Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liang2023mmmlp.html)]
 
-[43] [AutoSTL: Automated Spatio-Temporal Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/25616/25388)\
+[42] [AutoSTL: Automated Spatio-Temporal Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/25616/25388)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'23, Proceedings of the 37th AAAI Conference on Artificial Intelligence\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2023autostl.html)]
 
-[44] [AutoGen: An Automated Dynamic Model Generation Framework for Recommender System](https://dl.acm.org/doi/pdf/10.1145/3539597.3570456)\
+[43] [AutoGen: An Automated Dynamic Model Generation Framework for Recommender System](https://dl.acm.org/doi/pdf/10.1145/3539597.3570456)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chenxu Zhu, Bo Chen, Huifeng Guo, Hang Xu, Xiangyang Li, Xiangyu Zhao, Weinan Zhang, Yong Yu, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhu2023autogen.html)]
