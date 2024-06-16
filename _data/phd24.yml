@@ -10,6 +10,8 @@
   photo: rungenliu.jpg
   info: Will join AML lab in 24Fall
   email: allial_lrg@163.com
+  number_educ: 1
+  education1: BS from NEU
   number_educ: 0
 
 - name: Yi Wen
@@ -18,5 +20,5 @@
   email: wenyiwy2022@163.com
   number_educ: 2
   education1: BS from CSU
-  education2: MS from NUTD
+  education2: MS from NUDT
   website: https://wenyiwy99.github.io/
