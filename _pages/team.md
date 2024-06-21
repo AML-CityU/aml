@@ -254,7 +254,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 ### PhD Enrollment Date: 2023
 
 {% assign number_printed = 0 %}
-{% for member in site.data.ms21 %}
+{% for member in site.data.phd23 %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
