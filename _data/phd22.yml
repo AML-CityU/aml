@@ -1,13 +1,17 @@
+- name: Zijian Zhang
+  photo: zijianzhang.jpg
+  email: zijian.zhang@my.cityu.edu.hk
+  number_educ: 1
+  education1: Joint-PhD with JLU, Prof Hongwei Zhao
+  website: https://zhangzj2114.github.io/
 - name: Yejing Wang
   photo: yejingwang.jpg
-  info: Join AML lab in 22Spring
   email: yejing.wang@my.cityu.edu.hk
   number_educ: 1
   education1: BS from USTC, School of Gifted Young
   website: https://dave-adamswang.github.io/
 - name: Jingtong Gao
   photo: jingtonggao.jpg
-  info: Join AML lab in 22Summer
   email: jt.g@my.cityu.edu.hk
   number_educ: 2
   education1: BS from BUAA
@@ -15,15 +19,43 @@
   website: https://gaojingtong.github.io/
 - name: Yuhao Wang
   photo: yuhaowang.jpg
-  info: Join AML lab in 22Summer
   email: yhwang25-c@my.cityu.edu.hk
   number_educ: 1
   education1: BS from XJTU
   website: https://wyhwhy.github.io/
+- name: Maolin Wang
+  photo: maolinwang.jpg
+  email: Morin.wang@my.cityu.edu.hk
+  number_educ: 1
+  education1: with Prof Junhui Wang (CUHK), and Dr Ruocheng Guo
+  website: https://morin.wang
+- name: Ziru Liu
+  photo: ziruliu.jpg
+  email: ziruliu2-c@my.cityu.edu.hk
+  number_educ: 1
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://lzr-s.github.io/
+- name: Langming Liu
+  photo: langmingliu.jpg
+  email: langmiliu2-c@my.cityu.edu.hk
+  number_educ: 1
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://ming429778.github.io/
+- name: Qidong Liu
+  photo: qidongliu.jpg
+  email: qidongliu2-c@my.cityu.edu.hk
+  number_educ: 1
+  education1: Joint-PhD with XJTU, Prof Feng Tian
+  website: https://liuqidong07.github.io/
 - name: Yuanshao Zhu
   photo: yuanshaozhu.jpg
-  info: Join AML lab in 22Fall
   email: yuanshzhu2-c@my.cityu.edu.hk
   number_educ: 1
   education1: Joint-PhD with SusTech, Prof James J.Q. Yu and Prof Xuetao Wei
   website: https://yasoz.github.io/
+- name: Xiao Han
+  photo: xiaohan.jpg
+  email: xhan49-c@my.cityu.edu.hk
+  number_educ: 1
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://www.hahahenha.net/alpha-test/CV/index_ENG.html
