@@ -8,15 +8,15 @@
   info: Mentor - Ziru Liu, first author - KIS, next position - PhD at HKBU
   email: kechechen4-c@my.cityu.edu.hk
   number_educ: 0
-- name: Jiaxi Hu
-  photo: jiaxihu.jpg
-  info: Mentor - Jingtong Gao, next position - PhD at HKUST GZ
-  email: jiaxihu2-c@my.cityu.edu.hk
-  number_educ: 0
 - name: Chengxi Li
   photo: chengxili.jpg
   info: Mentor - Yejing Wang, first author - RecSys23, next position - Meituan
   email: chengxli5-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiaxi Hu
+  photo: jiaxihu.jpg
+  info: Mentor - Jingtong Gao, next position - PhD at HKUST GZ
+  email: jiaxihu2-c@my.cityu.edu.hk
   number_educ: 0
 - name: Yutian Xiao
   photo: yutianxiao.jpg
