@@ -186,7 +186,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 
   {% if member.number_educ == 1 %}
-  <i> {{ member.education1 }} </i>
+  <h4> {{ member.education1 }} </h4>
   {% endif %}
 
   {% if member.number_educ == 2 %}
