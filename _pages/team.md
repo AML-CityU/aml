@@ -167,8 +167,6 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 ## PhD Students
 
-### PhD Enrollment Date: 2022
-
 {% assign number_printed = 0 %}
 {% for member in site.data.phd22 %}
 
@@ -251,7 +249,6 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-### PhD Enrollment Date: 2023
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd23 %}
@@ -335,7 +332,6 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
-### PhD Enrollment Date: 2024
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd24 %}
