@@ -521,6 +521,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [6] [Adaptive and Automated Deep Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3533274.3533277)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;PhD Thesis, Michigan State University (extended abstract at ACM SIGWEB Newsletter, 2022)\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>2021 Joint AAAI/ACM SIGAl Doctoral Dissertation Award Nomination </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2022adaptive.html)]
 
 [7] [Self-supervised Learning for Alleviating Selection Bias in Recommendation Systems](https://irsworkshop.github.io/2021/publications/IRS2021_paper_2.pdf)\
