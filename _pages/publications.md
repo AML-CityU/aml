@@ -61,16 +61,16 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Qidong Liu, Yongchao Ye, Wei Chen, Zijian Zhang, Xuetao Wei, Yuxuan Liang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[4] ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems\
+[4] [ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems](https://arxiv.org/abs/2403.12660)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yejing Wang, Zhaocheng Du, Xiangyu Zhao, Yichao Wang, Bo Chen, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[5] Modeling User Retention through Generative Flow Networks\
+[5] [Modeling User Retention through Generative Flow Networks](https://arxiv.org/abs/2406.06043)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Shuchang Liu, Bin Yang, Zhenghai Xue, Qingpeng Cai, Xiangyu Zhao, Zijian Zhang, Lantao Hu, Han Li, Peng Jiang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[6] Automatic Data Repair: Are We Ready to Deploy?\
-&nbsp;&nbsp;&nbsp;&nbsp;Wei Ni, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Jianwei Yin\
+[6] [Automatic Data Repair: Are We Ready to Deploy?](https://arxiv.org/abs/2310.00711)\
+&nbsp;&nbsp;&nbsp;&nbsp;Wei Ni, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Shuwei Liang, Jianwei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;VLDB'24, Proceedings of the 50th International Conference on Very Large Databases
 
 [7] Graph Neural Stochastic Diffusion for Estimating Uncertainty in Node Classification\
@@ -113,7 +113,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Agricultural and Forest Meteorology\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zou2024modeling.html)]
 
-[16] [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://arxiv.org/abs/2310.19056)\
+[16] [MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion](https://aclanthology.org/2024.naacl-long.138/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yiding Liu, Xiangyu Zhao, Xiaopeng Li, Changying Hao, Shuaiqiang Wang, Dawei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;NAACL'24, 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/jia2023mill.html)]
@@ -123,7 +123,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IoT, IEEE Internet of Things Journal\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/10468597.html)]
 
-[18] [Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models](https://arxiv.org/abs/2403.01972)\
+[18] [Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models](https://aclanthology.org/2024.lrec-main.1044/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;COLING'24, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/xu2024multi.html)]
