@@ -53,7 +53,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Xi Zhu, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
 
-[2] Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning\
+[2] [Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning](https://arxiv.org/abs/2407.00082)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, Hengshu Zhu\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (Research track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
@@ -99,7 +99,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[13] Optimal Transport Enhanced Cross-City Site Recommendation\
+[13]  \
 &nbsp;&nbsp;&nbsp;&nbsp;Xinhang Li, Xiangyu Zhao, Zihao Wang, Yang Duan, Yong Zhang, Chunxiao Xing\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
