@@ -139,7 +139,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'24, Proceedings of the ACM Web Conference 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2024federated.html)]
 
-[21] [Tensorized Hypergraph Neural Networks](https://arxiv.org/abs/2306.02560)\
+[21] [Tensorized Hypergraph Neural Networks](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.15)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SDM'24, Proceedings of the 24th SIAM International Conference on Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023tensorized.html)]
