@@ -89,7 +89,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Xueyi Li, Youheng Bai, Teng Guo, Zitao Liu, Yaying Huang, Xiangyu Zhao, Feng Xia, Weiqi Luo, Jian Weng\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'24, Proceedings of the 33rd International Joint Conference on Artificial Intelligence
 
-[10] [Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention](https://arxiv.org/abs/2404.03637)\
+[10] [Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention](https://dl.acm.org/doi/10.1145/3626772.3657829)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Shuchang Liu, Zijian Zhang, Qingpeng Cai, Xiangyu Zhao, Kesen Zhao, Lantao Hu, Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
@@ -173,7 +173,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Applied Energy\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/LIU2024122183.html)]
 
-[27] [Recommender Systems in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2307.02046)\
+[27] [Recommender Systems in the Era of Large Language Models (LLMs)](https://www.computer.org/csdl/journal/tk/5555/01/10506571/1WlHWGlEbFm)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Zhen Wen, Fei Wang, Xiangyu Zhao, Jiliang Tang, Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023recommender.html)]
