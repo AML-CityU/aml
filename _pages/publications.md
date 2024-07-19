@@ -71,7 +71,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
 
-[5] [LLM4MSR:An Effective Efficient Interpretable LLM-Enhanced Paradigm for Multi-Scenario Recommendation](https://arxiv.org/pdf/2406.12529)\
+[5] [LLM4MSR: An Effective Efficient Interpretable LLM-Enhanced Paradigm for Multi-Scenario Recommendation](https://arxiv.org/pdf/2406.12529)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Yichao Wang, Zichuan Fu, Xiangyang Li, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
 
