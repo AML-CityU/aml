@@ -62,7 +62,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Resource Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
 
 [3] Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective\
-&nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (PhD Symposium track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
 
 [4] [Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models](https://arxiv.org/pdf/2402.18099)\
