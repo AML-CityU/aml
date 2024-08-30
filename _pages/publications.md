@@ -55,7 +55,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [1] [Multimodal Recommender Systems: A Survey](https://arxiv.org/pdf/2302.03883)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wangyu Wang, Qing Li, Jiliang Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;CSUR, Proceedings of the ACM Computing Surveys
+&nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys
 
 [2] DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Maolin Wang, Xiangyu Zhao, Ruocheng Guo, Yao Zhao, Chenyi Zhuang, Jinjie Gu, Zijian Zhang, Hongzhi Yin\
@@ -93,7 +93,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [10] Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs\
 &nbsp;&nbsp;&nbsp;&nbsp;Xi Zhu, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems
 
 [11] [Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning](https://arxiv.org/abs/2407.00082)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, Hengshu Zhu\
@@ -221,7 +221,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [37] [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/10.1145/3637871)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2024smlp4rec.html)]
 
 ### Publications in 2023
