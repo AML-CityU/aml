@@ -54,7 +54,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2024
 
 [1] [Multimodal Recommender Systems: A Survey](https://arxiv.org/pdf/2302.03883)\
-&nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wangyu Wang, Qing Li, Jiliang Tang\
+&nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Qing Li, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys
 
 [2] DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems\
