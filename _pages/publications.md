@@ -55,7 +55,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [1] Multi-level Graph Knowledge Contrastive Learning\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Yuhao Wang, Xiangyu Zhao, Hongxu Chen, Hongzhi Yin, Qing Li, Guandong Xu\
-&nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
+&nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering
 
 [2] GPRec: Bi-level User Modeling for Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Dong Xu, Xiangyu Zhao, Zhiren Mao, Peng Xiang, Ling Yan, Yao Hu, Zijian Zhang, Xuetao Wei, Qidong Liu\
