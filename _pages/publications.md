@@ -122,7 +122,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [17] [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/pdf/2309.02061)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>
 
 [18] [LLM4MSR: An Effective Efficient Interpretable LLM-Enhanced Paradigm for Multi-Scenario Recommendation](https://arxiv.org/pdf/2406.12529)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Yichao Wang, Zichuan Fu, Xiangyang Li, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
@@ -154,6 +155,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [24] [Modeling User Retention through Generative Flow Networks](https://dl.acm.org/doi/abs/10.1145/3637528.3671531)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziru Liu, Shuchang Liu, Bin Yang, Zhenghai Xue, Qingpeng Cai, Xiangyu Zhao, Zijian Zhang, Lantao Hu, Han Li, Peng Jiang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'24 (ADS track), Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2024modeling.html)]
 
 [25] [Automatic Data Repair: Are We Ready to Deploy?](https://dl.acm.org/doi/10.14778/3675034.3675051)\
@@ -225,7 +227,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [38] [Large Multimodal Model Compression via Iterative Efficient Pruning and Distillation](https://dl.acm.org/doi/10.1145/3589335.3648321)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'24 (industry track), Proceedings of the ACM Web Conference 2024\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation </font>\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation, 1 online launched system</font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2023large.html)]
 
 [39] [When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions](https://dl.acm.org/doi/10.1145/3589334.3645525)\
@@ -241,6 +243,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [41] [D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations](https://ojs.aaai.org/index.php/AAAI/article/view/28699)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'24, Proceedings of the 38th AAAI Conference on Artificial Intelligence\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/jia2024d3.html)]
 
 [42] [SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation](https://arxiv.org/abs/2403.04278)\
@@ -600,6 +603,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [2] [AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3442381.3450124)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Haochen Liu, Hui Liu, Jiliang Tang, Weiwei Guo, Jun Shi, Sida Wang, Huiji Gao, Bo Long\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'21, Proceedings of the Web Conference 2021\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2021autodim.html)]
 
 [3] [UserSim: User Simulation via Supervised Generative Adversarial Network](https://dl.acm.org/doi/pdf/10.1145/3442381.3450125)\
