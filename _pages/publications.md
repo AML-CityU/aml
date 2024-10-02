@@ -55,7 +55,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [1] [LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation](https://arxiv.org/pdf/2405.20646)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Feng Tian, Yefeng Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
-<font color=red>Spotlight(3%) </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(3%) </font>
 
 [2] Seeing is NOT Always Believing! Unveiling the True Symmetric Moral Consistency of Large Language Models\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyi Zhou, Xinwei Guo, Jiashi Gao, Xiangyu Zhao, Shiyao Zhang, Xin Yao, Xuetao Wei\
@@ -64,7 +64,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [3] Association of Objects May Engender Stereotypes: Mitigating Association-Engendered Stereotypes in Text-to-Image Generation\
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xiangyu Zhao, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
-<font color=red>Spotlight(3%) </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(3%) </font>
 
 [4] [G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models](https://arxiv.org/pdf/2405.14702)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
