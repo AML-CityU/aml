@@ -94,45 +94,46 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Dong Xu, Xiangyu Zhao, Zhiren Mao, Peng Xiang, Ling Yan, Yao Hu, Zijian Zhang, Xuetao Wei, Qidong Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM'24, Proceedings of the 24th International Conference on Data Mining
 
-[11] [Multimodal Recommender Systems: A Survey](https://arxiv.org/pdf/2302.03883)\
+
+[11] [Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/10.1145/3695461)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Qing Li, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys\
 [[CITE]({ site.url }{ site.baseurl }./html\liu2024multimodal.html)]
 
-[12] DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems\
+[12] [DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems](https://dl.acm.org/doi/10.1145/3640457.3688117)\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Maolin Wang, Xiangyu Zhao, Ruocheng Guo, Yao Zhao, Chenyi Zhuang, Jinjie Gu, Zijian Zhang, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;RecSys'24, Proceedings of the 18th ACM Conference on Recommender Systems\
 [[CITE]({ site.url }{ site.baseurl }./html\zhang2024dns.html)]
 
-[13] Multi-turn Classroom Dialogue Dataset: Assessing Student Performance from One-on-one Conversations\
+[13] [Multi-turn Classroom Dialogue Dataset: Assessing Student Performance from One-on-one Conversations](https://dl.acm.org/doi/10.1145/3627673.3679108)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiahao Chen, Zitao Liu, Mingliang Hou, Xiangyu Zhao, Weiqi Luo\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Resource Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
 [[CITE]({ site.url }{ site.baseurl }./html\chen2024multi.html)]
 
-[14] Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective\
+[14] [Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective](https://dl.acm.org/doi/10.1145/3627673.3680264)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (PhD Symposium track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
 [[CITE]({ site.url }{ site.baseurl }./html\wang2024multi.html)]
 
-[15] [Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models](https://arxiv.org/pdf/2402.18099)\
+[15] [Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models](https://dl.acm.org/doi/10.1145/3627673.3679673)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Yefeng Zheng,\
 &nbsp;&nbsp;&nbsp;&nbsp;Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
 [[CITE]({ site.url }{ site.baseurl }./html\xu2024editing.html)]
 
-[16] Efficient and Robust Regularized Federated Recommendation\
+[16] [Efficient and Robust Regularized Federated Recommendation](https://dl.acm.org/doi/10.1145/3627673.3679682)\
 &nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Wanyu Wang, Xiangyu Zhao, Zijian Zhang, Chunxu Zhang, Shanru Lin, Yiqi Wang, Lixin Zou, Zitao Liu, Xuetao Wei, Hongzhi Yin,\
 &nbsp;&nbsp;&nbsp;&nbsp;Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
 [[CITE]({ site.url }{ site.baseurl }./html\liu2024efficient.html)]
 
-[17] [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://arxiv.org/pdf/2309.02061)\
+[17] [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://dl.acm.org/doi/10.1145/3627673.3679615)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>\
 [[CITE]({ site.url }{ site.baseurl }./html\gao2024hierrec.html)]
 
-[18] [LLM4MSR: An Effective Efficient Interpretable LLM-Enhanced Paradigm for Multi-Scenario Recommendation](https://arxiv.org/pdf/2406.12529)\
+[18] [LLM4MSR: An Effective Efficient Interpretable LLM-Enhanced Paradigm for Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3627673.3679743)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Yichao Wang, Zichuan Fu, Xiangyang Li, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
 [[CITE]({ site.url }{ site.baseurl }./html\wang2024llm4msr.html)]
