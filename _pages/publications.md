@@ -57,7 +57,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(3%) </font>
 
-[2] Seeing is NOT Always Believing! Unveiling the True Symmetric Moral Consistency of Large Language Models\
+[2] Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyi Zhou, Xinwei Guo, Jiashi Gao, Xiangyu Zhao, Shiyao Zhang, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems
 
