@@ -82,7 +82,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;EMNLP'24, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
 
-[8] [Large Language Models for Generative Information Extraction: A Survey](https://arxiv.org/pdf/2312.17617)\
+[8] [Large Language Models for Generative Information Extraction: A Survey]([https://arxiv.org/pdf/2312.17617](https://link.springer.com/article/10.1007/s11704-024-40555-y))\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Yang Wang, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;FCS, Frontiers of Computer Science
 
