@@ -89,15 +89,18 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [6] [A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3698878)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems\
+[[CITE]({ site.url }{ site.baseurl }./html\fu2023unified.html)]
 
 [7] [Mitigating Hallucinations of Large Language Models in Medical Domain via Contrastive Decoding](https://aclanthology.org/2024.findings-emnlp.456/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
-&nbsp;&nbsp;&nbsp;&nbsp;EMNLP'24, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
+&nbsp;&nbsp;&nbsp;&nbsp;EMNLP'24, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing\
+[[CITE]({ site.url }{ site.baseurl }./html\xu2024mitigating.html)]
 
 [8] [Large Language Models for Generative Information Extraction: A Survey](https://link.springer.com/article/10.1007/s11704-024-40555-y)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Yang Wang, Enhong Chen\
-&nbsp;&nbsp;&nbsp;&nbsp;FCS, Frontiers of Computer Science
+&nbsp;&nbsp;&nbsp;&nbsp;FCS, Frontiers of Computer Science\
+[[CITE]({ site.url }{ site.baseurl }./html\xu2024large.html)]
 
 [9] [Multi-level Graph Knowledge Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10694801?casa_token=7ir2MIJTlHYAAAAA:YbpErMt0Ua1UIC4f-DJyXMEnngE5Vq-n0uhSh3_HVYjIG7aZgDSelHyBXqkdKgkTx7qLbfzmMA)\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Yuhao Wang, Xiangyu Zhao, Hongxu Chen, Hongzhi Yin, Qing Li, Guandong Xu\
