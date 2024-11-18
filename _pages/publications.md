@@ -87,26 +87,26 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Jiashi Gao, Ziwei Wang, Xiangyu Zhao, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems
 
-[6] [A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://arxiv.org/pdf/2312.10743)\
+[6] [A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3698878)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
 
-[7] Mitigating Hallucinations of Large Language Models in Medical Domain via Contrastive Decoding\
+[7] [Mitigating Hallucinations of Large Language Models in Medical Domain via Contrastive Decoding](https://aclanthology.org/2024.findings-emnlp.456/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;EMNLP'24, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
 
-[8] [Large Language Models for Generative Information Extraction: A Survey]([https://arxiv.org/pdf/2312.17617](https://link.springer.com/article/10.1007/s11704-024-40555-y))\
+[8] [Large Language Models for Generative Information Extraction: A Survey](https://link.springer.com/article/10.1007/s11704-024-40555-y)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Yang Wang, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;FCS, Frontiers of Computer Science
 
-[9] Multi-level Graph Knowledge Contrastive Learning\
+[9] [Multi-level Graph Knowledge Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10694801?casa_token=7ir2MIJTlHYAAAAA:YbpErMt0Ua1UIC4f-DJyXMEnngE5Vq-n0uhSh3_HVYjIG7aZgDSelHyBXqkdKgkTx7qLbfzmMA)\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Yuhao Wang, Xiangyu Zhao, Hongxu Chen, Hongzhi Yin, Qing Li, Guandong Xu\
-&nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering
+&nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
+[[CITE]({ site.url }{ site.baseurl }./html\yang2024multi.html)]
 
 [10] GPRec: Bi-level User Modeling for Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Dong Xu, Xiangyu Zhao, Zhiren Mao, Peng Xiang, Ling Yan, Yao Hu, Zijian Zhang, Xuetao Wei, Qidong Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM'24, Proceedings of the 24th International Conference on Data Mining
-
 
 [11] [Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/10.1145/3695461)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Qing Li, Jiliang Tang\
