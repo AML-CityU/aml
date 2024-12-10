@@ -52,23 +52,47 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation\
+[1] LLM-Powered Efficient User Simulator for Recommender System\
+&nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Shuchang Liu, Ziru Liu, Rui Zhong, Qingpeng Cai, Xiangyu Zhao, Chunxu Zhang, Qidong Liu, Peng Jiang\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39st AAAI Conference on Artificial Intelligence
+
+[2] [GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching](https://arxiv.org/pdf/2408.10286)\
+&nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Zijian Zhang, Xiangyu Zhao, Yuanshao Zhu, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39st AAAI Conference on Artificial Intelligence
+
+[3] Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation\
+&nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39st AAAI Conference on Artificial Intelligence
+
+[4] POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning\
+&nbsp;&nbsp;&nbsp;&nbsp;Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39st AAAI Conference on Artificial Intelligence
+
+[5] SIGMA: Selective Gated Mamba for Sequential Recommendation\
+&nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39st AAAI Conference on Artificial Intelligence
+
+[6] LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation\
+&nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Wanyu Wang, Yejing Wang, Yuanshao Zhu, Xiangyu Zhao, Feng Tian, Yefeng Zheng\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39st AAAI Conference on Artificial Intelligence
+
+[7] LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;	Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;COLING'25, Proceedings of the 31st International Conference on Computational Linguistics
 
-[2] A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation\
+[8] A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Zhaopeng Qiu, Xiangyu Zhao, Xian Wu, Zijian Zhang, Tong Xu, Feng Tian\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
 
-[3] [GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)\
+[9] [GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Maolin Wang, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[4] DimCL: Dimension-Aware Augmentation in Contrastive Learning for Recomendation\
+[10] DimCL: Dimension-Aware Augmentation in Contrastive Learning for Recomendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Chi Zhang, Qilong Han, Qiaoyu Tan, Shengjie Wang, Xiangyu Zhao, Rui Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[5] [NoteLLM-2: Multimodal Large Representation Models for Recommendation](https://arxiv.org/pdf/2405.16789)\
+[11] [NoteLLM-2: Multimodal Large Representation Models for Recommendation](https://arxiv.org/pdf/2405.16789)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chao Zhang, Haoxin Zhang, Shiwei Wu, Di Wu, Tong Xu, Xiangyu Zhao, Yan Gao, Yao Hu, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
@@ -98,22 +122,22 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [6] [A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3698878)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems\
-[[CITE]({ site.url }{ site.baseurl }./html\fu2023unified.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\fu2023unified.html)]
 
 [7] [Mitigating Hallucinations of Large Language Models in Medical Domain via Contrastive Decoding](https://aclanthology.org/2024.findings-emnlp.456/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;EMNLP'24, Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing\
-[[CITE]({ site.url }{ site.baseurl }./html\xu2024mitigating.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\xu2024mitigating.html)]
 
 [8] [Large Language Models for Generative Information Extraction: A Survey](https://link.springer.com/article/10.1007/s11704-024-40555-y)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Yang Wang, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;FCS, Frontiers of Computer Science\
-[[CITE]({ site.url }{ site.baseurl }./html\xu2024large.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\xu2024large.html)]
 
 [9] [Multi-level Graph Knowledge Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10694801?casa_token=7ir2MIJTlHYAAAAA:YbpErMt0Ua1UIC4f-DJyXMEnngE5Vq-n0uhSh3_HVYjIG7aZgDSelHyBXqkdKgkTx7qLbfzmMA)\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Yuhao Wang, Xiangyu Zhao, Hongxu Chen, Hongzhi Yin, Qing Li, Guandong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
-[[CITE]({ site.url }{ site.baseurl }./html\yang2024multi.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\yang2024multi.html)]
 
 [10] GPRec: Bi-level User Modeling for Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Dong Xu, Xiangyu Zhao, Zhiren Mao, Peng Xiang, Ling Yan, Yao Hu, Zijian Zhang, Xuetao Wei, Qidong Liu\
@@ -122,55 +146,55 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [11] [Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/10.1145/3695461)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Qing Li, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys\
-[[CITE]({ site.url }{ site.baseurl }./html\liu2024multimodal.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\liu2024multimodal.html)]
 
 [12] [DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems](https://dl.acm.org/doi/10.1145/3640457.3688117)\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Maolin Wang, Xiangyu Zhao, Ruocheng Guo, Yao Zhao, Chenyi Zhuang, Jinjie Gu, Zijian Zhang, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;RecSys'24, Proceedings of the 18th ACM Conference on Recommender Systems\
-[[CITE]({ site.url }{ site.baseurl }./html\zhang2024dns.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhang2024dns.html)]
 
 [13] [Multi-turn Classroom Dialogue Dataset: Assessing Student Performance from One-on-one Conversations](https://dl.acm.org/doi/10.1145/3627673.3679108)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiahao Chen, Zitao Liu, Mingliang Hou, Xiangyu Zhao, Weiqi Luo\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Resource Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
-[[CITE]({ site.url }{ site.baseurl }./html\chen2024multi.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\chen2024multi.html)]
 
 [14] [Multi-Granularity Modeling in Recommendation: from the Multi-Scenario Perspective](https://dl.acm.org/doi/10.1145/3627673.3680264)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (PhD Symposium track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
-[[CITE]({ site.url }{ site.baseurl }./html\wang2024multi.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\wang2024multi.html)]
 
 [15] [Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models](https://dl.acm.org/doi/10.1145/3627673.3679673)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Yefeng Zheng,\
 &nbsp;&nbsp;&nbsp;&nbsp;Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
-[[CITE]({ site.url }{ site.baseurl }./html\xu2024editing.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\xu2024editing.html)]
 
 [16] [Efficient and Robust Regularized Federated Recommendation](https://dl.acm.org/doi/10.1145/3627673.3679682)\
 &nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Wanyu Wang, Xiangyu Zhao, Zijian Zhang, Chunxu Zhang, Shanru Lin, Yiqi Wang, Lixin Zou, Zitao Liu, Xuetao Wei, Hongzhi Yin,\
 &nbsp;&nbsp;&nbsp;&nbsp;Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
-[[CITE]({ site.url }{ site.baseurl }./html\liu2024efficient.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\liu2024efficient.html)]
 
 [17] [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://dl.acm.org/doi/10.1145/3627673.3679615)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>\
-[[CITE]({ site.url }{ site.baseurl }./html\gao2024hierrec.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\gao2024hierrec.html)]
 
 [18] [LLM4MSR: An Effective Efficient Interpretable LLM-Enhanced Paradigm for Multi-Scenario Recommendation](https://dl.acm.org/doi/10.1145/3627673.3679743)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Yichao Wang, Zichuan Fu, Xiangyang Li, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
-[[CITE]({ site.url }{ site.baseurl }./html\wang2024llm4msr.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\wang2024llm4msr.html)]
 
 [19] [Scalable Dynamic Embedding Size Search for Streaming Recommendation](https://dl.acm.org/doi/10.1145/3583780.3615135)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yunke Qu, Liang Qu, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'24 (Full Research Paper track), Proceedings of the 33rd ACM International Conference on Information and Knowledge Management\
-[[CITE]({ site.url }{ site.baseurl }./html\qu2024scalable.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\qu2024scalable.html)]
 
 [20] [Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs](https://dl.acm.org/doi/10.1145/3696417)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xi Zhu, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems\
-[[CITE]({ site.url }{ site.baseurl }./html\zhu2024multi.html)]
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhu2024multi.html)]
 
 [21] [Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning](https://dl.acm.org/doi/abs/10.1145/3637528.3671759)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, Hengshu Zhu\
