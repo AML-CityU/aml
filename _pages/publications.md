@@ -12,22 +12,29 @@ permalink: /publications/
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ). Please find our open-sourced works on our [Lab GitHub](https://github.com/Applied-Machine-Learning-Lab).
 
 ### Tutorials
+[1] Joint Modeling in Deep Recommender Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Jingtong Gao, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
 
-[1] [AgentIR: 1st Workshop on Agent-based Information Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657989)\
+[2] Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era\
+&nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen\
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
+
+[3] [AgentIR: 1st Workshop on Agent-based Information Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657989)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qingpeng Cai, Xiangyu Zhao, Ling Pan, Xin Xin, Jin Huang, Weinan Zhang, Li Zhao, Dawei Yin, Grace Hui Yang\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'24, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[2] Joint Modeling in Recommendations: Foundations and Frontiers\
+[4] Joint Modeling in Recommendations: Foundations and Frontiers\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'23, Proceedings of the 32nd International Joint Conference on Artificial Intelligence
 
-[3] [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
+[5] [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Lin Wang, Xiao Chen, Jingtong Gao, Qidong Liu, Shijie Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'23, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023trustworthy.html)]
 
-[4] [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
+[6] [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Companion Proceedings of the Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2022comprehensive.html)]
@@ -37,17 +44,17 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/tang2023automl.html)]
 
-[6] [Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
+[7] [Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Wenqi Fan, Bo Chen, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'22, Companion Proceedings of the Web Conference 2022\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2022automated.html)]
 
-[7] [Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
+[8] [Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'21, Companion Proceedings of the Web Conference 2021\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/t_west2021summary.html)]
 
-[8] [Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
+[9] [Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
