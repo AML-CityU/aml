@@ -101,7 +101,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [11] [NoteLLM-2: Multimodal Large Representation Models for Recommendation](https://arxiv.org/pdf/2405.16789)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chao Zhang, Haoxin Zhang, Shiwei Wu, Di Wu, Tong Xu, Xiangyu Zhao, Yan Gao, Yao Hu, Enhong Chen\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>
 
 ### Publications in 2024
 [1] [LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation](https://arxiv.org/pdf/2405.20646)\
