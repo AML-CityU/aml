@@ -63,7 +63,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Wenxin Luo, Weirui Wang, Xiaopeng Li, Weibo Zhou, Pengyue Jia, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICASSP'25, Proceedings of the 50th International Conference on Acoustics, Speech, and Signal Processing
 
-[2] LLM-Powered Efficient User Simulator for Recommender System\
+[2] [LLM-Powered Efficient User Simulator for Recommender System](https://arxiv.org/abs/2412.16984)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Shuchang Liu, Ziru Liu, Rui Zhong, Qingpeng Cai, Xiangyu Zhao, Chunxu Zhang, Qidong Liu, Peng Jiang\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence
 
@@ -83,7 +83,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence
 
-[7] LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation\
+[7] [LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation](https://arxiv.org/abs/2409.19925)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Wanyu Wang, Yejing Wang, Yuanshao Zhu, Xiangyu Zhao, Feng Tian, Yefeng Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence
 
