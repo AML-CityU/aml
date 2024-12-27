@@ -112,15 +112,18 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [1] [LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation](https://arxiv.org/pdf/2405.20646)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Feng Tian, Yefeng Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\liu2024llm.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(2%) </font>
 
 [2] Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyi Zhou, Xinwei Guo, Jiashi Gao, Xiangyu Zhao, Shiyao Zhang, Xin Yao, Xuetao Wei\
-&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems
+&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhouunveiling.html)]\
 
 [3] Association of Objects May Engender Stereotypes: Mitigating Association-Engendered Stereotypes in Text-to-Image Generation\
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xiangyu Zhao, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhouassociation.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(2%) </font>
 
 [4] [G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models](https://arxiv.org/pdf/2405.14702)\
@@ -129,7 +132,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [5] Does Egalitarian Fairness Lead to Instability? The Fairness Bounds in Stable Federated Learning Under Altruistic Behaviors\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiashi Gao, Ziwei Wang, Xiangyu Zhao, Xin Yao, Xuetao Wei\
-&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems
+&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\gaodoes.html)]
 
 [6] [A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3698878)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, Ruiming Tang\
