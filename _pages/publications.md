@@ -109,18 +109,18 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system </font>
 
 ### Publications in 2024
-[1] [LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation](https://arxiv.org/pdf/2405.20646)\
+[1] [LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation](https://openreview.net/forum?id=xojbzSYIVS)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Feng Tian, Yefeng Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\liu2024llm.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(2%) </font>
 
-[2] Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models\
+[2] [Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models](https://openreview.net/forum?id=vCIc9BXzze)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyi Zhou, Xinwei Guo, Jiashi Gao, Xiangyu Zhao, Shiyao Zhang, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhouunveiling.html)]\
 
-[3] Association of Objects May Engender Stereotypes: Mitigating Association-Engendered Stereotypes in Text-to-Image Generation\
+[3] [Association of Objects May Engender Stereotypes: Mitigating Association-Engendered Stereotypes in Text-to-Image Generation](https://openreview.net/forum?id=shYQXpnBLB)\
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xiangyu Zhao, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhouassociation.html)]\
@@ -130,7 +130,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems
 
-[5] Does Egalitarian Fairness Lead to Instability? The Fairness Bounds in Stable Federated Learning Under Altruistic Behaviors\
+[5] [Does Egalitarian Fairness Lead to Instability? The Fairness Bounds in Stable Federated Learning Under Altruistic Behaviors](https://openreview.net/forum?id=1kyc4TSOFZ)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiashi Gao, Ziwei Wang, Xiangyu Zhao, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\gaodoes.html)]
