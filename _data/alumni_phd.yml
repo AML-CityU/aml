@@ -4,11 +4,17 @@
   number_educ: 0
   info: CityU-JLU Joint-PhD, current position-Assistant Professor at JLU
   website: https://zhangzj2114.github.io/
-
 - name: Ziru Liu
   photo: ziruliu.jpg
   email: ziruliu2-c@my.cityu.edu.hk
   number_educ: 0
-  info: current position-Huawei
+  info: PhD-Data Science, current position-Huawei
   education1: with Prof Dingxuan Zhou (USYD)
   website: https://liuziru666.wixsite.com/homepage
+- name: Langming Liu
+  photo: langmingliu.jpg
+  email: langmiliu2-c@my.cityu.edu.hk
+  number_educ: 0
+  info: PhD-Data Science, current position-Alibaba
+  education1: with Prof Dingxuan Zhou (USYD)
+  website: https://ming429778.github.io/
