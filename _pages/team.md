@@ -510,6 +510,8 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
+***
+
 ### PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_phd %}
@@ -593,6 +595,8 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 </div>
 {% endif %}
 
+***
+
 ### MS Students (CityU 1-year MSDS Program)
 {% assign number_printed = 1 %}
 
@@ -603,6 +607,8 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
   
   {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
+
+***
 
 ### Visiting Scholars and Onsite/Online RAs
 {% assign number_printed = 1 %}
