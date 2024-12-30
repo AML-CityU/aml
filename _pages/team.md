@@ -598,6 +598,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 ***
 
 ### MS Students (CityU 1-year MSDS Program)
+<p>
 {% assign number_printed = 1 %}
 {% for member in site.data.alumni_ms %}
   {% if member.info %}
@@ -607,6 +608,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
   {% endif %}
   {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
+</p>
 
 ***
 
