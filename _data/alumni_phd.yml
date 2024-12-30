@@ -34,21 +34,26 @@
   number_educ: 0
 - name: Chunxu Zhang
   photo: chunxuzhang.jpg
-  info: PhD at JLU, Visiting Student in 2022-2023, with Prof. Bo Yang, next position - postdoc in JLU
+  info: PhD at JLU, Visiting Student in 2022-2023, with Prof Bo Yang, next position - postdoc in JLU
   email: cxzhang19@mails.jlu.edu.cn
   number_educ: 0
 - name: Zhenzhen Zhao
   photo: zhenzhenzhao.jpg
-  info: PhD at ZJUT, Visiting Student in 2023-2024
+  info: PhD at ZJUT, Visiting Student in 2023-2024, with Prof Guojiang Shen
   email: zhenzzhao4-c@my.cityu.edu.hk
   number_educ: 0
 - name: Qihong Pan
   photo: qihongpan.jpg
-  info: PhD at ZJUT, Visiting Student in 2023-2024
+  info: PhD at ZJUT, Visiting Student in 2023-2024, with Prof Guojiang Shen, staff in ZJUT   
   email: TBD
   number_educ: 0
 - name: Jialin Liu
   photo: jialinliu.jpg
   info: PhD at UCAS, Visiting Student in 2023-2024, with Prof Jun Li and Dr Guocheng Guo, next position - AP in China
   email: jLliu@cnic.cn
+  number_educ: 0
+- name: Qingqing Yi
+  photo: qingqingyi.jpg
+  info: PhD at SWUFE, Visiting Student in 2023-2024
+  email: yiqingqing@smail.swufe.edu.cn
   number_educ: 0
