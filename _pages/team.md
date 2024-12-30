@@ -613,6 +613,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 ***
 
 ### Visiting Scholars and Onsite/Online RAs
+<p>
 {% assign number_printed = 1 %}
 {% for member in site.data.alumni_scholar_ra %}
     {% if member.info %}
@@ -622,6 +623,6 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
     {% endif %}
   {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
-
+</p>
 
 
