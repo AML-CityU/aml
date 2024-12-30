@@ -598,23 +598,20 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 ***
 
 ### MS Students (CityU 1-year MSDS Program)
-<p>
-  {% assign number_printed = 1 %}
-  {% for member in site.data.alumni_ms %}
-    {% if member.info %}
-      {{ number_printed }}. {{ member.name }}, {{ member.year }}, {{ member.info }}
-    {% else %}
-      {{ number_printed }}. {{ member.name }}, {{ member.year }}
-    {% endif %}
-    {% assign number_printed = number_printed | plus: 1 %}
-  {% endfor %}
-</p>
+{% assign number_printed = 1 %}
+{% for member in site.data.alumni_ms %}
+  {% if member.info %}
+    {{ number_printed }}. {{ member.name }}, {{ member.year }}, {{ member.info }}
+  {% else %}
+    {{ number_printed }}. {{ member.name }}, {{ member.year }}
+  {% endif %}
+  {% assign number_printed = number_printed | plus: 1 %}
+{% endfor %}
 
 ***
 
 ### Visiting Scholars and Onsite/Online RAs
 {% assign number_printed = 1 %}
-
 {% for member in site.data.alumni_scholar_ra %}
   {% if member.info %}
     {{ number_printed }}. {{ member.name }}, {{ member.year }}, {{ member.info }}
