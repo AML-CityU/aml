@@ -1,1 +1,55 @@
-
+- name: Qingqing Yi
+  photo: qingqingyi.jpg
+  info: PhD at SWUFE, Visiting Student in 2023
+  email: yiqingqing@smail.swufe.edu.cn
+  number_educ: 0
+- name: Zhenyu Deng
+  photo: zhenyudeng.jpg
+  info: MS at SWPU, Visiting Student in 2023
+  email: zhenyu_deng@qq.com
+  number_educ: 0
+- name: Zhenzhen Zhao
+  photo: zhenzhenzhao.jpg
+  info: PhD at ZJUT, Visiting Student in 2023
+  email: zhenzzhao4-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Qihong Pan
+  photo: qihongpan.jpg
+  info: PhD at ZJUT, Visiting Student in 2023
+  email: TBD
+  number_educ: 0
+- name: Jialin Liu
+  photo: jialinliu.jpg
+  info: <!--PhD at UCAS, with Prof Jun Li and Dr Guocheng Guo, --> Visiting Student in 2023, next position - AP in China
+  email: jLliu@cnic.cn
+  number_educ: 0
+- name: Chunxu Zhang
+  photo: chunxuzhang.jpg
+  info: PhD at JLU, Visiting Student in 2022-2023
+  email: cxzhang19@mails.jlu.edu.cn
+  number_educ: 0
+- name: Jie Cai
+  photo: jiecai.jpg
+  info: MS at Tsinghua, with Prof Wenwu Zhu, Online RA in 2022, next position - PhD at USC
+  email: caij20@mails.tsinghua.edu.cn
+  number_educ: 0
+- name: Jiajun Zhou
+  photo: jiajunzhou.jpg
+  info: MS at ZJUT, with Prof Qi Xuan, Visiting Student in 2022
+  email: jjzhou1202@gmail.com
+  number_educ: 0
+- name: Yan Zhang
+  photo: yanzhang.jpg
+  info: MS at ZJUT, with Prof Guojiang Shen, Visiting Student in 2022, next position - PhD at ZJU
+  email: nameyzhang@gmail.com
+  number_educ: 0
+- name: Muyang Li
+  photo: muyangli.jpg
+  info: BS at University of Auckland, Online RA in 2021-2022, next position - PhD at USYD
+  email:
+  number_educ: 0
+- name: Chuan Lyu
+  photo: chuanlyu.jpg
+  info: BS at ZJU, Online RA in 2021, next position - PhD at ZJU
+  email:
+  number_educ: 0
