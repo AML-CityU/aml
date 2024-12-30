@@ -41,4 +41,72 @@
   email:
   number_educ: 0
 
+- name: Qian Ma
+  year: 2022
+  photo: qianma.jpg
+  info: Mentor - Zijian Zhang, first author - CIKM23, next position - PhD at RPI
+  email: qma233-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Kecheng Chen
+  year: 2022
+  photo: kechengchen.jpg
+  info: Mentor - Ziru Liu, first author - KAIS, next position - PhD at HKBU
+  email: kechechen4-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Chengxi Li
+  year: 2022
+  photo: chengxili.jpg
+  info: Mentor - Yejing Wang, first author - RecSys23, next position - Meituan
+  email: chengxli5-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiaxi Hu
+  year: 2022
+  photo: jiaxihu.jpg
+  info: Mentor - Jingtong Gao, next position - PhD at HKUST GZ
+  email: jiaxihu2-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Yutian Xiao
+  year: 2022
+  photo: yutianxiao.jpg
+  info: Mentor - Qidong Liu, next position - PhD at BUAA
+  email: yutiaxiao2-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Tong Wu
+  year: 2022
+  photo: tongwu.jpg
+  info: Mentor - Maolin Wang, next position - Kuaishou
+  email: twu274-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiangping Lu
+  year: 2022
+  photo: jiangpinglv.jpg
+  info: Mentor - Langming Liu
+  email: jiangpilu2-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiaocong Wang
+  year: 2022
+  photo: jiaocongwang.jpg
+  info: Mentor - Yuhao Wang
+  email: jiaocwang2-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jie Wang
+  year: 2022
+  photo: jiewang.jpg
+  info: Mentor - Maolin Wang, next position - AIFT (Laboratory for AI-Powered Financial Technologies Ltd.)
+  email: jwang998-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Bo Li
+  year: 2022
+  photo: boli.jpg
+  info: Mentor - Langming Liu
+  email: boli77-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Yinliang Kang
+  year: 2022
+  photo: yinliangkang.jpg
+  info: Mentor - Pengyue Jia, next position - Agoda
+  email: yinlikang2-c@my.cityu.edu.hk
+  number_educ: 0
+  
+
 
