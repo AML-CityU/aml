@@ -108,5 +108,60 @@
   email: yinlikang2-c@my.cityu.edu.hk
   number_educ: 0
   
+- name: Sheng Zhang
+  year: 2023
+  photo: shengzhang.jpg
+  info: Mentor - Maolin Wang
+  email: szhang844-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiawei Liu
+  year: 2023
+  photo: jiaweiliu.jpg
+  info: Mentor - Yejing Wang
+  email: jiawliu7-c@my.cityu.edu.hk
+  number_educ: 0
+  website: https://patrick-liu123.github.io/
+- name: Qiyuan Ge
+  year: 2023
+  photo: qiyuange.jpg
+  info: Mentor - Wenlin Zhang
+  email: qiyuange2-c@my.cityu.edu.hk
+  number_educ: 0
+  website: https://github.com/Qiyuan-Ge
+- name: Zhuoran Li
+  year: 2023
+  photo: zhuoranli.jpg
+  info: Mentor - Yuanshao Zhu
+  email: zhuorali7-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Yiqi You
+  year: 2023
+  photo: yiqiyou.jpg
+  info: Mentor - Pengyue Jia
+  email: yqyou4-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Xuchuan Wang
+  year: 2023
+  info: Mentor - Siqi Lei
+  photo: xuchuanwang.jpg
+  email: xuchuwang3-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Jiaming Guo
+  year: 2023
+  photo: jiamingguo.jpg
+  email: jiaminguo6-c@my.cityu.edu.hk
+  number_educ: 0
+- name: Yuantian Zhou
+  year: 2023
+  photo: yuantianzhou.jpg
+  email: yuantzhou3-c@my.cityu.edu.hk
+  website: https://github.com/ZhouYuantian
+  number_educ: 0
+- name: Ziwei Liu
+  year: 2023
+  photo: ziweiliu.jpg
+  email: ziwliu8@gmail.com
+  website: https://github.com/BokettoW
+  number_educ: 0
 
 
