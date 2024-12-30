@@ -611,18 +611,17 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 ***
 
 ### Visiting Scholars and Onsite/Online RAs
-<div class="alumni-text-list">
-  {% assign number_printed = 1 %}
-  {% for member in site.data.alumni_scholar_ra %}
-    <p class="alumni-text-item">
-      {% if member.info %}
-        {{ number_printed }}. {{ member.name }}, {{ member.year }}, {{ member.info }}
-      {% else %}
-        {{ number_printed }}. {{ member.name }}, {{ member.year }}
-      {% endif %}
-    </p>
-    {% assign number_printed = number_printed | plus: 1 %}
-  {% endfor %}
-</div>
+{% assign number_printed = 1 %}
+{% for member in site.data.alumni_scholar_ra %}
+  <p class="alumni-text-item">
+    {% if member.info %}
+      {{ number_printed }}. {{ member.name }}, {{ member.year }}, {{ member.info }}
+    {% else %}
+      {{ number_printed }}. {{ member.name }}, {{ member.year }}
+    {% endif %}
+  </p>
+  {% assign number_printed = number_printed | plus: 1 %}
+{% endfor %}
+
 
 
