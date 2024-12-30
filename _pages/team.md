@@ -601,7 +601,11 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% assign number_printed = 1 %}
 
 {% for member in site.data.alumni_ms %}
-  {{ number_printed }}. {{ member.name }}, ({{ member.year }}), {{ member.info }}
+  {% if member.info %}
+    {{ number_printed }}. {{ member.name }}, ({{ member.year }}), {{ member.info }}
+  {% else %}
+    {{ number_printed }}. {{ member.name }}, ({{ member.year }})
+  {% endif %}
   
   {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
@@ -612,10 +616,12 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 {% assign number_printed = 1 %}
 
 {% for member in site.data.alumni_scholar_ra %}
-  <div class="row">
-    <p><strong>{{ number_printed }}.</strong> {{ member.name }}, ({{ member.year }}), {{ member.info }}</p>
-  </div>
+  {% if member.info %}
+    {{ number_printed }}. {{ member.name }}, ({{ member.year }}), {{ member.info }}
+  {% else %}
+    {{ number_printed }}. {{ member.name }}, ({{ member.year }})
+  {% endif %}
+  
   {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
-
 
