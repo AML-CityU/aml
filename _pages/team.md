@@ -598,7 +598,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 ***
 
 ### MS Students (CityU 1-year MSDS Program)
-<p>
+<p style="line-height: 1.2;">
 {% assign number_printed = 1 %}
 {% for member in site.data.alumni_ms %}
   {% if member.info %}
@@ -613,7 +613,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 ***
 
 ### Visiting Scholars and Onsite/Online RAs
-<p>
+<p style="line-height: 1.2;">
 {% assign number_printed = 1 %}
 {% for member in site.data.alumni_scholar_ra %}
     {% if member.info %}
