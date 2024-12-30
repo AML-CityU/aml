@@ -1,14 +1,14 @@
-- name: Qingqing Yi
-  year: Visiting Student in 2023-2024
-  photo: qingqingyi.jpg
-  info: next position - PhD at SWUFE
-  email: yiqingqing@smail.swufe.edu.cn
+- name: Muyang Li
+  year: Online RA in 2021-2022
+  photo: muyangli.jpg
+  info: BS at University of Auckland, next position - PhD at USYD
+  email:
   number_educ: 0
-- name: Zhenyu Deng
-  year: Visiting Student in 2023-2024
-  photo: zhenyudeng.jpg
-  info: MS at SWPU
-  email: zhenyu_deng@qq.com
+- name: Chuan Lyu
+  year: Online RA in 2021-2022
+  photo: chuanlyu.jpg
+  info: BS at ZJU, next position - PhD at ZJU
+  email:
   number_educ: 0
 - name: Jie Cai
   year: Online RA in 2022-2023
@@ -28,15 +28,16 @@
   info: MS at ZJUT, with Prof Guojiang Shen, next position - PhD at ZJU
   email: nameyzhang@gmail.com
   number_educ: 0
-- name: Muyang Li
-  year: Online RA in 2021-2022
-  photo: muyangli.jpg
-  info: BS at University of Auckland, next position - PhD at USYD
-  email:
+- name: Qingqing Yi
+  year: Visiting Student in 2023-2024
+  photo: qingqingyi.jpg
+  info: next position - PhD at SWUFE
+  email: yiqingqing@smail.swufe.edu.cn
   number_educ: 0
-- name: Chuan Lyu
-  year: Online RA in 2021-2022
-  photo: chuanlyu.jpg
-  info: BS at ZJU, next position - PhD at ZJU
-  email:
+- name: Zhenyu Deng
+  year: Visiting Student in 2023-2024
+  photo: zhenyudeng.jpg
+  info: MS at SWPU
+  email: zhenyu_deng@qq.com
   number_educ: 0
+
