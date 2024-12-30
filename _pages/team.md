@@ -87,7 +87,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 ***
 
-## PostDoc Members
+## Research Fellow and PostDoc Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc23 %}
