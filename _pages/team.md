@@ -252,7 +252,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 ***
 
-## MS Students (CityU 1-year MSDS Program)
+## MS Students (CityU 1-year MS Program)
 
 ### Enrollment Date: 2024
 
@@ -427,7 +427,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 ## Alumni
 
-### PostDoc Members
+### Research Fellow and PostDoc Members
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_postdoc %}
 
@@ -597,7 +597,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students]
 
 ***
 
-### MS Students (CityU 1-year MSDS Program)
+### MS Students (CityU 1-year MS Program)
 <p style="line-height: 1.0; margin: 0; padding: 0;">
 {% assign number_printed = 1 %}
 {% for member in site.data.alumni_ms %}
