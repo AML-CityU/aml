@@ -95,9 +95,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;	Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;COLING'25, Proceedings of the 31st International Conference on Computational Linguistics
 
-[10] A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation\
+[10] [A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation](https://dl.acm.org/doi/10.1145/3706631)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Zhaopeng Qiu, Xiangyu Zhao, Xian Wu, Zijian Zhang, Tong Xu, Feng Tian\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\liu2024contrastive.html)]\
 
 [11] [GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Maolin Wang, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
