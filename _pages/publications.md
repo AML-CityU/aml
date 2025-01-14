@@ -63,7 +63,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yanhui Hu, Xiangyu Zhao, Wei Jiang\
 &nbsp;&nbsp;&nbsp;&nbsp;Technological Forecasting & Social Change
 
-[2] TAPO: Task-Referenced Adaptation for Prompt Optimization\
+[2] [TAPO: Task-Referenced Adaptation for Prompt Optimization](https://arxiv.org/abs/2501.06689)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenxin Luo, Weirui Wang, Xiaopeng Li, Weibo Zhou, Pengyue Jia, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICASSP'25, Proceedings of the 50th International Conference on Acoustics, Speech, and Signal Processing
 
