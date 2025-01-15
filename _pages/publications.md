@@ -123,7 +123,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [2] [Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models](https://openreview.net/forum?id=vCIc9BXzze)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyi Zhou, Xinwei Guo, Jiashi Gao, Xiangyu Zhao, Shiyao Zhang, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
-&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhouunveiling.html)]\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\zhouunveiling.html)]
 
 [3] [Association of Objects May Engender Stereotypes: Mitigating Association-Engendered Stereotypes in Text-to-Image Generation](https://openreview.net/forum?id=shYQXpnBLB)\
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xiangyu Zhao, Xin Yao, Xuetao Wei\
