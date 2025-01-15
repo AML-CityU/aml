@@ -12,7 +12,7 @@ permalink: /team/
  **We are  looking for passionate Postdocs, PhD students, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students](#phd-students), [MS Students](#ms-students-cityu-1-year-msds-program), [Visiting Scholars and Onsite/Online RAs](#visiting-scholars-and-onsiteonline-ras), [Alumni](#alumni).
+Jump to [Faculty](#faculty), [PostDoc Members](#postdoc-members), [PhD Students](#research-fellow-and-postDoc-members), [MS Students](#ms-students-cityu-1-year-ms-program), [Visiting Scholars and Onsite/Online RAs](#visiting-scholars-and-onsiteonline-ras), [Alumni](#alumni).
 
 ## Faculty
 {% assign number_printed = 0 %}
