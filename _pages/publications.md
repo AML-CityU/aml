@@ -59,9 +59,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] The impact of artificial intelligence on carbon market in China: Evidence from quantile-on-quantile regression approach\
-&nbsp;&nbsp;&nbsp;&nbsp;Yanhui Hu, Xiangyu Zhao, Wei Jiang\
-&nbsp;&nbsp;&nbsp;&nbsp;Technological Forecasting & Social Change
+[1] [The impact of artificial intelligence on carbon market in China: Evidence from quantile-on-quantile regression approach](https://www.sciencedirect.com/science/article/abs/pii/S0040162525000046?dgcid=author)\
+&nbsp;&nbsp;&nbsp;&nbsp;Wei Jiang, Yanhui Hu, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Technological Forecasting & Social Change\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({ site.url }{ site.baseurl }./html\JIANG2025123973.html)]
 
 [2] [TAPO: Task-Referenced Adaptation for Prompt Optimization](https://arxiv.org/abs/2501.06689)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenxin Luo, Weirui Wang, Xiaopeng Li, Weibo Zhou, Pengyue Jia, Xiangyu Zhao\
