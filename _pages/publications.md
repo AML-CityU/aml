@@ -74,7 +74,9 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [4] [GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching](https://arxiv.org/pdf/2408.10286)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Zijian Zhang, Xiangyu Zhao, Yuanshao Zhu, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye\
-&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral (4.6%) </font>
+
 
 [5] [Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation](https://arxiv.org/abs/2412.18537)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen\
@@ -82,7 +84,9 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [6] POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral (4.6%) </font>
+
 
 [7] [SIGMA: Selective Gated Mamba for Sequential Recommendation](https://arxiv.org/abs/2408.11451)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao\
@@ -90,7 +94,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [8] [LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation](https://arxiv.org/abs/2409.19925)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Wanyu Wang, Yejing Wang, Yuanshao Zhu, Xiangyu Zhao, Feng Tian, Yefeng Zheng\
-&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral (4.6%) </font>
 
 [9] [LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation](https://arxiv.org/abs/2404.00702)\
 &nbsp;&nbsp;&nbsp;&nbsp;	Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
@@ -119,7 +124,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Feng Tian, Yefeng Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2024llm.html)]\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(2%) </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight (2%) </font>
 
 [2] [Unveiling the Bias Impact on Symmetric Moral Consistency of Large Language Models](https://openreview.net/forum?id=vCIc9BXzze)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyi Zhou, Xinwei Guo, Jiashi Gao, Xiangyu Zhao, Shiyao Zhang, Xin Yao, Xuetao Wei\
@@ -130,7 +135,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xiangyu Zhao, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhouassociation.html)]\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight(2%) </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight (2%) </font>
 
 [4] [G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models](https://arxiv.org/pdf/2405.14702)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
