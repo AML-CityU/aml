@@ -75,7 +75,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [4] [GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching](https://arxiv.org/pdf/2408.10286)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Zijian Zhang, Xiangyu Zhao, Yuanshao Zhu, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral (4.6%) </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.6%) </font>
 
 
 [5] [Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation](https://arxiv.org/abs/2412.18537)\
@@ -85,7 +85,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [6] POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral (4.6%) </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.6%) </font>
 
 
 [7] [SIGMA: Selective Gated Mamba for Sequential Recommendation](https://arxiv.org/abs/2408.11451)\
@@ -95,7 +95,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [8] [LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation](https://arxiv.org/abs/2409.19925)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xian Wu, Wanyu Wang, Yejing Wang, Yuanshao Zhu, Xiangyu Zhao, Feng Tian, Yefeng Zheng\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
-&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral (4.6%) </font>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.6%) </font>
 
 [9] [LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation](https://arxiv.org/abs/2404.00702)\
 &nbsp;&nbsp;&nbsp;&nbsp;	Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
