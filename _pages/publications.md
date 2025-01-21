@@ -105,9 +105,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.6%) </font>
 
-[11] [LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation](https://arxiv.org/abs/2404.00702)\
+[11] [LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation](https://aclanthology.org/2025.coling-main.59/)\
 &nbsp;&nbsp;&nbsp;&nbsp;	Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;COLING'25, Proceedings of the 31st International Conference on Computational Linguistics
+&nbsp;&nbsp;&nbsp;&nbsp;COLING'25, Proceedings of the 31st International Conference on Computational Linguistics\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang-etal-2025-llmtreerec.html)]
 
 [12] [A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation](https://dl.acm.org/doi/10.1145/3706631)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Zhaopeng Qiu, Xiangyu Zhao, Xian Wu, Zijian Zhang, Tong Xu, Feng Tian\
