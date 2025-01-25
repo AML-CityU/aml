@@ -154,9 +154,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhouassociation.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight (2%) </font>
 
-[4] [G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models](https://arxiv.org/pdf/2405.14702)\
+[4] [G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models](https://neurips.cc/virtual/2024/poster/96835)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, Yantong Du, Xiao Han, Xuetao Wei, Shuaiqiang Wang, Dawei Yin\
-&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems
+&nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'24, Proceedings of the 38th Annual Conference on Neural Information Processing Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/jia2024g.html)]
 
 [5] [Does Egalitarian Fairness Lead to Instability? The Fairness Bounds in Stable Federated Learning Under Altruistic Behaviors](https://openreview.net/forum?id=1kyc4TSOFZ)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiashi Gao, Ziwei Wang, Xiangyu Zhao, Xin Yao, Xuetao Wei\
