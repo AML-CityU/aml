@@ -61,7 +61,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2025
 [1] Optimizing Tabular Data Synthesis in Recommendations\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;WWW'25 (industry track), Proceedings of the ACM Web Conference 2025
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'25 (industry track), Proceedings of the ACM Web Conference 2025\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system</font>
 
 [2] GAS: Generative Auto-bidding with Post-training Search\
 &nbsp;&nbsp;&nbsp;&nbsp;Yewen Li, Shuai Mao, Jingtong Gao, Nan Jiang, Yujian Xu, Qingpeng Cai, Fei Pan, Peng Jiang, Bo An\
