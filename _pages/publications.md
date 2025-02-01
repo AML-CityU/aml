@@ -63,7 +63,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Qingqing Yi, Jingjing Tang, Xiangyu Zhao, Yujian Zeng, Zengchun Song\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering
 
-[2] Optimizing Tabular Data Synthesis in Recommendations\
+[2] [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25 (industry track), Proceedings of the ACM Web Conference 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system</font>
@@ -76,7 +76,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
 
-[5] Behavior Modeling Space Reconstruction for E-Commerce Search\
+[5] [Behavior Modeling Space Reconstruction for E-Commerce Search](https://arxiv.org/abs/2501.18216)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Chi Zhang, Xiangyu Zhao, QidongLiu, Maolin Wang, Xuetao Wei, Zitao Liu, XingShi, Yang Xudong, Ling Zhong, Wei Lin\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
 
