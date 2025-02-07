@@ -59,20 +59,21 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] An Adaptive Entire-space Multi-scenario Multi-task Transfer Learning Model for Recommendations\
+[1] [An Adaptive Entire-space Multi-scenario Multi-task Transfer Learning Model for Recommendations](https://www.computer.org/csdl/journal/tk/5555/01/10858412/23VPw4QCkrm)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qingqing Yi, Jingjing Tang, Xiangyu Zhao, Yujian Zeng, Zengchun Song\
-&nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering
+&nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yi2025adaptive.html)]
 
 [2] [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25 (industry track), Proceedings of the ACM Web Conference 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system</font>
 
-[3] GAS: Generative Auto-bidding with Post-training Search\
+[3] [GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yewen Li, Shuai Mao, Jingtong Gao, Nan Jiang, Yujian Xu, Qingpeng Cai, Fei Pan, Peng Jiang, Bo An\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25 (industry track), Proceedings of the ACM Web Conference 2025
 
-[4] LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations\
+[4] [LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433v3)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
 
