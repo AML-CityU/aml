@@ -12,6 +12,10 @@ permalink: /publications/
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ). Please find our open-sourced works on our [Lab GitHub](https://github.com/Applied-Machine-Learning-Lab).
 
 ### Tutorials
+[1] AgentIR: 2nd Workshop on Agent-based Information Retrieval\
+&nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Qingpeng Cai, Xiangyu Zhao, Ling Pan, Xin Xin, Jin Huang, Weinan Zhang, Li Zhao, Dawei Yin and Hui Yang\
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
 [1] Joint Modeling in Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Jingtong Gao, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
